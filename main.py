@@ -14,6 +14,7 @@ from datetime import datetime
 import base64
 import mimetypes
 from pathlib import Path
+from rag_function import run_query
 
 # Configure logging
 logging.basicConfig(
@@ -134,6 +135,20 @@ class MCPServer:
                         }
                     },
                     "required": ["filename", "content"]
+                }
+            },
+            "opportunity_tool": {
+                "name": "opportunity_tool",
+                "description": "A response engine that is trained to answer questions about the current construction project",
+                "inputSchema": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "query from the user"
+                        }
+                    },
+                    "required": ["query"]
                 }
             },
             "placeholder_tool": {
@@ -285,7 +300,13 @@ class MCPServer:
                 return f"Multiplication result: {a} × {b} = {result}"
             except (ValueError, TypeError) as e:
                 return f"Error: Invalid number format - {str(e)}"
-        
+        elif tool_name == "opportunity_tool":
+            query = arguments.get('query', '')
+            if not query:
+                return "Error: Query parameter is required"
+            # Call the RAG function to run the query
+            response = run_query(query)
+            return response.strip() if response else "No response from query engine"
         elif tool_name == "upload_pdf":
             try:
                 filename = arguments.get('filename', '')

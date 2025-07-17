@@ -15,7 +15,11 @@ import uvicorn
 from main import MCPServer, MCPRequest, MCPResponse
 
 # Configure logging
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S"
+)
 logger = logging.getLogger(__name__)
 
 # Initialize FastAPI app
@@ -179,5 +183,11 @@ async def call_tool(request: Request):
 
 # For Azure Web App
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+   port = int(os.environ.get("PORT", 8000))
+   uvicorn.run(
+        "app:app",
+        host="0.0.0.0",
+        port=port,
+        reload=True,
+        log_config="log_config.yaml"
+    )

@@ -5,3 +5,12 @@ uvicorn==0.24.0
 gunicorn==21.2.0
 python-multipart==0.0.6
 websockets==12.0
+pydantic==2.11.4
+openai==1.78.1
+llama-index-core==0.12.35
+llama-index==0.12.35
+llama-index-llms-azure-openai==0.3.2
+llama-index-embeddings-azure-openai==0.3.4
+llama-index-readers-file==0.4.7
+llama-index-embeddings-huggingface==0.5.4
+
