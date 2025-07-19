@@ -14,6 +14,7 @@ from datetime import datetime
 import base64
 import mimetypes
 from pathlib import Path
+from model import castellonian
 
 # Configure logging
 logging.basicConfig(
@@ -134,6 +135,20 @@ class MCPServer:
                         }
                     },
                     "required": ["filename", "content"]
+                }
+            },
+            "castellonian_tool": {
+                "name": "castellonian_tool",
+                "description": "use this function to calculate the castellonian value of a floating point number",
+                "inputSchema": {
+                    "type": "object",
+                    "properties": {
+                        "a": {
+                            "type": "number",
+                            "description": "floating point number to calculate the castellonian value of"
+                        }
+                    },
+                    "required": ["a"]
                 }
             },
             "placeholder_tool": {
@@ -286,6 +301,15 @@ class MCPServer:
             except (ValueError, TypeError) as e:
                 return f"Error: Invalid number format - {str(e)}"
         
+        elif tool_name == "castellonian_tool":
+            try:
+                a = float(arguments.get('a', 0))
+                
+                result = castellonian(a)
+                return f"the castellonian of {a} is {result}"
+            except (ValueError, TypeError) as e:
+                return f"Error: Invalid number format - {str(e)}"
+
         elif tool_name == "upload_pdf":
             try:
                 filename = arguments.get('filename', '')
