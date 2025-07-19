@@ -38,4 +38,5 @@ exec gunicorn app:app \
     --max-requests-jitter 50 \
     --preload \
     --access-logfile - \
-    --error-logfile -
+    --error-logfile - \
+    --log-level debug
