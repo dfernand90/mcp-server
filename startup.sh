@@ -39,4 +39,5 @@ exec gunicorn app:app \
     --preload \
     --access-logfile - \
     --error-logfile - \
+    --access-logformat '%(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"' \
     --log-level debug
