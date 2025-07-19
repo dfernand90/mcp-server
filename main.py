@@ -25,7 +25,7 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("main")
 
 @dataclass
 class MCPRequest:

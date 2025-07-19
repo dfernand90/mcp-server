@@ -16,7 +16,7 @@ from main import MCPServer, MCPRequest, MCPResponse
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("app")
 
 # Initialize FastAPI app
 app = FastAPI(
