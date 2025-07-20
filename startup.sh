@@ -33,7 +33,7 @@ exec gunicorn app:app \
     --workers 4 \
     --worker-class uvicorn.workers.UvicornWorker \
     --timeout 120 \
-    --keep-alive 2 \
+    --keep-alive 75 \
     --max-requests 1000 \
     --max-requests-jitter 50 \
     --preload \
