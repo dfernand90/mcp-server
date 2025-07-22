@@ -78,7 +78,7 @@ async def handle_mcp_request(request: Request):
             params=body.get("params", {}),
             id=body.get("id")
         )
-        logger.info(f"Received method: {request.method}")
+        logger.info(f"Received method: {request.body}")
         response = await mcp_server.handle_request(mcp_request)
         
         response_data = {
@@ -90,7 +90,7 @@ async def handle_mcp_request(request: Request):
             response_data["result"] = response.result
         if response.error is not None:
             response_data["error"] = response.error
-        
+        logger.info(f"Response body: {response_data}")
         return JSONResponse(content=response_data)
         
     except Exception as e:
