@@ -202,6 +202,9 @@ class MCPServer:
         return pdf_path
     async def handle_request(self, request: MCPRequest) -> MCPResponse:
         """Handle incoming MCP requests"""
+        if request.id is None:
+            # It's a notification — do not respond
+            return None
         try:
             logger.info(f"Handling request: {request.method}")
             

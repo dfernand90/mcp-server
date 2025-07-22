@@ -80,7 +80,8 @@ async def handle_mcp_request(request: Request):
         )
         logger.info("Received MCP request:\n%s", json.dumps(body, indent=2))
         response = await mcp_server.handle_request(mcp_request)
-        
+        if response is None:
+            return JSONResponse(status_code=204, content=None)
         response_data = {
             "jsonrpc": "2.0",
             "id": response.id
