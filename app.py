@@ -143,7 +143,7 @@ async def websocket_endpoint(websocket: WebSocket):
                 
                 response_data = {
                     "jsonrpc": "2.0",
-                    "id": response.id
+                    "id": str(response.id)
                 }
                 
                 if response.result is not None:
