@@ -383,6 +383,7 @@ async def mcp_stream_endpoint(request: Request):
                 "result": result
             }
         elif method == "notifications/initialized":
+            logger.info(f"handle request notifications initialized")
             return {
                 "jsonrpc": "2.0",
                 "result": {
