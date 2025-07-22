@@ -84,7 +84,7 @@ async def handle_mcp_request(request: Request):
         if mcp_request.id is None:
             # Notification: do not respond with a full JSON-RPC response
             logger.info("Received notification (no response will be sent).")
-            return PlainTextResponse(content="", media_type="text/event-stream", status_code=200)
+            return None
 
         response_data = {
             "jsonrpc": "2.0",
