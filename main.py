@@ -233,7 +233,7 @@ class MCPServer:
             logger.error(f"Error handling request: {str(e)}")
             return MCPResponse(
                 error={"code": -32603, "message": f"Internal error: {str(e)}"},
-                id=request.id
+                id=str(request.id)
             )
     
     async def _handle_initialize(self, request: MCPRequest) -> MCPResponse:
