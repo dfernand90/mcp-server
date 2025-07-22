@@ -227,13 +227,13 @@ class MCPServer:
             else:
                 return MCPResponse(
                     error={"code": -32601, "message": f"Method not found: {request.method}"},
-                    id=str(request.id)
+                    id=request.id
                 )
         except Exception as e:
             logger.error(f"Error handling request: {str(e)}")
             return MCPResponse(
                 error={"code": -32603, "message": f"Internal error: {str(e)}"},
-                id=str(request.id)
+                id=request.id
             )
     
     async def _handle_initialize(self, request: MCPRequest) -> MCPResponse:

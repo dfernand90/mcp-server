@@ -87,11 +87,10 @@ async def handle_mcp_request(request: Request):
             # Notification: do not respond with a full JSON-RPC response
             logger.info("Received notification (no response will be sent).")
             return None
-        if response.id is not str:
-            logger.warning("Response ID is not a string, converting to string.")
+
         response_data = {
             "jsonrpc": "2.0",
-            "id": str(response.id)
+            "id": response.id
         }
         
         if response.result is not None:
