@@ -243,11 +243,9 @@ class MCPServer:
                 "protocolVersion": "2024-11-05",
                 "capabilities": {
                     "tools": {"listChanged": True},
-                    "resources": {"subscribe": True, "listChanged": True},
-                    "prompts": {"listChanged": True}
                 },
                 "serverInfo": {
-                    "name": "mcp-placeholder-server",
+                    "name": "mcp-castellonian-server",
                     "version": "1.0.0"
                 }
             },
