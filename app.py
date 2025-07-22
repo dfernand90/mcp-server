@@ -104,7 +104,7 @@ async def handle_mcp_request(request: Request):
             yield sse_message
         #
         logger.info("Send MCP response:\n%s", json.dumps(response_data, indent=2))
-        return JSONResponse(content=response_data)
+        return response_data
         
     except Exception as e:
         logger.error(f"Error handling MCP request: {e}")
