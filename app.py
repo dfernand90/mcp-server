@@ -92,7 +92,7 @@ async def handle_mcp_request(request: Request):
                 .get("clientInfo", {})
                 .get("agentName", None)
         )
-        if response.id is not str and agentname is "CastellonianMCPPythontest2":
+        if response.id is not str and agentname == "CastellonianMCPPythontest2":
             logger.warning("Response ID is not a string, converting to string.")
             response.id = str(response.id)
         response_data = {

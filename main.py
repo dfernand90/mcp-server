@@ -238,15 +238,18 @@ class MCPServer:
     
     async def _handle_initialize(self, request: MCPRequest) -> MCPResponse:
         """Handle initialize request"""
+        #tools_list = [tool.dict() for tool in self.tools.values()]
         return MCPResponse(
             result={
                 "protocolVersion": "2024-11-05",
                 "capabilities": {
                     "tools": {"listChanged": True},
+                    #"tools":list(self.tools.values())
                 },
                 "serverInfo": {
                     "name": "mcp-castellonian-server",
-                    "version": "1.0.0"
+                    "version": "1.0.0",
+                    "x-initialToolList": list(self.tools.values())
                 }
             },
             id=request.id
