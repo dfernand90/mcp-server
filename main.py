@@ -243,13 +243,13 @@ class MCPServer:
             result={
                 "protocolVersion": "2024-11-05",
                 "capabilities": {
-                    "tools": {"listChanged": True},
+                    "tools": {"listChanged": False},
                     #"tools":list(self.tools.values())
                 },
                 "serverInfo": {
                     "name": "mcp-castellonian-server",
                     "version": "1.0.0",
-                    "x-initialToolList": list(self.tools.values())
+                    
                 }
             },
             id=request.id
