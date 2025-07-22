@@ -82,8 +82,9 @@ async def handle_mcp_request(request: Request):
         logger.info("Received MCP request:\n%s", json.dumps(body, indent=2))
         response = await mcp_server.handle_request(mcp_request)
         if mcp_request.id is None:
-            # Notification: Do not return a response body
-            return Response(status_code=204)
+            # Notification: do not respond with a full JSON-RPC response
+            logger.info("Received notification (no response will be sent).")
+            return PlainTextResponse(content="", media_type="text/event-stream", status_code=200)
 
         response_data = {
             "jsonrpc": "2.0",
@@ -93,9 +94,9 @@ async def handle_mcp_request(request: Request):
         if response.result is not None:
             response_data["result"] = response.result
         if response.error is not None:
-            response_data["error"] = response.error
-        logger.info("Response body:\n%s", json.dumps(response_data, indent=2))
+            response_data["error"] = response.error        
         sse_data = f"event: message\ndata: {json.dumps(response_data)}\n\n"
+        logger.info("Response body (raw):\n%s", sse_data)
         return PlainTextResponse(content=sse_data, media_type="text/event-stream")
         
     except Exception as e:
@@ -109,6 +110,7 @@ async def handle_mcp_request(request: Request):
             "id": None
         }
         sse_data = f"event: message\ndata: {json.dumps(error_payload)}\n\n"
+        logger.error("Response body (raw):\n%s", sse_data)
         return PlainTextResponse(content=sse_data, media_type="text/event-stream", status_code=200)
 
 @app.websocket("/ws")
