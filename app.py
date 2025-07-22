@@ -90,7 +90,7 @@ async def handle_mcp_request(request: Request):
 
         response_data = {
             "jsonrpc": "2.0",
-            "id": response.id
+            "id": str(response.id)
         }
         
         if response.result is not None:
