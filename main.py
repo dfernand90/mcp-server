@@ -242,7 +242,7 @@ class MCPServer:
             result={
                 "protocolVersion": "2024-11-05",
                 "capabilities": {
-                    "tools": {"listTools": True,"callTool": True},
+                    "tools": {"listChanged": True},
                     "resources": {"subscribe": True, "listChanged": True},
                     "prompts": {"listChanged": True}
                 },

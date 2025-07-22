@@ -11,6 +11,7 @@ from fastapi import FastAPI, Request, Response, HTTPException, WebSocket
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
+from fastapi.responses import PlainTextResponse
 
 from main import MCPServer, MCPRequest, MCPResponse
 
@@ -94,18 +95,21 @@ async def handle_mcp_request(request: Request):
         if response.error is not None:
             response_data["error"] = response.error
         logger.info("Response body:\n%s", json.dumps(response_data, indent=2))
-        return JSONResponse(content=response_data)
+        sse_data = f"event: message\ndata: {json.dumps(response_data)}\n\n"
+        return PlainTextResponse(content=sse_data, media_type="text/event-stream")
         
     except Exception as e:
         logger.error(f"Error handling MCP request: {e}")
-        return JSONResponse(
-            content={
-                "jsonrpc": "2.0",
-                "error": {"code": -32603, "message": f"Internal error: {str(e)}"},
-                "id": None
+        error_payload = {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32603,
+                "message": f"Internal error: {str(e)}"
             },
-            status_code=500
-        )
+            "id": None
+        }
+        sse_data = f"event: message\ndata: {json.dumps(error_payload)}\n\n"
+        return PlainTextResponse(content=sse_data, media_type="text/event-stream", status_code=200)
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
