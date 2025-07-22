@@ -382,6 +382,13 @@ async def mcp_stream_endpoint(request: Request):
                 "id": msg_id,
                 "result": result
             }
+        elif method == "notifications/initialized":
+            return {
+                "jsonrpc": "2.0",
+                "result": {
+                    "ready": True
+                }
+            }
         elif method == "tools/list":
             result = await mcp_server.handle_tools_list(params)
             logger.info(f"send response: {result}")
