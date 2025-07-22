@@ -78,7 +78,7 @@ async def handle_mcp_request(request: Request):
             params=body.get("params", {}),
             id=body.get("id")
         )
-        
+        logger.info(f"Received method: {request.method}")
         response = await mcp_server.handle_request(mcp_request)
         
         response_data = {

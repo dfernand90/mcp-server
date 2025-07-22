@@ -207,6 +207,8 @@ class MCPServer:
             
             if request.method == "initialize":
                 return await self._handle_initialize(request)
+            elif request.method == "tools":
+                return await self._handle_tools_list(request)
             elif request.method == "tools/list":
                 return await self._handle_tools_list(request)
             elif request.method == "tools/call":
@@ -237,7 +239,7 @@ class MCPServer:
             result={
                 "protocolVersion": "2024-11-05",
                 "capabilities": {
-                    "tools": {"listChanged": True},
+                    "tools": {"listTools": True,"callTool": True,"listChanged": True},
                     "resources": {"subscribe": True, "listChanged": True},
                     "prompts": {"listChanged": True}
                 },
@@ -252,7 +254,7 @@ class MCPServer:
     async def _handle_tools_list(self, request: MCPRequest) -> MCPResponse:
         """Handle tools list request"""
         return MCPResponse(
-            result={"tools": list(self.tools.values())},
+            result={"tools":list(self.tools.values())},
             id=request.id
         )
     
