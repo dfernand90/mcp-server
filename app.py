@@ -96,13 +96,15 @@ async def handle_mcp_request(request: Request):
         if response.result is not None:
             response_data["result"] = response.result
         if response.error is not None:
-            response_data["error"] = response.error        
+            response_data["error"] = response.error 
+        # not in use       
         def stream_response():
             sse_message = f"event: message\ndata: {json.dumps(response_data)}\n\n"
             logger.info("Streaming response:\n%s", sse_message)
             yield sse_message
-
-        return StreamingResponse(stream_response(), media_type="text/event-stream")
+        #
+        logger.info("Send MCP response:\n%s", json.dumps(response_data, indent=2))
+        return JSONResponse(content=response_data)
         
     except Exception as e:
         logger.error(f"Error handling MCP request: {e}")
@@ -114,12 +116,23 @@ async def handle_mcp_request(request: Request):
             },
             "id": None
         }
+        # not in use
         def error_stream():
             sse_message = f"event: message\ndata: {json.dumps(error_payload)}\n\n"
             logger.error("Streaming error response:\n%s", sse_message)
             yield sse_message
+        #
+        logger.error("Send MCP response:\n%s", json.dumps(error_payload, indent=2))
+        return JSONResponse(
+            content={
+                "jsonrpc": "2.0",
+                "error": {"code": -32603, "message": f"Internal error: {str(e)}"},
+                "id": None
+            },
+            status_code=500
+        )
 
-        return StreamingResponse(error_stream(), media_type="text/event-stream", status_code=200)
+    
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
     """WebSocket endpoint for MCP communication"""
