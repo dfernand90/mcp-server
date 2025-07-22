@@ -227,7 +227,7 @@ class MCPServer:
             else:
                 return MCPResponse(
                     error={"code": -32601, "message": f"Method not found: {request.method}"},
-                    id=request.id
+                    id=str(request.id)
                 )
         except Exception as e:
             logger.error(f"Error handling request: {str(e)}")
