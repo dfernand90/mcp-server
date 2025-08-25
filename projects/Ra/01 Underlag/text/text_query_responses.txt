@@ -1,0 +1,71 @@
+Query: hva er navn til prosjketet?
+Response: Navnet på prosjektet er "RA Uavhengig prosjekteringskontroll av bruer og konstruksjoner, samt geoteknikk og ingeniørgeologi".
+
+Query: Hvem er kunden?
+Response: Kunden er Oppdragsgiver.
+
+Query: Hva salgs konstruksjon eller konstruksjoner tilhører prosjeket?
+Response: Prosjektet omfatter uavhengig prosjekteringskontroll av bruer og konstruksjoner, samt geoteknikk og ingeniørgeologi.
+
+Query: Hva slags tilbud er dette rammeavtale, minikonkurangse, totalenterprise, direkte rådgivningstjenester?
+Response: Dette tilbudet gjelder en konkurranse med forhandling i to trinn for uavhengig prosjekteringskontroll av bruer og konstruksjoner, samt geoteknikk og ingeniørgeologi. Det er ikke spesifisert som en rammeavtale, minikonkurranse, totalentreprise eller direkte rådgivningstjenester, men det gjennomføres som en anskaffelse med forhandlinger basert på kvalifikasjonsordningen TransQ.
+
+Query: lagre en oppsumering av prosjketet
+Response: Prosjektet omhandler en rammeavtale for uavhengig prosjekteringskontroll av bruer, konstruksjoner, geoteknikk og ingeniørgeologi. Det er vurdert at anskaffelsen har uvesentlig klima- og miljøbelastning, da arbeidet hovedsakelig utføres på kontor, og eventuell reisevirksomhet har marginal betydning. Derfor er det ikke stilt krav eller tildelingskriterier knyttet til klima og miljø. Prekvalifisering gjennomføres via TransQ, og leverandører må fylle ut ESPD-skjema som dokumentasjon på oppfyllelse av kvalifikasjonskrav. Oppdragsgiver kan be om ytterligere dokumentasjon under konkurransen for å sikre en effektiv og korrekt gjennomføring.
+
+Query: når er frist til tilbud leveranse?
+Response: Fristen for tilbudsleveranse er ikke spesifisert i den tilgjengelige informasjonen.
+
+Query: hva er omfang av prosjektet?
+Response: Omfanget av prosjektet innebærer uavhengig prosjekteringskontroll av bruer og konstruksjoner, samt geoteknikk og ingeniørgeologi. Arbeidene er beskrevet i SSA-R Bilag 1, og oppdragsgiver ønsker å inngå inntil 6 parallelle rammeavtaler med en maksimal verdi av alle avrop på 200 000 000 kr ekskl. mva.
+
+Query: hva varighet på prosjekt?
+Response: Avtalens varighet er 2 år fra ikrafttredelsesdato, med mulighet for forlengelse i ytterligere 2 år + 2 år + 1 år + 1 år, som gir en maksimal varighet på 8 år.
+
+Query: kan du finner prosjekt øsnket startdato
+Response: Ønsket startdato for prosjektet er ikke spesifikt angitt, men oppstartsmøte/kontraktsmøte med leverandøren skal gjennomføres etter avtale.
+
+Query: kan du finer prosjekt øsnket sluttsdato
+Response: Den ønskede sluttdatoen for prosjektet er ikke spesifikt oppgitt i informasjonen. Det nærmeste relevante tidspunktet er vedståelsesfristen, som er satt til 31.10.2025.
+
+Query: Hva skal vi levere i tilbudet?
+Response: I tilbudet skal dere levere følgende dokumentasjon:
+
+1. **Signert tilbudsbrev** - Signert av en bemyndiget person. Hvis signaturen skjer etter delegert fullmakt, må dokumentasjon på fullmakt vedlegges.
+2. **Dokumentasjon på tildelingskriterier** - Dette inkluderer dokumentasjon i henhold til kravene for tildelingskriterier. Det er ikke nødvendig å fylle ut den underliggende kontrakten (NS 8402), da denne brukes ved minikonkurranse.
+3. **Skjema for avvik** - Utfylt skjema for eventuelle avvik.
+4. **Utfylt ESPD-skjema** - Elektronisk standard skjema for egenerklæring.
+
+Husk at tilbudet skal leveres elektronisk via KGV, og det er ikke anledning til å levere tilbudet på andre måter.
+
+Query: Må vi levere CV?
+Response: Ja, det er krav om å levere CV for tilbudt personell/nøkkelressurser. Det skal benyttes en spesifisert CV-mal, og det kan oppgis maksimalt 6 referanseoppdrag per nøkkelressurs.
+
+Query: Må vi levere priskjema?
+Response: Ja, prisskjema må leveres. Det er spesifisert at oppdragsgiveren ber leverandøren oppgi timepris på alle stillingskategorier, og et utfylt prisskjema (Bilag 5-1) er påkrevd som dokumentasjon for tildelingskriteriet knyttet til pris.
+
+Query: Må vi levere oppgaveforståelse?
+Response: Det er ikke spesifisert i informasjonen at oppgaveforståelse må leveres. Det anbefales å følge kravene og dokumentasjonskravene som er angitt i anskaffelsesdokumentene, og dersom oppgaveforståelse er påkrevd, vil dette fremgå der.
+
+Query: Skrive en leveranse lista i følge grunnlaget
+Response: For å skrive en leveranseliste i henhold til grunnlaget, bør følgende dokumentasjon inkluderes i tilbudet:
+
+1. **Signert tilbudsbrev** - Brevet skal være signert av en bemyndiget person. Dersom signaturen er gitt etter delegert fullmakt, må dokumentasjon på fullmakten vedlegges.
+
+2. **Dokumentasjon på tildelingskriterier** - Dette inkluderer dokumentasjon som viser hvordan leverandøren oppfyller tildelingskriteriene.
+
+3. **Skjema for avvik** - Utfylt skjema som tydelig angir eventuelle avvik fra anskaffelsesdokumentene.
+
+4. **Utfylt ESPD-skjema** - Leverandøren må levere et korrekt utfylt og signert ESPD-skjema.
+
+5. **Kopi av signert utkast til arbeidsfellesskapserklæring** - Kun aktuelt dersom leverandøren inngår i et arbeidsfellesskap.
+
+6. **Dokumentasjon på kvalifikasjonskrav** - Bekreftelse på at leverandøren oppfyller de relevante kvalifikasjonskravene.
+
+7. **Utfylt og signert Egenerklæring Integritet** - En erklæring som bekrefter leverandørens integritet.
+
+Alle dokumentene skal leveres elektronisk via KGV innen fristen, og det er ikke tillatt å levere tilbudet via e-post eller andre kanaler.
+
+Query: Hvilken fag var førespurt? (fag kan vare Geo, Konstruksjon, Vei, Vann, Prosject Management)
+Response: Fagene som var forespurt inkluderer geoteknikk, ingeniørgeologi og prosjekteringskontroll av bruer og konstruksjoner.
+

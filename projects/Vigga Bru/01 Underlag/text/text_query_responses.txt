@@ -1,0 +1,123 @@
+Query: hva er navn til prosjketet?
+Response: Navnet på prosjektet er "Fv. 255 Vigga bru".
+
+Query: Hvem er kunden?
+Response: Kunden er Innlandet fylkeskommune.
+
+Query: Hva salgs konstruksjon eller konstruksjoner tilhører prosjeket?
+Response: Prosjektet inkluderer konstruksjoner som bru eller kulvert. Det innebærer komplett detaljprosjektering av bru/kulvert, inkludert utforming, dimensjonering, arbeidstegninger, bøyelister, terreng- og erosjonssikring, samt utarbeidelse av fagmodeller og modellgrunnlag i henhold til relevante standarder.
+
+Query: Hva slags tilbud er dette rammeavtale, minikonkurangse, totalenterprise, direkte rådgivningstjenester?
+Response: Dette tilbudet er en minikonkurranse innenfor en dynamisk innkjøpsordning for fylkesveg-konsulent- og rådgivningstjenester.
+
+Query: lagre en oppsumering av prosjketet
+Response: Prosjektet omfatter detaljprosjektering og byggeplanlegging av en ny Vigga bru for å erstatte eksisterende kulvert som har kapasitetsutfordringer. Målet er å sikre en bru med større kapasitet og en lysåpning på 4 m bredde og 2 m høyde, samt en lengde som gir 7,5 m vegbredde. Prosjektet inkluderer også prosjektering av interimsløsning under byggeperioden, brurekkverk, og godkjenning av konstruksjonen hos Vegdirektoratet. Det skal utarbeides en miljøsaneringsplan for fjerning av eksisterende bru, og leverandøren skal levere ferdig D-kapittel til konkurransegrunnlaget. Økonomiske rammer for prosjektet er anslått til ca. 22,2 mill. kr i handlingsprogrammet for 2026-2029.
+
+Query: når er frist til tilbud leveranse?
+Response: Fristen for tilbudsleveranse er i henhold til dato oppgitt i Mercell.
+
+Query: hva er omfang av prosjektet?
+Response: Omfanget av prosjektet inkluderer detaljprosjektering og byggeplan for en ny Vigga bru/kulvert med større kapasitet. Dette omfatter blant annet:
+
+- Detaljprosjektering av konstruksjonen, inkludert rekkverksløsning, byggeplan, og kontroll/godkjenning av konstruksjonen hos Vegdirektoratet.
+- Utarbeidelse av en bru/kulvert med en lysåpning på 4 meter bredde og 2 meter høyde, samt en lengde som sikrer 7,5 meter vegbredde på fylkesvegen.
+- Prosjektering av interimsløsning i byggeperioden, inkludert dimensjonering av rør i bekken.
+- Detaljering og godkjenning av brurekkverk.
+- Ivaretakelse av tilgrensende avkjørsler på østsiden av fylkesvegen, med vurdering av boligadkomst på nordsiden av brua.
+- Komplett bruprosjektering, inkludert terreng- og erosjonssikring, arbeidstegninger, bøyelister, og fagmodell i henhold til gjeldende standarder.
+- Geoteknisk prosjektering basert på grunnundersøkelser som skal utføres av oppdragsgiver.
+
+Prosjektet skal resultere i et byggeklart prosjekt godkjent av Vegdirektoratet, med fokus på funksjonalitet og kostnadseffektivitet.
+
+Query: hva varighet på prosjekt?
+Response: Varigheten på prosjektet er fra 1. juni 2025 til juni 2026.
+
+Query: kan du finner prosjekt øsnket startdato
+Response: Ønsket startdato for prosjektet er 01.06.2025.
+
+Query: kan du finer prosjekt øsnket sluttsdato
+Response: Prosjektets ønskede sluttdato er juni 2026.
+
+Query: Hva skal vi levere i tilbudet?
+Response: I tilbudet skal dere levere følgende:
+
+1. **Prising av oppfølging i byggetid**: 20 timer for oppfølging i byggetid skal prises inn, og timepris for medgåtte timer skal oppgis.
+
+2. **Miljøsaneringsplan**: En miljøsaneringsplan i henhold til plan- og bygningsloven og byggteknisk forskrift TEK17 (§9-6 og 9-7).
+
+3. **Møtevirksomhet**: Prising av 12 timer møtevirksomhet med Innlandet fylkeskommune (Teams/fysisk), inkludert oppdragsleder og nødvendige fagressurser.
+
+4. **Oppstartsmøte og inspeksjon**: Prising av oppstartsmøte inkludert inspeksjon av eksisterende bru/kulvert i prosjektområdet, med oppdragsleder og nødvendige fagressurser.
+
+5. **Befaring**: Prising av én befaring.
+
+6. **Kostnader for prosjektering**: Nødvendige avklaringer og statusrapportering skal inngå i kostnaden for prosjektering.
+
+7. **Sikkerhet og HMS**: Sørge for sikker jobb-analyse, HMS-ansvar, godkjente verneklær og utstyr for egne ansatte ved befaringer.
+
+8. **Dokumentleveranser**: Alle skriftlige leveranser skal være på norsk, redigerbare for oppdragsgiver, og leveres i fylkets Quadri-server. Fagmodell skal leveres i IFC-format og programmets native format.
+
+9. **Kort tekstlig beskrivelse**: En oppsummering av det som er prosjektert og vurderingene som er gjort underveis.
+
+10. **Kompetansedokumentasjon**: Bekreftelse på kompetanse og annen dokumentasjon som oppdragsgiver måtte etterspørre.
+
+11. **Forsikringsbevis**: Kopi av forsikringsbevis før arbeidene starter, og ved endringer eller fornyelse.
+
+12. **Timesats for endringsarbeid**: Oppgi timesats for endringsarbeid i prisskjemaet. 
+
+13. **Tillatelser og løyver**: Sørge for nødvendige godkjenninger, tillatelser, løyver og dispensasjoner for maskiner, personell og utstyr.
+
+Query: Må vi levere CV?
+Response: Ja, CV-er må leveres. De skal spesifiseres i henhold til oppdraget, tydelig vise særlig kompetanse og erfaring, og inneholde en kort innledende beskrivelse av relevansen for oppdraget.
+
+Query: Må vi levere priskjema?
+Response: Ja, prisskjema må leveres. Tilbyder skal fylle ut vedlegg 1 - Prisskjema, og den tilbudte fastprisen skal omfatte de avtalte prosjekteringsarbeidene.
+
+Query: Må vi levere oppgaveforståelse?
+Response: Det er ingen spesifikk informasjon som indikerer at en oppgaveforståelse må leveres. Det som er nevnt er krav til dokumentleveranser, inkludert en kort tekstlig beskrivelse som oppsummerer det som er prosjektert og vurderingene som er gjort underveis. Dette kan tolkes som en del av dokumentasjonskravene, men det er ikke eksplisitt nevnt som en "oppgaveforståelse".
+
+Query: Skrive en leveranse lista i følge grunnlaget
+Response: En leveranseliste i henhold til grunnlaget kan inkludere følgende punkter:
+
+1. **Byggeplan og konkurransegrunnlag**  
+   - Detaljering av tiltaket (byggeplan konstruksjon og brurekkverk).  
+   - Utarbeidelse av D-kapittel for konkurransegrunnlaget.  
+
+2. **Oppfølging i byggetid**  
+   - 20 timer oppfølging prises inn.  
+   - Utarbeidelse og levering av "som bygd"- og forvaltningsdokumentasjon for bru.  
+
+3. **Miljøsaneringsplan**  
+   - Utarbeidelse av miljøsaneringsplan i henhold til TEK17 (§9-6 og 9-7).  
+
+4. **Møter og samarbeid**  
+   - Oppstartsmøte inkludert inspeksjon av eksisterende bru/kulvert.  
+   - 12 timer møtevirksomhet med Innlandet fylkeskommune.  
+   - 1 befaring.  
+
+5. **Dokumentleveranser**  
+   - Skriftlige leveranser på norsk i redigerbart format.  
+   - Levering i fylkets Quadri-server.  
+   - Fagmodell i IFC-format og programmets native format.  
+   - Kort tekstlig beskrivelse som oppsummerer prosjekteringen.  
+
+6. **Grunnlagsdata**  
+   - Etablering av terrengoverflatemodell for prosjektet.  
+   - Faglig vurdering av eksisterende datasett og målemetoder.  
+
+7. **Kvalitetssikring**  
+   - Kontraktspesifikk kvalitetsplan som inkluderer:  
+     - Organisasjonsplan med nøkkelpersoner og ansvar.  
+     - Kontrollplan med sjekklister og krav til sidemannskontroll, tverrfaglig kontroll, og tredjepartskontroll.  
+
+Dette er en oversikt over leveranser som skal oppfylle kravene i grunnlaget.
+
+Query: Hvilken fag var førespurt? (fag kan vare Geo, Konstruksjon, Vei, Vann, Prosject Management)
+Response: De forespurte fagene er:  
+- Oppdragsledelse/prosjekteringsledelse (Project Management)  
+- Bru/konstruksjon på offentlig bilveg (Konstruksjon)  
+- Vegprosjektering og trafikksikkerhet (Vei)  
+- BIM  
+- Miljøsanering  
+- Kontroll og godkjenning av bruer i vegdirektoratet
+

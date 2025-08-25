@@ -1,0 +1,1677 @@
+{
+    "_id": "66ebe01901cfda05e66679aa",
+    "bruker_id": "66ebe01967c4fc2036f71065",
+    "user_id": "66ebe01967c4fc2036f71065",
+    "tilbud_id": null,
+    "name": "Dario Castellon",
+    "navn": "Dario Castellon",
+    "name_multilang": {},
+    "title": {
+        "int": "",
+        "no": "Ph.D. i Konstruksjonsteknikk"
+    },
+    "telefon": "+4793431990",
+    "landline": null,
+    "twitter": null,
+    "level": null,
+    "born_day": 1,
+    "born_month": 1,
+    "born_year": 1990,
+    "default": true,
+    "nationality": {
+        "int": "",
+        "no": "Colombia"
+    },
+    "place_of_residence": {
+        "int": "",
+        "no": "Oslo"
+    },
+    "status": null,
+    "order": null,
+    "owner_updated_at": "2025-04-24T13:59:43.000Z",
+    "owner_updated_at_significant": "2025-04-24T13:59:23.000Z",
+    "imported_date": null,
+    "created_at": "2024-09-19T08:26:01.942Z",
+    "updated_at": "2025-04-24T13:59:43.000Z",
+    "version": 37,
+    "modifier_id": null,
+    "company_id": "582d9aeb2c04d615d6a569b8",
+    "external_unique_id": "gsg945",
+    "email": "dario.castellon@afry.com",
+    "country_code": "no",
+    "language_code": "no",
+    "language_codes": [
+        "no",
+        "int"
+    ],
+    "proposal": null,
+    "telephone": "+4793431990",
+    "technologies": [
+        {
+            "_id": "66ebe01a67c4fc2036f7106b",
+            "category": {},
+            "created_at": "2024-09-19T08:26:01.942Z",
+            "disabled": true,
+            "diverged_from_master": false,
+            "exclude_tags": [],
+            "external_unique_id": null,
+            "modifier_id": null,
+            "order": 0,
+            "origin_id": null,
+            "owner_updated_at": null,
+            "recently_added": false,
+            "starred": false,
+            "uncategorized": true,
+            "updated_at": "2024-09-19T12:21:41.538Z",
+            "version": 1,
+            "technology_skills": [
+                {
+                    "_id": "66ec0b9819322a2000d2df8c",
+                    "tags": {
+                        "no": "Bridge - Infrastructure"
+                    },
+                    "proficiency": 0,
+                    "order": 8,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": 1,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec0b6e04d78e0040614bec",
+                    "tags": {
+                        "no": "3D modellering"
+                    },
+                    "proficiency": 0,
+                    "order": 7,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": 1,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec0bb37dbc6800467db5df",
+                    "tags": {
+                        "no": "Norm- Norsk Standard (NS) /NORSOK (Norwegian Standard)"
+                    },
+                    "proficiency": 0,
+                    "order": 9,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": 1,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec040667c4fc0034f72fec",
+                    "tags": {
+                        "no": "Bygningskonstruksjoner - Stål"
+                    },
+                    "proficiency": 0,
+                    "order": 2,
+                    "total_duration_in_years": 6,
+                    "base_duration_in_years": 1,
+                    "offset_duration_in_years": 5,
+                    "version": 6,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec040b67c4fc003ef728b3",
+                    "tags": {
+                        "no": "FEM analysis"
+                    },
+                    "proficiency": 0,
+                    "order": 4,
+                    "total_duration_in_years": 6,
+                    "base_duration_in_years": 1,
+                    "offset_duration_in_years": 5,
+                    "version": 4,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec05050f78bb00393fccb1",
+                    "tags": {
+                        "no": "stålkjernepeler"
+                    },
+                    "proficiency": 0,
+                    "order": 5,
+                    "total_duration_in_years": 1,
+                    "base_duration_in_years": 1,
+                    "offset_duration_in_years": 0,
+                    "version": 2,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec050af4cdd8003fbc9d31",
+                    "tags": {
+                        "no": "Detaljprosjektering av stålkonstruksjoner, knutepunkter"
+                    },
+                    "proficiency": 0,
+                    "order": 6,
+                    "total_duration_in_years": 6,
+                    "base_duration_in_years": 1,
+                    "offset_duration_in_years": 5,
+                    "version": 4,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec04076483ff003c33c2be",
+                    "tags": {
+                        "no": "Bygningskonstruksjoner - Betong"
+                    },
+                    "proficiency": 0,
+                    "order": 3,
+                    "total_duration_in_years": 6,
+                    "base_duration_in_years": 1,
+                    "offset_duration_in_years": 5,
+                    "version": 3,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "category": {
+                "no": "Applikasjoner og verktøy"
+            },
+            "uncategorized": false,
+            "exclude_tags": [],
+            "technology_skills": [
+                {
+                    "_id": "66ec0afe465e870030fb46de",
+                    "tags": {
+                        "no": "Python"
+                    },
+                    "proficiency": 0,
+                    "order": 1,
+                    "total_duration_in_years": 5,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 5,
+                    "version": 2,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec0b2d1b09280034829522",
+                    "tags": {
+                        "no": "AutoCAD"
+                    },
+                    "proficiency": 0,
+                    "order": 2,
+                    "total_duration_in_years": 10,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 10,
+                    "version": 1,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec0b3477065600448f933f",
+                    "tags": {
+                        "no": "Autodesk Revit"
+                    },
+                    "proficiency": 0,
+                    "order": 3,
+                    "total_duration_in_years": 2,
+                    "base_duration_in_years": 1,
+                    "offset_duration_in_years": 1,
+                    "version": 1,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec0b4e465e870034fb4243",
+                    "tags": {
+                        "no": "FEM-Design"
+                    },
+                    "proficiency": 0,
+                    "order": 4,
+                    "total_duration_in_years": 2,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 2,
+                    "version": 4,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "_id": "66ec0afe1b09280030829b92",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 2,
+            "updated_at": "2024-09-19T11:30:28.365Z",
+            "created_at": "2024-09-19T11:29:02.364Z",
+            "owner_updated_at": "2024-09-19T11:30:28.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "key_qualifications": [
+        {
+            "label": {},
+            "long_description": {
+                "no": "Personlige egenskaper: Dario er en dedikert og målrettet senioringeniør som hele tiden streber etter å finne innovative løsninger. Han har en utmerket evne til å bygge relasjoner og holde seg oppdatert med den nyeste faglige utviklingen. Med en særlig interesse for brodynamikk og digitale teknologier, inkludert kunstig intelligens, bringer han betydelig verdi til ethvert prosjekt han deltar i.\n\nFaglige kvalifikasjoner: Dario har 6 års omfattende erfaring innen konstruksjon. I løpet av 4 år har han arbeidet som forsker med fokus på broaerodynamikk og integrering av digitale teknologier som kunstig intelligens i miljølastmodeller. Han har også 2 års erfaring som sivilingeniør innen prosjektering av diverse konstruksjoner, blant annet betong- og stålkonstruksjoner for industribygg, boliger og institusjonelle prosjekter. Dario har vært involvert i utvikling av AI-verktøy for byggebransjen, noe som ytterligere understreker hans tekniske dyktighet.\n\nDarios omfattende kompetanse i avanserte programvarer som Revit, Rhino, FEM Design, samt programmering i Python og C#, gjør ham til en uunnværlig ressurs. Denne kombinasjonen av teknisk kunnskap og praktisk erfaring sikrer høy kvalitet og pålitelighet i gjennomføringen av prosjekter, spesielt for Vigga bru-prosjektet."
+            },
+            "tag_line": {},
+            "_id": "66ec09730f78bb00343fd347",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 53,
+            "updated_at": "2024-09-19T11:27:13.285Z",
+            "created_at": "2024-09-19T11:22:27.374Z",
+            "owner_updated_at": "2024-09-19T11:27:18.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "cv_roles": [
+        {
+            "name": {
+                "int": "Advisor",
+                "no": "Rådgivende ingeniør byggeteknikk (RIB)"
+            },
+            "starred_order": null,
+            "years_of_experience": 1,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "66ebec8c67c4fc0034f72832",
+                    "roles": [
+                        {
+                            "_id": "66ebedb5465e870034fb3d90"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "66ebedc50f78bb00303fc5b6",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "version": 8,
+            "updated_at": "2025-03-20T11:51:17.000Z",
+            "created_at": "2024-09-19T09:24:21.732Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Rådgivende ingeniør byggeteknikk (RIB)"
+            },
+            "starred_order": null,
+            "years_of_experience": 1,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "66ec042b19322a0040d2f0dc",
+                    "roles": [
+                        {
+                            "_id": "66ec048577065600448f91f4"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "66ec035919322a0045d2f292",
+                    "roles": [
+                        {
+                            "_id": "66ec03d26483ff003c33c2aa"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "66ec03d9465e870030fb4543",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "version": 2,
+            "updated_at": "2025-03-20T11:51:09.000Z",
+            "created_at": "2024-09-19T10:58:33.249Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Displiningeniør bru"
+            },
+            "starred_order": null,
+            "years_of_experience": 1,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "66ec14a56483ff003033c8bc",
+                    "roles": [
+                        {
+                            "_id": "66ec15c3465e87003efb4551"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "66ec15c7465e87003efb4554",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "version": 9,
+            "updated_at": "2024-09-19T12:15:43.065Z",
+            "created_at": "2024-09-19T12:15:04.051Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "work_experiences": [
+        {
+            "description": {
+                "int": "",
+                "no": "Sivilingeniør"
+            },
+            "employer": {
+                "int": "",
+                "no": "WSP"
+            },
+            "long_description": {
+                "no": "Sivilingeniør"
+            },
+            "month_from": "06",
+            "month_to": "10",
+            "year_from": "2014",
+            "year_to": "2015",
+            "_id": "66ec0e1f04d78e0040614c9f",
+            "order": 7,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 22,
+            "updated_at": "2024-09-19T11:47:21.915Z",
+            "created_at": "2024-09-19T11:42:23.884Z",
+            "owner_updated_at": "2024-09-19T11:44:23.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": "Doktorgradsstipendiat"
+            },
+            "employer": {
+                "int": "",
+                "no": "NTNU"
+            },
+            "long_description": {
+                "no": "Jobbet som forsker i forbindelse med forskerutdanning (PhD)."
+            },
+            "month_from": "01",
+            "month_to": "07",
+            "year_from": "2019",
+            "year_to": "2022",
+            "_id": "66ec0e991b092800458291cf",
+            "order": 5,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 13,
+            "updated_at": "2024-09-19T11:47:21.929Z",
+            "created_at": "2024-09-19T11:44:25.449Z",
+            "owner_updated_at": "2024-09-19T11:45:12.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": "Sivilingeniør "
+            },
+            "employer": {
+                "int": "",
+                "no": "AFRY"
+            },
+            "long_description": {
+                "no": "Sivilingeniør. \nArbeidsoppgaver: \n- Uavhengig kontroll av bygg\n- Tilbudsarbeid og utarbeidelse av tilbudsdokumenter\n- Analyser i FEM Design \n- Modellering i Revit "
+            },
+            "month_from": "08",
+            "month_to": "03",
+            "year_from": "2022",
+            "year_to": "2024",
+            "_id": "66ec0eda19322a0035d2f88a",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 30,
+            "updated_at": "2025-03-27T08:26:57.000Z",
+            "created_at": "2024-09-19T11:45:30.243Z",
+            "owner_updated_at": "2024-09-19T11:46:28.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": "Domain expert"
+            },
+            "employer": {
+                "int": "",
+                "no": "Consigli AS"
+            },
+            "long_description": {},
+            "month_from": "04",
+            "month_to": "08",
+            "year_from": "2024",
+            "year_to": "2024",
+            "_id": "66ec0f16f4cdd8003abc9c1c",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 10,
+            "updated_at": "2024-09-19T11:47:21.944Z",
+            "created_at": "2024-09-19T11:46:30.952Z",
+            "owner_updated_at": "2024-09-19T11:47:20.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": " Bruingeniør"
+            },
+            "employer": {
+                "int": "",
+                "no": "AFRY"
+            },
+            "long_description": {
+                "no": "Sivilingeniør. \nArbeidsoppgaver: \n- Modellering i Tekla Structures og Grasshopper"
+            },
+            "month_from": "09",
+            "month_to": null,
+            "year_from": "2024",
+            "year_to": null,
+            "_id": "66ec0f4a1b092800348295fc",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 19,
+            "updated_at": "2025-03-27T08:37:19.000Z",
+            "created_at": "2024-09-19T11:47:22.146Z",
+            "owner_updated_at": "2024-09-19T11:47:44.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "project_experiences": [
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Freyr Battery Norway",
+                "no": "Freyr Battery Norway"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "no": "Freyr Battery jobber for å tilby en ren nordisk løsning på den raskt økende globale etterspørselen etter høytytende og kostnadseffektive battericeller for stasjonær energilagring (ESS), elektrisk mobilitet og maritime anvendelser."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {
+                "no": ""
+            },
+            "description": {
+                "int": "",
+                "no": "Uavhengig kontroll - Freyr Batterifabrikk - Mo i Rana"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Industri"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "no": "Freyr Battery Norway AS (Freyr) planlegger å bygge fabrikker for produksjon av opptil 43 GWh battericellekapasitet innen 2025 og opptil 83 GWh i årlig kapasitet i 2028. De første fabrikkene på til sammen 13.000 m2 vil bli etablert i Mo I Rana Industripark i Norge.\n\nOppdraget innbefatter uavhengig kontroll av alle fagområder. Innen konstruksjonssikkerhet er byggene definert i tiltaksklasse 3. Leverandøren skal levere ferdig detaljprosjekterte og byggeklare planer som er godkjent av relevante myndigheter. Det er viktig at leverandøren leverer et funksjonelt prosjekt med fokus på kostnadseffektivitet. Leverandøren skal også vurdere risiko for sikkerhet, helse og arbeidsmiljø (SHA) under utførelsen av anleggsarbeidene og ivareta hensynet til ytre miljø (YM). Alle leveranser må gjennomgå kvalitetssikring og følge oppdragsgivers godkjenningsrutiner. Leverandøren må sikre sin uavhengighet og kan ikke påta seg andre oppgaver som kan medføre interessekonflikter med dette oppdraget."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "10",
+            "month_to": "02",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2022",
+            "year_to": "2024",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "66ebedb5465e870034fb3d90",
+                    "cv_role_id": "66ebedc50f78bb00303fc5b6",
+                    "name": {
+                        "int": "Advisor",
+                        "no": "Rådgivende ingeniør byggeteknikk (RIB)"
+                    },
+                    "long_description": {
+                        "no": "Ansvar for uavhengig kontroll konstruksjonssikkerhet prosjektering og utførelse."
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 10,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "66ebec8c67c4fc0034f72832",
+            "order": 3,
+            "external_unique_id": null,
+            "version": 35,
+            "updated_at": "2024-09-19T12:10:13.018Z",
+            "created_at": "2024-09-19T09:19:08.506Z",
+            "owner_updated_at": "2024-09-19T10:55:32.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": "1600",
+            "area_unit": "m^2",
+            "customer": {
+                "int": "Karl-Ove Bjørnstad AS",
+                "no": "Karl-Ove Bjørnstad AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": ""
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {
+                "int": "",
+                "no": ""
+            },
+            "description": {
+                "int": "",
+                "no": "Via Rosendal"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bolig"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "To new buildings will be constructed at Innherredsveien 103 in Trondheim. Building A consists of three floors above ground and an attic. Building B consists of four floors above ground and an attic. Both buildings share a common basement with a garage and storage rooms. The buildings will be used for residential and commercial purposes with parking in the basement.\n\nThe foundation will be a cast-in-place concrete slab. Walls around the elevator shaft will be made of prefabricated concrete, while the rest of the load-bearing walls will be cast-in-place concrete. The load-bearing system consists of concrete beams, concrete columns, steel columns, wind bracing in steel, and flat slabs.\n\nAFRY is responsible for structural safety, including global analysis, the design of cast-in-place concrete structures, and the design of steel structures.\n\nAFRY's expertise includes structural engineering (RIB)."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "10",
+            "month_to": "03",
+            "percent_allocated": null,
+            "project_extent_amt": "890000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {
+                "int": "",
+                "no": "Detaljprosjektering i totalentreprise"
+            },
+            "reference_project_id": "65faa49f7122fe0048c10944",
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2023",
+            "year_to": "2024",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "66ec03d26483ff003c33c2aa",
+                    "cv_role_id": "66ec03d9465e870030fb4543",
+                    "name": {
+                        "no": "Rådgivende ingeniør byggeteknikk (RIB)"
+                    },
+                    "long_description": {
+                        "no": "Ansvar for modellering av bærende konstruksjoner og armering, utarbeidelse av arbeidstegninger."
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 8,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "project_experience_skills": [
+                {
+                    "_id": "66ec040104d78e0035614907",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Autodesk Revit"
+                    },
+                    "order": 1,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec040567c4fc0034f72fe8",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Bygningskonstruksjoner - Stål"
+                    },
+                    "order": 2,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec040667c4fc0030f735d5",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Bygningskonstruksjoner - Betong"
+                    },
+                    "order": 3,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec040a0f78bb003f3fd43c",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "FEM analysis"
+                    },
+                    "order": 4,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "custom_fields": [],
+            "_id": "66ec035919322a0045d2f292",
+            "order": 1,
+            "external_unique_id": null,
+            "version": 22,
+            "updated_at": "2024-09-19T12:10:13.030Z",
+            "created_at": "2024-09-19T10:56:26.053Z",
+            "owner_updated_at": "2024-09-19T10:59:22.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Norske Skog Skogn AS",
+                "no": "Norske Skog Skogn AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": "Norske Skog Skogn produserer på tre papirmaskiner som til sammen har en produksjonskapasitet på omtrent 500.000 tonn papir pr. år. Dette gjør Norske Skog Skogn til en av Europas største produsenter av avispapir. Storbritannia er deres hovedmarked. Norske Skog Skogn har i flere tiår vært en hjørnesteinsbedrift i lokalsamfunnet. Fabrikken ble etablert i 1962 under navnet \"Nordenfjelske Treforedling\". På bedriften jobber 370 medarbeidere og 25 lærlinger."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {
+                "int": "",
+                "no": ""
+            },
+            "description": {
+                "int": "",
+                "no": "Norske Skog - Ny Dampomformer"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Norske Skog Skogn planlegger å anskaffe en ny dampomformer som vil bli plassert i et nytt bygg ved siden av det eksisterende. Oppdraget består av både forprosjekt og detaljprosjekt, inkludert forprosjektering, kostnadsberegning, og full detaljprosjektering av bygget. Bygget har en grunnflate på omtrent 13 x 9 meter og en høyde på 20 meter. Overbygningen vil bestå av stålkonstruksjoner kledd med sandwichpaneler, og fundamentet vil være en tykk betongplate som står på peler til fjell. AFRY vil ha ansvar for all byggprosjektering og prosjektering for prosessteknikk. RIB vil ha ansvar for konstruksjonssikkerhet, inkludert globalanalyse, dimensjonering av bæresystemet, samt utarbeidelse av NS 3420-beskrivelse og arbeidstegninger. Bygningskategorien er industri, tiltaksklassen er 2, og prosjektfasen er detaljkonstruksjon/detaljprosjektering."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "06",
+            "month_to": "12",
+            "percent_allocated": null,
+            "project_extent_amt": "10000000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {
+                "int": "",
+                "no": "8406 - Generalentreprise"
+            },
+            "reference_project_id": "667c19974dd62000434db6b8",
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2023",
+            "year_to": "2023",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "66ec048577065600448f91f4",
+                    "cv_role_id": "66ec03d9465e870030fb4543",
+                    "name": {
+                        "no": "Rådgivende ingeniør byggeteknikk (RIB)"
+                    },
+                    "long_description": {
+                        "no": "Ansvar for globalanalyse og detaljprosjektering av betong- og stålkonstruksjoner."
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 13,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "project_experience_skills": [
+                {
+                    "_id": "66ec04e06483ff004633c5be",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Bygningskonstruksjoner - Betong"
+                    },
+                    "order": 1,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec04f8f4cdd80045bca79d",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "FEM analysis"
+                    },
+                    "order": 2,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec05047dbc6800467db51d",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "stålkjernepeler"
+                    },
+                    "order": 3,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "66ec0509f4cdd80030bc9e9b",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Detaljprosjektering av stålkonstruksjoner, knutepunkter"
+                    },
+                    "order": 4,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "custom_fields": [],
+            "_id": "66ec042b19322a0040d2f0dc",
+            "order": 2,
+            "external_unique_id": null,
+            "version": 21,
+            "updated_at": "2024-09-19T12:10:13.036Z",
+            "created_at": "2024-09-19T10:59:55.785Z",
+            "owner_updated_at": "2024-09-19T11:03:49.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "OHLA",
+                "no": "OHLA"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "no": "OHLA (Obrascon Huarte Lain) er et internasjonalt entreprenørselskap med hovedkontor i Spania. OHLA tilbyr et bredt spekter av tjenester, inkludert planlegging, prosjektering, konstruksjon, vedlikehold og drift av infrastrukturprosjekter som veier, broer, tunneler, jernbaner, flyplasser, havner og andre offentlige og private anlegg.\nOHLA har en betydelig internasjonal tilstedeværelse med prosjekter i mange land over hele verden. De har etablert seg som en ledende aktør innen global infrastrukturutvikling."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "E18 VESTKORRIDOREN E105 Gjønnestunnelen"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet for prosjektering av Gjønnestunnelen inkl. lokalveisystem ved Gjønnes i Bærum kommune omfatter følgende hovedaktiviteter som leverandøren skal gjennomføre:\n\n1. Detaljprosjektering av 1500 meter to-løps berg- og betongtunnel, inkludert vurdering av grunnforhold og bergkvalitet.\n2. Prosjektering av nytt lokalveisystem i dagsonen, inkludert etablering av byggegrop, støtemurer og tekniske bygg.\n3. Håndtering av vann i nærheten av sårbare resipienter, både i anleggs- og driftsfase, med fokus på bærekraft og klima.\n4. Vurdering av eksisterende infrastruktur og bygg i nærheten for å sikre at prosjektet integreres godt i området.\n5. Utarbeidelse av nødvendige planer for trafikkavvikling under både anleggs- og driftsfase.\n6. Levering av fullstendig byggeplan og nødvendige dokumenter for godkjenning hos relevante myndigheter.\n7. Utarbeidelse av modeller og tegninger i henhold til kommunens BIM-manual, inkludert egenskapsdata på objekter.\n8. Sikre kvalitet og dokumentasjon gjennom hele prosjektet i henhold til fastsatte standarder og krav.\n\nProsjektet krever også oppfølging i byggeperioden, og at all dokumentasjon, inkludert modeller i IFC-format, leveres ved avsluttet prosjektering. Leverandøren må sørge for at all data og dokumentasjon blir tilgjengelig for oppdragsgiver og at nødvendig opplæring av nytt personell skjer raskt og kostnadseffektivt."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "09",
+            "month_to": null,
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {
+                "int": "",
+                "no": "Totalentreprise"
+            },
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2024",
+            "year_to": null,
+            "images": [],
+            "roles": [
+                {
+                    "_id": "66ec15c3465e87003efb4551",
+                    "cv_role_id": "66ec15c7465e87003efb4554",
+                    "name": {
+                        "no": "Displiningeniør bru"
+                    },
+                    "long_description": {
+                        "no": "Dario jobber med globale analyser av støttemur og modellering av støttemur"
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 15,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "66ec14a56483ff003033c8bc",
+            "order": 0,
+            "external_unique_id": null,
+            "version": 22,
+            "updated_at": "2025-03-27T08:42:14.000Z",
+            "created_at": "2024-09-19T12:10:13.327Z",
+            "owner_updated_at": "2024-09-19T12:19:22.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "educations": [
+        {
+            "degree": {
+                "int": "",
+                "no": "Civil Engineering, Bachelor"
+            },
+            "description": {
+                "no": "Byggingeniør, Bachelor"
+            },
+            "school": {
+                "int": "",
+                "no": "universidad de la costa"
+            },
+            "month_from": "01",
+            "month_to": "05",
+            "year_from": "2006",
+            "year_to": "2011",
+            "attachments": [],
+            "_id": "66ec0bbc770656003a8f9a27",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 19,
+            "updated_at": "2024-09-19T11:37:10.397Z",
+            "created_at": "2024-09-19T11:32:12.704Z",
+            "owner_updated_at": "2024-09-19T11:33:27.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "degree": {
+                "int": "",
+                "no": "M.Sc. Structural engineering"
+            },
+            "description": {
+                "no": "Bygg- og miljøteknikk, konstruksjon, Master"
+            },
+            "school": {
+                "int": "",
+                "no": "Politecnico di Milano, Italia"
+            },
+            "month_from": "09",
+            "month_to": "10",
+            "year_from": "2016",
+            "year_to": "2018",
+            "attachments": [],
+            "_id": "66ec0c270f78bb00473fde5f",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 41,
+            "updated_at": "2024-09-19T11:37:10.402Z",
+            "created_at": "2024-09-19T11:33:59.241Z",
+            "owner_updated_at": "2024-09-19T11:35:32.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "degree": {
+                "int": "",
+                "no": "Ph.D., innen konstruksjonsteknikk"
+            },
+            "description": {
+                "no": "Doktorgrad\nBroaerodynamikk - Kunstig Intelligens"
+            },
+            "school": {
+                "int": "",
+                "no": "Norges teknisk-naturvitenskapelige universitet (NTNU)"
+            },
+            "month_from": "01",
+            "month_to": "07",
+            "year_from": "2019",
+            "year_to": "2022",
+            "attachments": [],
+            "_id": "66ec0ce6465e870044fb4389",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 39,
+            "updated_at": "2024-09-19T11:40:56.964Z",
+            "created_at": "2024-09-19T11:37:10.657Z",
+            "owner_updated_at": "2024-09-19T11:40:56.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": {
+                "int": "",
+                "no": "Oppdragsledelse bygg klasse E"
+            },
+            "organiser": {
+                "int": "",
+                "no": "AFRY"
+            },
+            "long_description": {
+                "no": "Oppdragsledelse bygg klasse E"
+            },
+            "month": "09",
+            "month_expire": null,
+            "year": "2023",
+            "year_expire": null,
+            "is_expired": false,
+            "attachments": [],
+            "_id": "66ec14280f78bb00473fe14c",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 10,
+            "updated_at": "2024-09-19T12:08:58.026Z",
+            "created_at": "2024-09-19T12:08:08.872Z",
+            "owner_updated_at": "2024-09-19T12:08:58.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "courses": [
+        {
+            "name": {
+                "int": "",
+                "no": "FEM-Design"
+            },
+            "program": {},
+            "long_description": {},
+            "month": "09",
+            "year": "2022",
+            "attachments": [],
+            "_id": "66ec0f8d19322a0040d2f3d2",
+            "order": 5,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 8,
+            "updated_at": "2024-09-19T12:07:00.462Z",
+            "created_at": "2024-09-19T11:48:29.290Z",
+            "owner_updated_at": "2024-09-19T11:48:50.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "REVIT"
+            },
+            "program": {},
+            "long_description": {},
+            "month": "06",
+            "year": "2023",
+            "attachments": [],
+            "_id": "66ec0fa91b0928003882984a",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 7,
+            "updated_at": "2024-09-19T12:07:00.475Z",
+            "created_at": "2024-09-19T11:48:57.708Z",
+            "owner_updated_at": "2024-09-19T11:49:15.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "blogs": [
+        {
+            "name": {
+                "int": "",
+                "no": "Full long-term buffeting analysis of suspension bridges using Gaussian process surrogate modelling and importance sampling Monte Carlo simulations."
+            },
+            "url": "https://doi.org/10.1016/j.ress.2023.109211",
+            "long_description": {
+                "no": "Journal Reliability Engineering and system safety, p.109211, 2023.\nhttps://doi.org/10.1016/j.ress.2023.109211"
+            },
+            "month": "07",
+            "year": "2023",
+            "_id": "66ec114719322a0035d2f9f5",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 11,
+            "updated_at": "2024-09-19T11:57:09.050Z",
+            "created_at": "2024-09-19T11:55:51.213Z",
+            "owner_updated_at": "2024-09-19T11:57:09.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "Investigations of the long-term extreme buffeting response of long-span bridges using importance sampling Monte Carlo simulations."
+            },
+            "url": "https://doi.org/10.1016/j.engstruct.2022.114986",
+            "long_description": {
+                "no": "Journal Engineering Structures, vol. 273, p. 114986, 2022.\nhttps://doi.org/10.1016/j.engstruct.2022.114986"
+            },
+            "month": "12",
+            "year": "2022",
+            "_id": "66ec119b0f78bb00343fd475",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 9,
+            "updated_at": "2024-09-19T11:58:00.543Z",
+            "created_at": "2024-09-19T11:57:15.617Z",
+            "owner_updated_at": "2024-09-19T11:58:00.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "“A comparative study of wind-induced dynamic response models of long-span bridges using artificial neural networks, support vector regression and buffeting theory.”"
+            },
+            "url": "https://doi.org/10.1016/j.jweia.2020.104484",
+            "long_description": {
+                "no": "Journal of wind engineering and industrial aerodynamics vol. 209, p. 104484, 2021.\nhttps://doi.org/10.1016/j.jweia.2020.104484"
+            },
+            "month": "02",
+            "year": "2021",
+            "_id": "66ec11ce77065600448f9604",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 7,
+            "updated_at": "2024-09-19T12:00:23.160Z",
+            "created_at": "2024-09-19T11:58:06.431Z",
+            "owner_updated_at": "2024-09-19T11:59:06.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "Environmental contours for wind-resistant bridge design in complex terrain."
+            },
+            "url": "https://doi.org/10.1016/j.jweia.2022.104943",
+            "long_description": {
+                "no": "Journal of wind engineering and industrial aerodynamics p. 104943, 2022.\nhttps://doi.org/10.1016/j.jweia.2022.104943"
+            },
+            "month": "05",
+            "year": "2022",
+            "_id": "66ec121004d78e0035614bed",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 9,
+            "updated_at": "2024-09-19T12:00:23.165Z",
+            "created_at": "2024-09-19T11:59:12.998Z",
+            "owner_updated_at": "2024-09-19T11:59:56.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "presentations": [
+        {
+            "description": {
+                "int": "",
+                "no": "Konferanse EURODYN2023"
+            },
+            "long_description": {
+                "no": "Vitenskapelig presentasjon på 12th International Conference on Structural Dynamics, Delft."
+            },
+            "month": "07",
+            "year": "2023",
+            "_id": "66ec10097dbc6800467db653",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 6,
+            "updated_at": "2024-09-19T11:51:03.869Z",
+            "created_at": "2024-09-19T11:50:33.892Z",
+            "owner_updated_at": "2024-09-19T11:51:03.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": "Konferanse EACWE2022"
+            },
+            "long_description": {
+                "no": "Vitenskapelig presentasjon på 8th European and African Conference on Wind Engineering, Bucharest."
+            },
+            "month": "09",
+            "year": "2022",
+            "_id": "66ec10290f78bb00303fce89",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 5,
+            "updated_at": "2024-09-19T11:51:24.759Z",
+            "created_at": "2024-09-19T11:51:05.463Z",
+            "owner_updated_at": "2024-09-19T11:51:24.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": "Konferanse EURODYN2020"
+            },
+            "long_description": {
+                "no": "Vitenskapelig presentasjon på 11th International Conference on Structural Dynamics, Athens."
+            },
+            "month": "11",
+            "year": "2020",
+            "_id": "66ec10401b0928004582921b",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 13,
+            "updated_at": "2024-09-19T11:53:09.180Z",
+            "created_at": "2024-09-19T11:51:28.695Z",
+            "owner_updated_at": "2024-09-19T11:53:09.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "int": "",
+                "no": "Konferanse Ancrisst 2019"
+            },
+            "long_description": {
+                "no": "Vitenskapelig presentasjon på 14th International workshop on advanced smart materials and smart structures technology, Rome"
+            },
+            "month": "06",
+            "year": "2019",
+            "_id": "66ec109419322a0035d2f99a",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 30,
+            "updated_at": "2024-09-19T11:54:53.453Z",
+            "created_at": "2024-09-19T11:52:52.112Z",
+            "owner_updated_at": "2024-09-19T11:54:53.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "honors_awards": [
+        {
+            "for_work": {
+                "int": "",
+                "no": "Digital technologies in infraestructure"
+            },
+            "issuer": {
+                "int": "",
+                "no": "Universidad de la costa"
+            },
+            "name": {
+                "int": "",
+                "no": "Outsanting graduates"
+            },
+            "long_description": {
+                "no": "Pris for Fremragende Alumni: Forskning og Utvikling"
+            },
+            "month": "11",
+            "year": "2022",
+            "_id": "66ec1260770656003a8f9bdc",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 25,
+            "updated_at": "2024-09-19T12:02:25.790Z",
+            "created_at": "2024-09-19T12:00:32.333Z",
+            "owner_updated_at": "2024-09-19T12:02:21.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "for_work": {
+                "int": "",
+                "no": "mastergrad"
+            },
+            "issuer": {
+                "int": "",
+                "no": "Politecnico di Milano"
+            },
+            "name": {
+                "int": "",
+                "no": "Laurea cum Laude"
+            },
+            "long_description": {
+                "no": "Æresgrad"
+            },
+            "month": "10",
+            "year": "2018",
+            "_id": "66ec12d119322a0030d2fafa",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 14,
+            "updated_at": "2024-09-19T12:21:41.440Z",
+            "created_at": "2024-09-19T12:02:26.032Z",
+            "owner_updated_at": "2024-09-19T12:21:41.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "mentorings": [
+        {
+            "context": {},
+            "long_description": {},
+            "month_from": "10",
+            "month_to": "05",
+            "year_from": "2022",
+            "year_to": "2023",
+            "_id": "680a43bb4633410041df6c35",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 5,
+            "updated_at": "2025-04-24T13:59:43.000Z",
+            "created_at": "2025-04-24T13:59:23.835Z",
+            "owner_updated_at": "2025-04-24T13:59:43.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "languages": [
+        {
+            "name": {
+                "int": "",
+                "no": "Norsk"
+            },
+            "level": {
+                "int": "",
+                "no": "Flytende"
+            },
+            "_id": "66ec13100f78bb003f3fd8e6",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 5,
+            "updated_at": "2024-09-19T12:03:40.984Z",
+            "created_at": "2024-09-19T12:03:29.042Z",
+            "owner_updated_at": "2024-09-19T12:03:40.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "Engelsk"
+            },
+            "level": {
+                "int": "",
+                "no": "Flytende"
+            },
+            "_id": "66ec131f1b092800348296df",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 3,
+            "updated_at": "2024-09-19T12:03:48.205Z",
+            "created_at": "2024-09-19T12:03:43.388Z",
+            "owner_updated_at": "2024-09-19T12:03:48.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "Spansk"
+            },
+            "level": {
+                "int": "",
+                "no": "Morsmål"
+            },
+            "_id": "66ec132404d78e0035614c02",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-09-19T12:03:53.937Z",
+            "created_at": "2024-09-19T12:03:49.016Z",
+            "owner_updated_at": "2024-09-19T12:03:53.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "",
+                "no": "Italiensk"
+            },
+            "level": {
+                "int": "",
+                "no": "Flytende"
+            },
+            "_id": "66ec132a5c8acf003bd861c3",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-09-19T12:03:59.263Z",
+            "created_at": "2024-09-19T12:03:54.650Z",
+            "owner_updated_at": "2024-09-19T12:03:59.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "custom_tags": [
+        {
+            "_id": "648ff5970a65a625ac242e57",
+            "id": "648ff5970a65a625ac242e57",
+            "values": {
+                "no": "224-1109 Bridges & construction 1 Oslo"
+            },
+            "external_unique_id": null,
+            "custom_tag_category_id": "648ff53e4b808f0f8ce7b764",
+            "category_ids": [
+                "648ff53e4b808f0f8ce7b764"
+            ],
+            "custom_tag_category": {
+                "_id": "648ff53e4b808f0f8ce7b764",
+                "id": "648ff53e4b808f0f8ce7b764",
+                "values": {
+                    "no": "Business Section"
+                },
+                "external_unique_id": "",
+                "can_be_used_for_cvs": true,
+                "can_be_used_for_references": true,
+                "can_be_used_for_customers": false,
+                "allow_filtering": true
+            }
+        },
+        {
+            "_id": "648ff5990a65a625ac242f05",
+            "id": "648ff5990a65a625ac242f05",
+            "values": {
+                "no": "Oslo"
+            },
+            "external_unique_id": null,
+            "custom_tag_category_id": "648ff54e5967010fa0143a80",
+            "category_ids": [
+                "648ff54e5967010fa0143a80"
+            ],
+            "custom_tag_category": {
+                "_id": "648ff54e5967010fa0143a80",
+                "id": "648ff54e5967010fa0143a80",
+                "values": {
+                    "no": "Office location"
+                },
+                "external_unique_id": "",
+                "can_be_used_for_cvs": true,
+                "can_be_used_for_references": false,
+                "can_be_used_for_customers": false,
+                "allow_filtering": true
+            }
+        }
+    ],
+    "custom_tag_ids": [
+        "648ff5970a65a625ac242e57",
+        "648ff5990a65a625ac242f05"
+    ],
+    "updated_ago": "N/A",
+    "template_document_type": "doc",
+    "default_word_template_id": "64a7cf51eb7d460f3a8e16a6",
+    "default_word_json_template_id": null,
+    "default_ppt_template_id": null,
+    "default_indesign_template_id": null,
+    "highlighted_roles": [],
+    "office": {
+        "_id": "648ff2e154cbd70f484ce3be",
+        "id": "648ff2e154cbd70f484ce3be",
+        "name": "BU Transportation",
+        "selected": false,
+        "default_word_template_id": null,
+        "default_word_json_template_id": null,
+        "default_ppt_template_id": null,
+        "default_indesign_template_id": null,
+        "country_id": "582d9aeb2c04d615d6a569bd",
+        "country_code": "no",
+        "override_language_code": null
+    },
+    "image": {
+        "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/66ebe01967c4fc2036f71065/Dario_Castellon-Edit-3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T061007Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIG6BaZECLRx1h%2B9eXRf27FyvsLYZWsR2HigNRmU6CfGVAiEArYX30FXGYSdpjhwQA2GrZL29KcvLgTqT2OcSxioJ%2BI0qjQUI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDHhcvmVtOO3mMYcc8CrhBDr%2FqBH0sJHT0jTAEn18%2FFiVQffEtbLq%2FPRuDudFZYNOBZKlhNNY0MvWNXsuMMTFkd1%2FlrGgdzbOsb%2BY%2BxFLI5sW15LVfznxUL2usPtx3OkkuJJnXI9R0axfUa%2BUf%2BL2Pe1DXsm26h4WjjGrApTMV7%2FRrgCSnJE5TlFxf%2BxIY8JRCx6HdmLiyzQDWrbaFzDSq%2FuWtd6shU1%2FkKqvWILytAgvVeekXMyMg%2B6Nh9G7CDVzwyrAZUf5qN%2BLsUpIrw%2FZcaXxPrWU%2FFYqt0CZFSh7ExWKLARpvvjqgDFj8Ijf%2BLF%2BkJFHogqwh6LFBo7Qh2kdborzReUiMzesuVRK%2BM2PogEdpjAbJrM%2BtWwPTSAfY%2F6P7uzl6oVbpSOBnENiiXoN1lZ2o8vCJtU51rH5zw7QPA%2BegbhYZKOR1xik6HvrmZbgvJ4uT8BAKcbS09SkPqYx1agbUmqzgrkqfZ0NGEbHG3%2Bt8t5lVTrNiQAtwpB0GAL9OeDrRwxPMZte9sgzH57tMi%2BYSsyqrreIHj%2B4KhUlJyZwsPaiIKL2ydulRd10lKGOhb6ZUAo4hcG6XJrHd1Chof7xmKtAmdJRsv1lN35F8xJTUhhbElHYNesbyDlSfagTWBTmRH%2FD3N4aKhNL3NjfxjTOA%2BG94wQGZv7tpwvjP18gGXdO3MbGsul2xaR5P7czbcn1p%2BUZxNyjgirPgvKWXxkRqhmWsa%2FGAdKyEGNyGWe9RuA2ayb%2FmZ%2BjIkHy%2BJGmGfPOE3K4pqvw3zI8fTcFfioH63or10ytT5d5kjVi1ZwPwxv7gRnlsLKoFUIda34oBTDD1pDBBjqaAS9bz%2Fw6lk4SiKYmM38g0Ew9ufyhhKE%2FQwVPimwy90o98qtkti4Ytct7YZaABJROvoUgQmJDuq6bxqpQS3cDt8Q2TRJgl6K5hVeyKjk1%2F9%2FSIMf5c6%2BTsFtw9KULXeULBdY11CI%2BiBK7T8H3U3kZUnI0Zjxp%2BcMj7S%2BZ3cU29BptTyEAYE98TjAgaQm8MtMWcgYuZuccJDva1KA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KAAR2HAE6%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=519db85577bdeceba75f2ec665421775bb703db14b3345c3d46a16138d6c6fd1",
+        "thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/66ebe01967c4fc2036f71065/thumb_Dario_Castellon-Edit-3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T061007Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIG6BaZECLRx1h%2B9eXRf27FyvsLYZWsR2HigNRmU6CfGVAiEArYX30FXGYSdpjhwQA2GrZL29KcvLgTqT2OcSxioJ%2BI0qjQUI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDHhcvmVtOO3mMYcc8CrhBDr%2FqBH0sJHT0jTAEn18%2FFiVQffEtbLq%2FPRuDudFZYNOBZKlhNNY0MvWNXsuMMTFkd1%2FlrGgdzbOsb%2BY%2BxFLI5sW15LVfznxUL2usPtx3OkkuJJnXI9R0axfUa%2BUf%2BL2Pe1DXsm26h4WjjGrApTMV7%2FRrgCSnJE5TlFxf%2BxIY8JRCx6HdmLiyzQDWrbaFzDSq%2FuWtd6shU1%2FkKqvWILytAgvVeekXMyMg%2B6Nh9G7CDVzwyrAZUf5qN%2BLsUpIrw%2FZcaXxPrWU%2FFYqt0CZFSh7ExWKLARpvvjqgDFj8Ijf%2BLF%2BkJFHogqwh6LFBo7Qh2kdborzReUiMzesuVRK%2BM2PogEdpjAbJrM%2BtWwPTSAfY%2F6P7uzl6oVbpSOBnENiiXoN1lZ2o8vCJtU51rH5zw7QPA%2BegbhYZKOR1xik6HvrmZbgvJ4uT8BAKcbS09SkPqYx1agbUmqzgrkqfZ0NGEbHG3%2Bt8t5lVTrNiQAtwpB0GAL9OeDrRwxPMZte9sgzH57tMi%2BYSsyqrreIHj%2B4KhUlJyZwsPaiIKL2ydulRd10lKGOhb6ZUAo4hcG6XJrHd1Chof7xmKtAmdJRsv1lN35F8xJTUhhbElHYNesbyDlSfagTWBTmRH%2FD3N4aKhNL3NjfxjTOA%2BG94wQGZv7tpwvjP18gGXdO3MbGsul2xaR5P7czbcn1p%2BUZxNyjgirPgvKWXxkRqhmWsa%2FGAdKyEGNyGWe9RuA2ayb%2FmZ%2BjIkHy%2BJGmGfPOE3K4pqvw3zI8fTcFfioH63or10ytT5d5kjVi1ZwPwxv7gRnlsLKoFUIda34oBTDD1pDBBjqaAS9bz%2Fw6lk4SiKYmM38g0Ew9ufyhhKE%2FQwVPimwy90o98qtkti4Ytct7YZaABJROvoUgQmJDuq6bxqpQS3cDt8Q2TRJgl6K5hVeyKjk1%2F9%2FSIMf5c6%2BTsFtw9KULXeULBdY11CI%2BiBK7T8H3U3kZUnI0Zjxp%2BcMj7S%2BZ3cU29BptTyEAYE98TjAgaQm8MtMWcgYuZuccJDva1KA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KAAR2HAE6%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3004c553d270b3b44d7e0a2b13279d0267657a543d41f0de5205d7bdac874863"
+        },
+        "fit_thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/66ebe01967c4fc2036f71065/fit_thumb_Dario_Castellon-Edit-3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T061007Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIG6BaZECLRx1h%2B9eXRf27FyvsLYZWsR2HigNRmU6CfGVAiEArYX30FXGYSdpjhwQA2GrZL29KcvLgTqT2OcSxioJ%2BI0qjQUI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDHhcvmVtOO3mMYcc8CrhBDr%2FqBH0sJHT0jTAEn18%2FFiVQffEtbLq%2FPRuDudFZYNOBZKlhNNY0MvWNXsuMMTFkd1%2FlrGgdzbOsb%2BY%2BxFLI5sW15LVfznxUL2usPtx3OkkuJJnXI9R0axfUa%2BUf%2BL2Pe1DXsm26h4WjjGrApTMV7%2FRrgCSnJE5TlFxf%2BxIY8JRCx6HdmLiyzQDWrbaFzDSq%2FuWtd6shU1%2FkKqvWILytAgvVeekXMyMg%2B6Nh9G7CDVzwyrAZUf5qN%2BLsUpIrw%2FZcaXxPrWU%2FFYqt0CZFSh7ExWKLARpvvjqgDFj8Ijf%2BLF%2BkJFHogqwh6LFBo7Qh2kdborzReUiMzesuVRK%2BM2PogEdpjAbJrM%2BtWwPTSAfY%2F6P7uzl6oVbpSOBnENiiXoN1lZ2o8vCJtU51rH5zw7QPA%2BegbhYZKOR1xik6HvrmZbgvJ4uT8BAKcbS09SkPqYx1agbUmqzgrkqfZ0NGEbHG3%2Bt8t5lVTrNiQAtwpB0GAL9OeDrRwxPMZte9sgzH57tMi%2BYSsyqrreIHj%2B4KhUlJyZwsPaiIKL2ydulRd10lKGOhb6ZUAo4hcG6XJrHd1Chof7xmKtAmdJRsv1lN35F8xJTUhhbElHYNesbyDlSfagTWBTmRH%2FD3N4aKhNL3NjfxjTOA%2BG94wQGZv7tpwvjP18gGXdO3MbGsul2xaR5P7czbcn1p%2BUZxNyjgirPgvKWXxkRqhmWsa%2FGAdKyEGNyGWe9RuA2ayb%2FmZ%2BjIkHy%2BJGmGfPOE3K4pqvw3zI8fTcFfioH63or10ytT5d5kjVi1ZwPwxv7gRnlsLKoFUIda34oBTDD1pDBBjqaAS9bz%2Fw6lk4SiKYmM38g0Ew9ufyhhKE%2FQwVPimwy90o98qtkti4Ytct7YZaABJROvoUgQmJDuq6bxqpQS3cDt8Q2TRJgl6K5hVeyKjk1%2F9%2FSIMf5c6%2BTsFtw9KULXeULBdY11CI%2BiBK7T8H3U3kZUnI0Zjxp%2BcMj7S%2BZ3cU29BptTyEAYE98TjAgaQm8MtMWcgYuZuccJDva1KA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KAAR2HAE6%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f4795feee97774eafea67c107e5726feb8d21dbbb94b926129df5cd1686d68b8"
+        },
+        "large": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/66ebe01967c4fc2036f71065/large_Dario_Castellon-Edit-3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T061007Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIG6BaZECLRx1h%2B9eXRf27FyvsLYZWsR2HigNRmU6CfGVAiEArYX30FXGYSdpjhwQA2GrZL29KcvLgTqT2OcSxioJ%2BI0qjQUI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDHhcvmVtOO3mMYcc8CrhBDr%2FqBH0sJHT0jTAEn18%2FFiVQffEtbLq%2FPRuDudFZYNOBZKlhNNY0MvWNXsuMMTFkd1%2FlrGgdzbOsb%2BY%2BxFLI5sW15LVfznxUL2usPtx3OkkuJJnXI9R0axfUa%2BUf%2BL2Pe1DXsm26h4WjjGrApTMV7%2FRrgCSnJE5TlFxf%2BxIY8JRCx6HdmLiyzQDWrbaFzDSq%2FuWtd6shU1%2FkKqvWILytAgvVeekXMyMg%2B6Nh9G7CDVzwyrAZUf5qN%2BLsUpIrw%2FZcaXxPrWU%2FFYqt0CZFSh7ExWKLARpvvjqgDFj8Ijf%2BLF%2BkJFHogqwh6LFBo7Qh2kdborzReUiMzesuVRK%2BM2PogEdpjAbJrM%2BtWwPTSAfY%2F6P7uzl6oVbpSOBnENiiXoN1lZ2o8vCJtU51rH5zw7QPA%2BegbhYZKOR1xik6HvrmZbgvJ4uT8BAKcbS09SkPqYx1agbUmqzgrkqfZ0NGEbHG3%2Bt8t5lVTrNiQAtwpB0GAL9OeDrRwxPMZte9sgzH57tMi%2BYSsyqrreIHj%2B4KhUlJyZwsPaiIKL2ydulRd10lKGOhb6ZUAo4hcG6XJrHd1Chof7xmKtAmdJRsv1lN35F8xJTUhhbElHYNesbyDlSfagTWBTmRH%2FD3N4aKhNL3NjfxjTOA%2BG94wQGZv7tpwvjP18gGXdO3MbGsul2xaR5P7czbcn1p%2BUZxNyjgirPgvKWXxkRqhmWsa%2FGAdKyEGNyGWe9RuA2ayb%2FmZ%2BjIkHy%2BJGmGfPOE3K4pqvw3zI8fTcFfioH63or10ytT5d5kjVi1ZwPwxv7gRnlsLKoFUIda34oBTDD1pDBBjqaAS9bz%2Fw6lk4SiKYmM38g0Ew9ufyhhKE%2FQwVPimwy90o98qtkti4Ytct7YZaABJROvoUgQmJDuq6bxqpQS3cDt8Q2TRJgl6K5hVeyKjk1%2F9%2FSIMf5c6%2BTsFtw9KULXeULBdY11CI%2BiBK7T8H3U3kZUnI0Zjxp%2BcMj7S%2BZ3cU29BptTyEAYE98TjAgaQm8MtMWcgYuZuccJDva1KA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KAAR2HAE6%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e98c7ec36837390795e971c46555ff12a062cd546172f16843ec11b463270901"
+        },
+        "small_thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/66ebe01967c4fc2036f71065/small_thumb_Dario_Castellon-Edit-3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T061007Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIG6BaZECLRx1h%2B9eXRf27FyvsLYZWsR2HigNRmU6CfGVAiEArYX30FXGYSdpjhwQA2GrZL29KcvLgTqT2OcSxioJ%2BI0qjQUI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDHhcvmVtOO3mMYcc8CrhBDr%2FqBH0sJHT0jTAEn18%2FFiVQffEtbLq%2FPRuDudFZYNOBZKlhNNY0MvWNXsuMMTFkd1%2FlrGgdzbOsb%2BY%2BxFLI5sW15LVfznxUL2usPtx3OkkuJJnXI9R0axfUa%2BUf%2BL2Pe1DXsm26h4WjjGrApTMV7%2FRrgCSnJE5TlFxf%2BxIY8JRCx6HdmLiyzQDWrbaFzDSq%2FuWtd6shU1%2FkKqvWILytAgvVeekXMyMg%2B6Nh9G7CDVzwyrAZUf5qN%2BLsUpIrw%2FZcaXxPrWU%2FFYqt0CZFSh7ExWKLARpvvjqgDFj8Ijf%2BLF%2BkJFHogqwh6LFBo7Qh2kdborzReUiMzesuVRK%2BM2PogEdpjAbJrM%2BtWwPTSAfY%2F6P7uzl6oVbpSOBnENiiXoN1lZ2o8vCJtU51rH5zw7QPA%2BegbhYZKOR1xik6HvrmZbgvJ4uT8BAKcbS09SkPqYx1agbUmqzgrkqfZ0NGEbHG3%2Bt8t5lVTrNiQAtwpB0GAL9OeDrRwxPMZte9sgzH57tMi%2BYSsyqrreIHj%2B4KhUlJyZwsPaiIKL2ydulRd10lKGOhb6ZUAo4hcG6XJrHd1Chof7xmKtAmdJRsv1lN35F8xJTUhhbElHYNesbyDlSfagTWBTmRH%2FD3N4aKhNL3NjfxjTOA%2BG94wQGZv7tpwvjP18gGXdO3MbGsul2xaR5P7czbcn1p%2BUZxNyjgirPgvKWXxkRqhmWsa%2FGAdKyEGNyGWe9RuA2ayb%2FmZ%2BjIkHy%2BJGmGfPOE3K4pqvw3zI8fTcFfioH63or10ytT5d5kjVi1ZwPwxv7gRnlsLKoFUIda34oBTDD1pDBBjqaAS9bz%2Fw6lk4SiKYmM38g0Ew9ufyhhKE%2FQwVPimwy90o98qtkti4Ytct7YZaABJROvoUgQmJDuq6bxqpQS3cDt8Q2TRJgl6K5hVeyKjk1%2F9%2FSIMf5c6%2BTsFtw9KULXeULBdY11CI%2BiBK7T8H3U3kZUnI0Zjxp%2BcMj7S%2BZ3cU29BptTyEAYE98TjAgaQm8MtMWcgYuZuccJDva1KA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KAAR2HAE6%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=ed897b5b57709a2493003f122ca1cd0f77f6288a563748762327b3a2c8b5c95b"
+        }
+    },
+    "can_write": false
+}

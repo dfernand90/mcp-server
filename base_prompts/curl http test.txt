@@ -1,0 +1,32 @@
+$body = @{
+    project = "Vigga Bru"
+    underlag = "01 Underlag"
+    kg = "kg"
+    params = @{
+        clientInfo = @{
+            agentName = "CastellonianMCPPythontest2"
+        }
+    }
+} | ConvertTo-Json -Depth 3
+
+Invoke-RestMethod -Uri "http://localhost:8000/brochure" `
+                  -Method POST `
+                  -Body $body `
+                  -ContentType "application/json"
+
+
+$body = @{
+    project = "Vigga Bru"
+    underlag = "01 Underlag"
+    kg = "kg"
+    params = @{
+        clientInfo = @{
+            agentName = "CastellonianMCPPythontest2"
+        }
+    }
+} | ConvertTo-Json -Depth 3
+
+Invoke-RestMethod -Uri "http://localhost:8000/video" `
+                  -Method POST `
+                  -Body $body `
+                  -ContentType "application/json"

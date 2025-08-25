@@ -1,0 +1,16 @@
+hva er navn til prosjketet?
+Hvem er kunden?
+Hva salgs konstruksjon eller konstruksjoner tilhører prosjeket?
+Hva slags tilbud er dette rammeavtale, minikonkurangse, totalenterprise, direkte rådgivningstjenester?
+lagre en oppsumering av prosjketet
+når er frist til tilbud leveranse?
+hva er omfang av prosjektet?
+hva varighet på prosjekt?
+kan du finner prosjekt øsnket startdato
+kan du finer prosjekt øsnket sluttsdato
+Hva skal vi levere i tilbudet? 
+Må vi levere CV?
+Må vi levere priskjema?
+Må vi levere oppgaveforståelse?
+Skrive en leveranse lista i følge grunnlaget
+Hvilken fag var førespurt? (fag kan vare Geo, Konstruksjon, Vei, Vann, Prosject Management)

@@ -45,7 +45,10 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
-
+.storage/
+storage/
+.qdrant_mrag_db/
+qdrant_mrag_db/
 # Translations
 *.mo
 *.pot

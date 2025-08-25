@@ -1,0 +1,6 @@
+base prompt: you are the project manager of an important engineering company. you need to present the project in the context. take all the queries and responses in the context and write the narration script for a presentation you will read this to a team. the script will have 5 scenes. write the five scenes in the following format: -Scene: scene number + scene title; -description: a description of all the information you should say in this slide or scene
+scenes in script: 5
+scene prompt: scene number + scene title
+narration prompt: a very short narration with all words you will say in the scene. should last max 15 seconds. write in norwegian. to the point, avoid unnecesary words or ideas
+video prompt: a very short input text for making a OpenAI sora video that works as background of the scene, do not protray people, just a background video for a general description
+image prompt: a very short description of the image that works as background to the scene.

@@ -1,0 +1,76 @@
+Query: hva er navn til prosjketet?
+Response: Navnet på prosjektet er "E105 Gjønnestunnel".
+
+Query: Hvem er kunden?
+Response: Kunden er ikke spesifisert i den tilgjengelige informasjonen.
+
+Query: Hva salgs konstruksjon eller konstruksjoner tilhører prosjeket?
+Response: Prosjektet inkluderer en pumpestasjonskonstruksjon som er delt inn i tre hovedseksjoner: tørkerommet, tankseksjonen og reservoaret. Hovedkonstruksjonen er laget av armert betong, og det er også sekundære, ikke-bærende elementer som plattformer og gangveier i stål, Leca-blokker for tørkerommets ytre skall, og Foamrox® for det elektriske rommet.
+
+Query: Hva slags tilbud er dette rammeavtale, minikonkurangse, totalenterprise, direkte rådgivningstjenester?
+Response: Dette er en totalentreprise, der entreprenør OHLA bygger Gjønnestunnelen på oppdrag for Statens Vegvesen, og AFRY Norway AS utfører detaljprosjektering for OHLA.
+
+Query: lagre en oppsumering av prosjketet
+Response: Prosjektet omhandler tverrfaglig prosjektering av pumpestasjon J584, som er en del av E18 Vestkorridoren og E105 Gjønnestunnelen. Rapporten dekker ulike aspekter som prosjektoversikt, regelverk, geotekniske vurderinger, klassifiseringer, kontrollkrav, og spesifikke arbeidspakker. Det inkluderer ingeniørgeologiske vurderinger knyttet til berguttak og bergsikring, samt design av vannbehandlingssystemer. Dokumentet gir en detaljert gjennomgang av grunnlagsmateriale, utførte undersøkelser, bergarter, strukturgeologi, bergspenninger, og klassifisering av bergmasse. Videre beskrives vannbehandlingssystemets konsept, dimensjonering av tanker, tilkoblinger, og flytdiagrammer. Prosjektet er strukturert for å sikre at alle tekniske og sikkerhetsmessige krav oppfylles.
+
+Query: når er frist til tilbud leveranse?
+Response: Fristen for tilbudsleveranse var 14. september 2023.
+
+Query: hva er omfang av prosjektet?
+Response: Omfanget av prosjektet inkluderer bygging av E105 Gjønnestunnelen, som er en del av E18 Vestkorridoren. Tunnelen er en toløpstunnel med et tverrsnitt på T9,5, og entreprise E105 skal bygge ca. 1500 meter av den totalt ca. 1950 meter lange tunnelen. De resterende ca. 450 meter skal bygges av en tilstøtende entreprise, E102. I tillegg til tunnelen skal det etableres et nytt kryssområde på Gjønnes med tilknytning til Bærumsveien. Området rundt Gjønnes er svært trafikkert og inkluderer blant annet en T-banestasjon, idrettshall, boligfelt, skoler og Bærumsveien som går gjennom anleggsområdet.
+
+Query: hva varighet på prosjekt?
+Response: Informasjonen som er gitt inneholder ingen spesifikke detaljer om varigheten på prosjektet.
+
+Query: kan du finner prosjekt øsnket startdato
+Response: Basert på den tilgjengelige informasjonen, er det ingen spesifikk startdato for prosjektet nevnt.
+
+Query: kan du finer prosjekt øsnket sluttsdato
+Response: Det er ingen informasjon om ønsket sluttdato for prosjektet i den oppgitte teksten.
+
+Query: Hva skal vi levere i tilbudet?
+Response: Tilbudet skal inkludere løsninger og spesifikasjoner for betongelementer og armering i henhold til de definerte eksponeringsklassene og kravene. Dette innebærer blant annet vanntette konstruksjoner for tørkerommet (XD2), skillevegger mellom sedimentasjonstank og reservoar (XD3), samt vanntettingsmembran for berg i kontakt med sedimentasjonstankene. Armeringsstål skal være av klasse B500C, eller alternativt armeringsnett av B500NA. Videre skal det tas hensyn til stedsspesifikke utfordringer for vanntetting av konstruksjonsskjøter, med anbefalinger som beskrevet i prosjektdokumentasjonen.
+
+Query: Må vi levere CV?
+Response: Det fremgår ikke av informasjonen om det er krav om å levere CV. Det anbefales å sjekke konkurransegrunnlaget eller spesifikke krav fra oppdragsgiver for å avklare dette.
+
+Query: Må vi levere priskjema?
+Response: Det er ikke spesifisert i informasjonen om priskjema må leveres. Dette avhenger av kravene i prosjektets konkurransegrunnlag eller forespørsel. Det anbefales å sjekke dokumentasjonen eller kontakte ansvarlig for prosjektet for avklaring.
+
+Query: Må vi levere oppgaveforståelse?
+Response: Det er ikke spesifikt nevnt i informasjonen om det er krav om å levere en oppgaveforståelse. Det anbefales å avklare dette med oppdragsgiver eller følge eventuelle skriftlige prosjektspesifikke avklaringer som er prioritert i henhold til retningslinjene.
+
+Query: Skrive en leveranse lista i følge grunnlaget
+Response: For å skrive en leveranseliste basert på grunnlaget, kan du inkludere følgende elementer:
+
+1. **Rapporter og dokumentasjon**: 
+   - Tverrfaglig prosjekteringsrapport for J584-Pumpestasjon.
+   - Dokumentasjon relatert til E18 Vestkorridoren og E105 Gjønnestunnelen.
+
+2. **Tabeller**:
+   - Tabell 2-2: Prosjekteringskontrollkasse og Utførelseskontrollklasse.
+   - Tabell 2-3: Prosjekteringskontrollnivåer.
+   - Tabell 2-4: Utførelseskontrollform.
+   - Tabell 3-1: Oversikt over relevante undersøkelser i berg for Gjønnestunnelen.
+   - Tabell 3-2: Bergmasseparametere etter Q-systemet.
+   - Tabell 5-1: Pålitelighetsklasse.
+
+3. **Figurer**:
+   - Figur 5-69 til Figur 5-91: Illustrasjoner og tekniske tegninger som dekker armering, lastevirkninger, koblinger, og utsparinger.
+
+4. **Tekniske spesifikasjoner**:
+   - Detaljer om armering og lastevirkninger for ulike konstruksjonselementer som bjelker, søyler, og såler.
+   - Koblinger mellom vegg, berg, og andre konstruksjonselementer.
+
+5. **Referanser til standarder**:
+   - Byggesaksforskriften (SAK10).
+   - Eurokode 0 og N200.
+
+6. **Lenker og filplasseringer**:
+   - Tilgang til relevante dokumenter via oppgitte SharePoint-lenker.
+
+Leveranselisten bør struktureres tydelig og inkludere alle nødvendige detaljer for å sikre at mottakeren har full oversikt over innholdet og kan finne relevant informasjon enkelt.
+
+Query: Hvilken fag var førespurt? (fag kan vare Geo, Konstruksjon, Vei, Vann, Prosject Management)
+Response: Faget som var forespurt er Geo.
+

@@ -1,0 +1,57 @@
+Query: hva er navn til prosjketet?
+Response: Navnet på prosjektet er "Klevantunnelen".
+
+Query: Hvem er kunden?
+Response: Kunden er Bane NOR.
+
+Query: Hva salgs konstruksjon eller konstruksjoner tilhører prosjeket?
+Response: Prosjektet inkluderer en murt konstruksjon som fungerer som et overbygg, beskrevet som et murt hvelv. Overbygget har en skråning på omtrent 30 grader og en høyde på 7-8 meter fra bakkeplan til bakkanten mot skjæringen. Det er også nevnt en liten krypåpning i veggen, samt detaljer om bergsikring som involverer bolter, fjellbånd, sprøytebetong og vann- og frostsikring.
+
+Query: Hva slags tilbud er dette rammeavtale, minikonkurangse, totalenterprise, direkte rådgivningstjenester?
+Response: Dette er direkte rådgivningstjenester, da Norconsult har utført en ingeniørkontroll av Klevantunnelen på oppdrag fra Bane NOR.
+
+Query: lagre en oppsumering av prosjketet
+Response: Klevantunnelen er hovedsakelig godt sikret, og berget fremstår som kompetent. Det er ikke behov for tiltak på kort sikt. På lang sikt anbefales det vegetasjonsrensk, bergrensk, supplerende bergsikring med bolter og bergbånd, samt én seksjon med lavprioritert vann- og frostsikring. Det foreslås også dronekartlegging av høy forskjæring. Sikringsmidler som bergsikringsbolter, bergbånd, PE-skum og hvelv er registrert, med enkelte skader som småhull i hvelv og rustskader på PE-skum-innfesting.
+
+Query: når er frist til tilbud leveranse?
+Response: Informasjonen inneholder ingen spesifikk frist for tilbudsleveranse.
+
+Query: hva er omfang av prosjektet?
+Response: Prosjektet omfatter Klevantunnelen, som er en 516 meter lang tunnel på strekningen Drivstua – Oppdal på Dovrebanen. Det inkluderer vurdering av tidligere tilstandskontroller, geologiske forhold, eksisterende sikringstiltak som murt portal, murt hvelv, bolter, bergbånd, PE-skummatter og lamellhvelv, samt eventuelle behov for nye tiltak som vann- og frostsikring og sikringsbolter. Tunnelen går i kvartsskifer-bergart og har tidligere vært utsatt for en skredhendelse i 2018.
+
+Query: hva varighet på prosjekt?
+Response: Varigheten på prosjektet er ikke spesifisert i informasjonen som er gitt.
+
+Query: kan du finner prosjekt øsnket startdato
+Response: Den ønskede startdatoen for prosjektet er vurdert som akutt, og det anbefales å igangsette arbeidet ved dagsonepartiet snarlig. Det er ikke spesifisert en eksakt dato, men behovet for oppstart er presserende.
+
+Query: kan du finer prosjekt øsnket sluttsdato
+Response: Basert på informasjonen som er tilgjengelig, er det ingen spesifikk sluttdato for prosjektet oppgitt.
+
+Query: Hva skal vi levere i tilbudet?
+Response: Tilbudet skal inkludere følgende vedlegg:  
+- Vedlegg 1 – Oversiktskart  
+- Vedlegg 2 – Kartleggingsskjema  
+- Vedlegg 3 – Bildedokumentasjon.
+
+Query: Må vi levere CV?
+Response: Det er ingen informasjon i det oppgitte materialet som spesifikt nevner krav om å levere CV. Det anbefales å avklare dette direkte med oppdragsgiver eller i henhold til prosjektets spesifikasjoner.
+
+Query: Må vi levere priskjema?
+Response: Det gis ingen informasjon om levering av priskjema i det oppgitte materialet. Det anbefales å konsultere oppdragsgiver eller konkurransegrunnlaget for å avklare dette.
+
+Query: Må vi levere oppgaveforståelse?
+Response: Det er ingen spesifikk informasjon som indikerer at en oppgaveforståelse må leveres. Det anbefales å avklare dette med oppdragsgiver eller i prosjektets kravspesifikasjoner.
+
+Query: Skrive en leveranse lista i følge grunnlaget
+Response: En leveranseliste basert på grunnlaget kan inkludere følgende:
+
+1. **Oversiktskart** (Vedlegg 1)  
+2. **Kartleggingsskjema** (Vedlegg 2)  
+3. **Bildedokumentasjon** (Vedlegg 3)  
+
+Disse vedleggene er spesifisert som en del av dokumentasjonen for prosjektet.
+
+Query: Hvilken fag var førespurt? (fag kan vare Geo, Konstruksjon, Vei, Vann, Prosject Management)
+Response: Fagene som var forespurt inkluderer ingeniørgeologi, hydrologi og bygg/konstruksjon.
+

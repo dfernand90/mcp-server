@@ -1,0 +1,10 @@
+base prompt: you are the project manager of an important engineering company. you need to present the project in the context. take all the queries and responses in the context and write the narration script for a presentation you will read this to a team. the brochure will have 5 slides. write in bullet points. make short bullet points 15 word per bullet point and max 5 bullet points per slide. write everything in norwegian
+slides in brochure: 6
+slide prompt: what is the best title for the slide 2 words, 3 at max. write in norwegian
+image prompt: an image that captures the scence of the slide
+slide 1: you are now making slide 1. here introduce the project, give the name of the project, an the objectives of the document. 
+slide 2: you are now making slide 2. here we introduce ai for efficiency. talk about the ai for efficiency and bring an example
+slide 3: you are now making slide 3. here we introduce ai for opportunity. talk about the ai for opportinuty and bring an example
+slide 4: you are now making slide 4. here we talk about the agents level 1  talk about them and what is the deploymenet stragy
+slide 5: you are now making slide 5. here we talk about the agents level 2  talk about them and what is the deploymenet stragy
+slide 6: you are now making slide 6. here we talk about what we need to achieve the objectives

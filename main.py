@@ -1,524 +1,186 @@
-"""
-MCP Server - Placeholder Implementation
-A basic Model Context Protocol server that can be extended with custom functionality.
-"""
-
-import asyncio
-import logging
-from typing import Any, Dict, List, Optional
-from dataclasses import dataclass
-import json
-import sys
 import os
-from datetime import datetime
-import base64
-import mimetypes
-from pathlib import Path
-from model import castellonian
-
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(sys.stdout)
-    ]
+from modelling.azure_rag import (
+    setup_logger as setup_logger_text,
+    load_environment as load_environment_text,
+    initialize_models as initialize_models_text,
+    load_or_create_index as load_or_create_text_index,
+    send_query as query_text_index
 )
+from modelling.llamaindex_multimodal_rag import (
+    patch_transformers,
+    setup_logger as setup_logger_image,
+    load_environment as load_environment_image,
+    initialize_models as initialize_models_image,
+    load_create_multimodal_index,
+    run_retrieval as query_image_index,
+    plot_images
+)
+from modelling.scripter import script_writer, brochure_writer
 
-logger = logging.getLogger("main")
+from modelling.video_assembler import video_assmbly
 
-@dataclass
-class MCPRequest:
-    """Represents an MCP request"""
-    method: str
-    params: Dict[str, Any]
-    id: Optional[str] = None
+from modelling.brochure_creator import create_brochure
+# ---------------------- Text Index Module ----------------------
+def create_or_load_text_index_module(persist_dir, documents_dir):
+    logger = setup_logger_text()
+    env = load_environment_text(logger)
+    initialize_models_text(env, logger)
+    query_engine = load_or_create_text_index(persist_dir, documents_dir, logger)
+    return query_engine, logger
 
-@dataclass
-class MCPResponse:
-    """Represents an MCP response"""
-    result: Any = None
-    error: Optional[Dict[str, Any]] = None
-    id: Optional[str] = None
+# ---------------------- Multimodal Index Module ----------------------
+def create_or_load_multimodal_index_module(images_path, db_path):
+    patch_transformers()
+    logger = setup_logger_image()
+    env = load_environment_image(logger)
+    _, embed_model = initialize_models_image(env, logger)
+    index = load_create_multimodal_index(images_path, db_path, embed_model, logger)
+    return index, logger
 
-class MCPServer:
-    """
-    Placeholder MCP Server implementation
-    
-    This server provides a basic structure for implementing MCP functionality.
-    You can extend this class to add your own tools and capabilities.
-    """
-    
-    def __init__(self):
-        self.tools = {}
-        self.resources = {}
-        self.prompts = {}
-        self.uploaded_files = {}  # Store uploaded PDF files
-        self._setup_default_tools()
-        self._setup_default_resources()
-    
-    def _setup_default_tools(self):
-        """Setup default placeholder tools"""
-        self.tools = {
-            "echo": {
-                "name": "echo",
-                "description": "Echo back the input message",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "message": {
-                            "type": "string",
-                            "description": "Message to echo back"
-                        }
-                    },
-                    "required": ["message"]
-                }
-            },
-            "get_time": {
-                "name": "get_time",
-                "description": "Get current server time",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {},
-                    "required": []
-                }
-            },
-            "add_numbers": {
-                "name": "add_numbers",
-                "description": "Add two floating point numbers together",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "a": {
-                            "type": "number",
-                            "description": "First number to add"
-                        },
-                        "b": {
-                            "type": "number",
-                            "description": "Second number to add"
-                        }
-                    },
-                    "required": ["a", "b"]
-                }
-            },
-            "multiply_numbers": {
-                "name": "multiply_numbers",
-                "description": "Multiply two floating point numbers",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "a": {
-                            "type": "number",
-                            "description": "First number to multiply"
-                        },
-                        "b": {
-                            "type": "number",
-                            "description": "Second number to multiply"
-                        }
-                    },
-                    "required": ["a", "b"]
-                }
-            },
-            "upload_pdf": {
-                "name": "upload_pdf",
-                "description": "Upload a PDF file for processing (validates PDF format)",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "filename": {
-                            "type": "string",
-                            "description": "Name of the PDF file"
-                        },
-                        "content": {
-                            "type": "string",
-                            "description": "Base64 encoded PDF content"
-                        }
-                    },
-                    "required": ["filename", "content"]
-                }
-            },
-            "castellonian_tool": {
-                "name": "castellonian_tool",
-                "description": "use this function to calculate the castellonian value of a floating point number",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "a": {
-                            "type": "number",
-                            "description": "floating point number to calculate the castellonian value of"
-                        }
-                    },
-                    "required": ["a"]
-                }
-            },
-            "placeholder_tool": {
-                "name": "placeholder_tool",
-                "description": "A placeholder tool for your custom implementation",
-                "inputSchema": {
-                    "type": "object",
-                    "properties": {
-                        "input": {
-                            "type": "string",
-                            "description": "Input parameter for your custom tool"
-                        }
-                    },
-                    "required": ["input"]
-                }
-            }
-        }
-    
-    def _setup_default_resources(self):
-        """Setup default resources including PDF files"""
-        self.resources = {
-            "fixed_pdf": {
-                "uri": "file://documents/sample.pdf",
-                "name": "Sample PDF Document",
-                "description": "A fixed PDF file included with the server",
-                "mimeType": "application/pdf"
-            },
-            "uploaded_pdfs": {
-                "uri": "uploaded://pdfs",
-                "name": "Uploaded PDF Files",
-                "description": "User-uploaded PDF files (validated format)",
-                "mimeType": "application/pdf"
-            }
-        }
-    
-    def _validate_pdf(self, content: bytes) -> bool:
-        """Validate that the content is a valid PDF file"""
-        try:
-            # Check PDF header
-            if content.startswith(b'%PDF-'):
-                return True
-            return False
-        except Exception:
-            return False
-    
-    def _get_fixed_pdf_path(self) -> Path:
-        """Get path to the fixed PDF file"""
-        # Look for sample.pdf in documents folder relative to server
-        current_dir = Path(__file__).parent
-        pdf_path = current_dir / "documents" / "sample.pdf"
-        return pdf_path
-    async def handle_request(self, request: MCPRequest) -> MCPResponse:
-        """Handle incoming MCP requests"""
-        if request.id is None:
-            # It's a notification — do not respond
-            return None
-        try:
-            logger.info(f"Handling request: {request.method}")
-            
-            if request.method == "initialize":
-                return await self._handle_initialize(request)
-            elif request.method == "tools":
-                return await self._handle_tools_list(request)
-            elif request.method == "tools/list":
-                return await self._handle_tools_list(request)
-            elif request.method == "tools/call":
-                return await self._handle_tools_call(request)
-            elif request.method == "resources/list":
-                return await self._handle_resources_list(request)
-            elif request.method == "resources/read":
-                return await self._handle_resources_read(request)
-            elif request.method == "prompts/list":
-                return await self._handle_prompts_list(request)
-            elif request.method == "ping":
-                return await self._handle_ping(request)
-            else:
-                return MCPResponse(
-                    error={"code": -32601, "message": f"Method not found: {request.method}"},
-                    id=str(request.id)
-                )
-        except Exception as e:
-            logger.error(f"Error handling request: {str(e)}")
-            return MCPResponse(
-                error={"code": -32603, "message": f"Internal error: {str(e)}"},
-                id=request.id
-            )
-    
-    async def _handle_initialize(self, request: MCPRequest) -> MCPResponse:
-        """Handle initialize request"""
-        #tools_list = [tool.dict() for tool in self.tools.values()]
-        return MCPResponse(
-            result={
-                "protocolVersion": "2024-11-05",
-                "capabilities": {
-                    "tools": {"listChanged": False},
-                    #"tools":list(self.tools.values())
-                },
-                "serverInfo": {
-                    "name": "mcp-castellonian-server",
-                    "version": "1.0.0",
-                    
-                }
-            },
-            id=request.id
-        )
-    
-    async def _handle_tools_list(self, request: MCPRequest) -> MCPResponse:
-        """Handle tools list request"""
-        return MCPResponse(
-            result={"tools":list(self.tools.values())},
-            id=request.id
-        )
-    
-    async def _handle_tools_call(self, request: MCPRequest) -> MCPResponse:
-        """Handle tools call request"""
-        tool_name = request.params.get("name")
-        arguments = request.params.get("arguments", {})
-        
-        if tool_name not in self.tools:
-            return MCPResponse(
-                error={"code": -32602, "message": f"Tool not found: {tool_name}"},
-                id=request.id
-            )
-        
-        # Execute the tool
-        result = await self._execute_tool(tool_name, arguments)
-        
-        return MCPResponse(
-            result={"content": [{"type": "text", "text": result}]},
-            id=request.id
-        )
-    
-    async def _execute_tool(self, tool_name: str, arguments: Dict[str, Any]) -> str:
-        """Execute a tool with given arguments"""
-        if tool_name == "echo":
-            return f"Echo: {arguments.get('message', '')}"
-        
-        elif tool_name == "get_time":
-            return f"Current server time: {datetime.now().isoformat()}"
-        
-        elif tool_name == "add_numbers":
-            try:
-                a = float(arguments.get('a', 0))
-                b = float(arguments.get('b', 0))
-                result = a + b
-                return f"Addition result: {a} + {b} = {result}"
-            except (ValueError, TypeError) as e:
-                return f"Error: Invalid number format - {str(e)}"
-        
-        elif tool_name == "multiply_numbers":
-            try:
-                a = float(arguments.get('a', 0))
-                b = float(arguments.get('b', 0))
-                result = a * b
-                return f"Multiplication result: {a} × {b} = {result}"
-            except (ValueError, TypeError) as e:
-                return f"Error: Invalid number format - {str(e)}"
-        
-        elif tool_name == "castellonian_tool":
-            try:
-                a = float(arguments.get('a', 0))
-                
-                result = castellonian(a)
-                return f"the castellonian of {a} is {result}"
-            except (ValueError, TypeError) as e:
-                return f"Error: Invalid number format - {str(e)}"
+# ---------------------- Text Query Module ----------------------
+def query_text_module(query_engine, prompt, logger):
+    response = query_text_index(query_engine, prompt, logger)
+    return response
 
-        elif tool_name == "upload_pdf":
-            try:
-                filename = arguments.get('filename', '')
-                content_b64 = arguments.get('content', '')
-                
-                # Validate filename
-                if not filename.lower().endswith('.pdf'):
-                    return "Error: File must have .pdf extension"
-                
-                # Decode base64 content
-                try:
-                    content_bytes = base64.b64decode(content_b64)
-                except Exception as e:
-                    return f"Error: Invalid base64 content - {str(e)}"
-                
-                # Validate PDF format
-                if not self._validate_pdf(content_bytes):
-                    return "Error: File is not a valid PDF format"
-                
-                # Store the uploaded file
-                file_id = f"uploaded_{len(self.uploaded_files) + 1}"
-                self.uploaded_files[file_id] = {
-                    "filename": filename,
-                    "content": content_bytes,
-                    "size": len(content_bytes),
-                    "uploaded_at": datetime.now().isoformat()
-                }
-                
-                return f"PDF uploaded successfully: {filename} (ID: {file_id}, Size: {len(content_bytes)} bytes)"
-                
-            except Exception as e:
-                return f"Error uploading PDF: {str(e)}"
-        
-        elif tool_name == "placeholder_tool":
-            # TODO: Implement your custom tool logic here
-            input_value = arguments.get('input', '')
-            return f"Placeholder tool executed with input: {input_value}"
-        
-        else:
-            return f"Tool {tool_name} not implemented"
-    
-    async def _handle_resources_read(self, request: MCPRequest) -> MCPResponse:
-        """Handle resource read request"""
-        try:
-            uri = request.params.get("uri")
-            if not uri:
-                return MCPResponse(
-                    error={"code": -32602, "message": "Missing required parameter: uri"},
-                    id=request.id
-                )
-            
-            if uri == "file://documents/sample.pdf":
-                # Read the fixed PDF file
-                pdf_path = self._get_fixed_pdf_path()
-                if pdf_path.exists():
-                    with open(pdf_path, "rb") as f:
-                        content = f.read()
-                    
-                    # Return as base64 encoded content
-                    content_b64 = base64.b64encode(content).decode('utf-8')
-                    return MCPResponse(
-                        result={
-                            "contents": [{
-                                "uri": uri,
-                                "mimeType": "application/pdf",
-                                "text": f"PDF file content (base64): {content_b64[:100]}..." if len(content_b64) > 100 else content_b64
-                            }]
-                        },
-                        id=request.id
-                    )
-                else:
-                    return MCPResponse(
-                        error={"code": -32602, "message": f"Fixed PDF file not found at: {pdf_path}"},
-                        id=request.id
-                    )
-            
-            elif uri.startswith("uploaded://pdfs/"):
-                # Handle uploaded PDF files
-                file_id = uri.split("/")[-1]
-                if file_id in self.uploaded_files:
-                    file_info = self.uploaded_files[file_id]
-                    content_b64 = base64.b64encode(file_info["content"]).decode('utf-8')
-                    
-                    return MCPResponse(
-                        result={
-                            "contents": [{
-                                "uri": uri,
-                                "mimeType": "application/pdf",
-                                "text": f"Uploaded PDF: {file_info['filename']} (Size: {file_info['size']} bytes, Uploaded: {file_info['uploaded_at']})"
-                            }]
-                        },
-                        id=request.id
-                    )
-                else:
-                    return MCPResponse(
-                        error={"code": -32602, "message": f"Uploaded file not found: {file_id}"},
-                        id=request.id
-                    )
-            
-            else:
-                return MCPResponse(
-                    error={"code": -32602, "message": f"Resource not found: {uri}"},
-                    id=request.id
-                )
-                
-        except Exception as e:
-            logger.error(f"Error reading resource: {str(e)}")
-            return MCPResponse(
-                error={"code": -32603, "message": f"Error reading resource: {str(e)}"},
-                id=request.id
-            )
-    
-    async def _handle_resources_list(self, request: MCPRequest) -> MCPResponse:
-        """Handle resources list request"""
-        # Add uploaded files to resources list
-        resources = list(self.resources.values())
-        
-        # Add uploaded PDF files as individual resources
-        for file_id, file_info in self.uploaded_files.items():
-            resources.append({
-                "uri": f"uploaded://pdfs/{file_id}",
-                "name": file_info["filename"],
-                "description": f"Uploaded PDF file (Size: {file_info['size']} bytes)",
-                "mimeType": "application/pdf"
-            })
-        
-        return MCPResponse(
-            result={"resources": resources},
-            id=request.id
-        )
-        """Handle prompts list request"""
-        return MCPResponse(
-            result={"prompts": list(self.prompts.values())},
-            id=request.id
-        )
-    
-    async def _handle_ping(self, request: MCPRequest) -> MCPResponse:
-        """Handle ping request"""
-        return MCPResponse(
-            result={"pong": True},
-            id=request.id
-        )
+# ---------------------- Multimodal Query Module ----------------------
+def query_multimodal_module(index, query, logger):
+    retrieved_image = query_image_index(index, query, logger)
+    plot_images(retrieved_image, logger)
+    return retrieved_image
 
-class MCPStdioTransport:
-    """STDIO transport for MCP server"""
-    
-    def __init__(self, server: MCPServer):
-        self.server = server
-    
-    async def start(self):
-        """Start the STDIO transport"""
-        logger.info("Starting MCP server with STDIO transport")
+# ---------------------- summarize a document ----------------------
+
+def sumarize_document_based_on_user_questions(args:None):
+    persist_dir = args.get("persist_dir", "")
+    documents_dir = args.get("documents_dir", "")
+    response_directory_path = args.get("response_directory_path", "")
+    response_file_path = args.get("response_file_path", "")
+    queries_path = args.get("queries_path", "")
+    text_query_engine, logger = create_or_load_text_index_module(persist_dir, documents_dir)
+    # create the text query file if it doesn't exist
+    if not os.path.exists(response_directory_path):
+        os.mkdir(response_directory_path)
+    if not os.path.exists(response_file_path):
+        if not os.path.exists(queries_path):
+            with open(queries_path, 'w', encoding='utf-8') as f:
+                f.write("hva er kontext om?\n")
         
-        try:
-            while True:
-                # Read from stdin
-                line = await asyncio.get_event_loop().run_in_executor(
-                    None, sys.stdin.readline
-                )
-                
-                if not line:
-                    break
-                
-                try:
-                    # Parse JSON-RPC request
-                    request_data = json.loads(line.strip())
-                    request = MCPRequest(
-                        method=request_data.get("method"),
-                        params=request_data.get("params", {}),
-                        id=request_data.get("id")
-                    )
-                    
-                    # Handle request
-                    response = await self.server.handle_request(request)
-                    
-                    # Send response
-                    response_data = {
-                        "jsonrpc": "2.0",
-                        "id": response.id
-                    }
-                    
-                    if response.result is not None:
-                        response_data["result"] = response.result
-                    if response.error is not None:
-                        response_data["error"] = response.error
-                    
-                    print(json.dumps(response_data), flush=True)
-                    
-                except json.JSONDecodeError as e:
-                    logger.error(f"Invalid JSON received: {e}")
-                except Exception as e:
-                    logger.error(f"Error processing request: {e}")
-                    
-        except KeyboardInterrupt:
-            logger.info("Server shutting down...")
-        except Exception as e:
-            logger.error(f"Server error: {e}")
+        with open(queries_path, 'r',encoding='utf-8') as file:
+            for line in file:
+                text_query = line.strip()
+                if text_query:
+                    logger.info(f"📝📝 Text Query: {text_query}")
+                    text_response = query_text_module(text_query_engine, text_query, logger)
+                    logger.info(f"📝📝 Text Response: {text_response.response.strip()}")
+                    # save query and response to file
+                    with open(response_file_path, "a",  encoding='utf-8') as response_file:
+                        response_file.write(f"Query: {text_query}\nResponse: {text_response.response.strip()}\n\n")
+    logger.info(f"🖼️Response file created stored in: {response_file_path}")
 
-async def main():
-    """Main entry point"""
-    server = MCPServer()
-    transport = MCPStdioTransport(server)
-    await transport.start()
 
+# ---------------------- create a video ----------------------
+def create_a_video(project_name, underlag, kg):
+    response_directory_path = f"./projects/{project_name}/{underlag}/text"
+    persist_dir_script = f"./storage/script/{project_name}/{kg}/ada3rag1"
+    documents_dir_script = response_directory_path
+    script_prompt = "./base_prompts/script_blueprint.txt"
+    args_script={
+        "persist_dir_script": persist_dir_script,
+        "documents_dir_script": documents_dir_script,
+        "script_prompt": script_prompt,
+    }  
+    script_id = script_writer(args= args_script)
+    script_id_2 = 2865556207773740
+    video_assmbly(script_id, help_script_id =script_id_2)
+    return f"The video object: {script_id} was created successfully"
+# ---------------------- create a presentation ----------------------
+def create_a_brochure(project_name, underlag, kg):
+    response_directory_path = f"./projects/{project_name}/{underlag}/text"
+    persist_dir_script = f"./storage/script/{project_name}/{kg}/ada3rag1"
+    documents_dir_script = response_directory_path
+    brochure_prompt = "./base_prompts/brochure_blueprint.txt"
+    args_brochure={
+        "persist_dir_script": persist_dir_script,
+        "documents_dir_script": documents_dir_script,
+        "brochure_prompt": brochure_prompt,
+    }    
+    id_brochure = brochure_writer(args= args_brochure)
+    create_brochure(id_brochure)
+    return f"The presentation object: {id_brochure} was created successfully"
+
+def tool_video_maker(project_name,underlag,kg):
+    # remember to change this to vigga bru
+    persist_dir = f"./storage/{project_name}/{kg}/ada3rag1"
+    documents_dir = f"./projects/{project_name}/{underlag}/{kg}"
+    images_path = f"./projects/{project_name}/{underlag}/images"
+    queries_path = "./base_prompts/queries.txt"
+    # TODO mmake test combining this with /kg
+    response_directory_path = f"./projects/{project_name}/{underlag}/text"
+    response_file_path = f"{response_directory_path}/text_query_responses.txt"
+    image_query = "What image is a better cover for the book 'Vigga Bru'?"
+
+    # Test Text Index Creation and Query
+    args={
+        "persist_dir": persist_dir,
+        "documents_dir": documents_dir,
+        "queries_path": queries_path,
+        "response_directory_path": response_directory_path,
+        "response_file_path": response_file_path
+    }
+    
+    sumarize_document_based_on_user_questions(args)    
+    
+    result = create_a_video(project_name,underlag,kg)
+    response= {
+        "result": result,
+        "id": str(1),
+        "error": None             
+    }
+    return response
+
+def tool_brochure_maker(project_name,underlag,kg):
+    # remember to change this to vigga bru
+    persist_dir = f"./storage/{project_name}/{kg}/ada3rag1"
+    documents_dir = f"./projects/{project_name}/{underlag}/{kg}"
+    images_path = f"./projects/{project_name}/{underlag}/images"
+    queries_path = "./base_prompts/queries.txt"
+    # TODO mmake test combining this with /kg
+    response_directory_path = f"./projects/{project_name}/{underlag}/text"
+    response_file_path = f"{response_directory_path}/text_query_responses.txt"
+    image_query = "What image is a better cover for the book 'Vigga Bru'?"
+
+    # Test Text Index Creation and Query
+    args={
+        "persist_dir": persist_dir,
+        "documents_dir": documents_dir,
+        "queries_path": queries_path,
+        "response_directory_path": response_directory_path,
+        "response_file_path": response_file_path
+    }
+    
+    sumarize_document_based_on_user_questions(args)
+    
+    result = create_a_brochure(project_name,underlag,kg)
+    response= {
+        "result": result,
+        "id": str(1),
+        "error": None             
+    }
+    return response
+# ---------------------- Main Execution ----------------------
 if __name__ == "__main__":
-    asyncio.run(main())
+    # User-defined inputs
+    db_path = "qdrant_mrag_db"
+    project_name = "agent strategy"
+    underlag = "01 Underlag"
+    kg = "kg" # konkuransegrunlag
+    
+    #tool_video_maker(project_name,underlag,kg)
+    response = tool_brochure_maker(project_name,underlag,kg)
+    print(response)
+    """  
+    # Test Multimodal Index Creation and Query
+    image_index, image_logger = create_or_load_multimodal_index_module(images_path, db_path)
+    retrieved_images = query_multimodal_module(image_index, image_query, image_logger)
+    print(f"🖼️ Retrieved Images: {retrieved_images}")
+    """

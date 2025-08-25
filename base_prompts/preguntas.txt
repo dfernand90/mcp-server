@@ -1,0 +1,8 @@
+what should be the name of the course?
+what is book about?
+what is a time domain analysis?
+how could describe an image that explains the time domain analysis?
+What is a frequency domain analysis?
+how could you describe an image that explains the frequency domain analysis?
+what is the differences between time and frequency domain analysis?
+what type of instrumentation is there for modal domain?

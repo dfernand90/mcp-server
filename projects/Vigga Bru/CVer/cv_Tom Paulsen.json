@@ -1,0 +1,2064 @@
+{
+    "_id": "648ff88455646f5eddde1727",
+    "bruker_id": "648ff88355646f5eddde1726",
+    "user_id": "648ff88355646f5eddde1726",
+    "tilbud_id": null,
+    "name": "Tom Paulsen",
+    "navn": "Tom Paulsen",
+    "name_multilang": {},
+    "title": {
+        "int": "",
+        "no": "Digital lead"
+    },
+    "telefon": "+4797715777",
+    "landline": null,
+    "twitter": null,
+    "level": null,
+    "born_day": 1,
+    "born_month": 1,
+    "born_year": 1969,
+    "default": true,
+    "nationality": {
+        "int": "",
+        "no": "Norsk"
+    },
+    "place_of_residence": {
+        "int": "",
+        "no": "Nordre Follo"
+    },
+    "status": null,
+    "order": null,
+    "owner_updated_at": "2024-12-06T11:34:45.705Z",
+    "owner_updated_at_significant": null,
+    "imported_date": "2023-07-03T10:43:55.819Z",
+    "created_at": "2023-06-19T06:41:08.107Z",
+    "updated_at": "2024-12-06T11:34:45.704Z",
+    "version": 9,
+    "modifier_id": null,
+    "company_id": "582d9aeb2c04d615d6a569b8",
+    "external_unique_id": "sra785",
+    "email": "tom.paulsen@afry.com",
+    "country_code": "no",
+    "language_code": "no",
+    "language_codes": [
+        "no",
+        "int"
+    ],
+    "proposal": null,
+    "telephone": "+4797715777",
+    "technologies": [
+        {
+            "_id": "648ff88455646f5eddde1728",
+            "category": {},
+            "created_at": "2023-06-19T06:41:08.107Z",
+            "disabled": true,
+            "diverged_from_master": false,
+            "exclude_tags": [],
+            "external_unique_id": null,
+            "modifier_id": null,
+            "order": 0,
+            "origin_id": null,
+            "owner_updated_at": null,
+            "recently_added": false,
+            "starred": false,
+            "uncategorized": true,
+            "updated_at": "2024-12-06T11:34:45.724Z",
+            "version": 1
+        },
+        {
+            "category": {
+                "no": "Kompetanse"
+            },
+            "uncategorized": false,
+            "exclude_tags": [],
+            "technology_skills": [
+                {
+                    "_id": "64a2a6465281f0b1d8013394",
+                    "tags": {
+                        "no": "AutoCad Architecture"
+                    },
+                    "proficiency": 0,
+                    "order": 0,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013395",
+                    "tags": {
+                        "no": "Autodesk Navisworks"
+                    },
+                    "proficiency": 0,
+                    "order": 1,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013396",
+                    "tags": {
+                        "no": "Autodesk Revit"
+                    },
+                    "proficiency": 0,
+                    "order": 2,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013397",
+                    "tags": {
+                        "no": "BIM Coordination"
+                    },
+                    "proficiency": 0,
+                    "order": 3,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013398",
+                    "tags": {
+                        "no": "Building & Structural Physics"
+                    },
+                    "proficiency": 0,
+                    "order": 4,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013399",
+                    "tags": {
+                        "no": "Building Structures - housing"
+                    },
+                    "proficiency": 0,
+                    "order": 5,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d801339a",
+                    "tags": {
+                        "no": "Building Structures - wood"
+                    },
+                    "proficiency": 0,
+                    "order": 6,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d801339b",
+                    "tags": {
+                        "no": "LEAN"
+                    },
+                    "proficiency": 0,
+                    "order": 7,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d801339c",
+                    "tags": {
+                        "no": "Project Coordination"
+                    },
+                    "proficiency": 0,
+                    "order": 8,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d801339d",
+                    "tags": {
+                        "no": "Project Management"
+                    },
+                    "proficiency": 0,
+                    "order": 9,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d801339e",
+                    "tags": {
+                        "no": "Project planning"
+                    },
+                    "proficiency": 0,
+                    "order": 10,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d801339f",
+                    "tags": {
+                        "no": "SharePoint (unspecified)"
+                    },
+                    "proficiency": 0,
+                    "order": 11,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d80133a0",
+                    "tags": {
+                        "no": "Solibri"
+                    },
+                    "proficiency": 0,
+                    "order": 12,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a2a6465281f0b1d80133a1",
+                    "tags": {
+                        "no": "VDC implementation"
+                    },
+                    "proficiency": 0,
+                    "order": 13,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013393",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": null,
+            "updated_at": "2023-07-03T10:43:55.810Z",
+            "created_at": "2023-07-03T10:43:55.810Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "key_qualifications": [
+        {
+            "label": {},
+            "long_description": {
+                "no": "Tom Paulsen er en svært erfaren senioringeniør med over 25 års erfaring både som rådgiver og entreprenør. Han har en dyptgående ekspertise innen VDC (Virtual Design and Construction), og har fullført VDC Mentor-programmet ved NTNU-Stanford-EBA. Siden år 2000 har han vært en pioner innen BIM-utvikling og har siden 2003 vært en sentral aktør i digitaliseringen av byggebransjen.\n\nTom har vært ansvarlig for BIM og VDC i store bedrifter, noe som har gitt ham en omfattende forståelse av prosjektgjennomføring, prosess- og strategiarbeid. I tillegg har han en praktisk innsikt i en rekke programvarer og prosjekteringsprosesser. Hans ledelse av EBA's BIM-utvalg fra 2015 til 2019 demonstrerer hans evne til å drive frem innovative løsninger og arbeide tett med akademiske institusjoner som NTNU og Stanford.\n\nTom Paulsen er den optimale ressursen for Vigga-prosjektet på grunn av hans kontinuerlige fokus på forbedring, hans omfattende erfaring innen BIM og VDC, og hans evne til å lede og påvirke digitaliseringsprosesser i komplekse prosjekter. Hans unike kombinasjon av strategisk innsikt og praktisk erfaring sikrer at han kan bidra til å oppfylle alle kravene i prosjektet og levere resultater av høy kvalitet."
+            },
+            "tag_line": {},
+            "key_points": [
+                {
+                    "long_description": {},
+                    "name": {
+                        "no": "Utviklet EBA´s BIM manual"
+                    },
+                    "_id": "64a2a6465281f0b1d8013360",
+                    "order": 0,
+                    "starred": false,
+                    "disabled": false,
+                    "version": 2,
+                    "updated_at": "2023-07-03T10:43:55.847Z",
+                    "created_at": "2023-07-03T10:43:55.847Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                },
+                {
+                    "long_description": {},
+                    "name": {
+                        "no": "MMI (Model Modenhet Indeks) bransjenorm"
+                    },
+                    "_id": "64a2a6465281f0b1d8013361",
+                    "order": 1,
+                    "starred": false,
+                    "disabled": false,
+                    "version": 2,
+                    "updated_at": "2023-07-03T10:43:55.855Z",
+                    "created_at": "2023-07-03T10:43:55.855Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                },
+                {
+                    "long_description": {},
+                    "name": {
+                        "no": "Etablert samarbeid mellom EBA og RIF"
+                    },
+                    "_id": "64a2a6465281f0b1d8013362",
+                    "order": 2,
+                    "starred": false,
+                    "disabled": false,
+                    "version": 2,
+                    "updated_at": "2023-07-03T10:43:55.861Z",
+                    "created_at": "2023-07-03T10:43:55.861Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                },
+                {
+                    "long_description": {},
+                    "name": {
+                        "no": "Initiativtaker til å etablering av Norsk VDC utdanning i"
+                    },
+                    "_id": "64a2a6465281f0b1d8013363",
+                    "order": 3,
+                    "starred": false,
+                    "disabled": false,
+                    "version": 2,
+                    "updated_at": "2023-07-03T10:43:55.868Z",
+                    "created_at": "2023-07-03T10:43:55.868Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                },
+                {
+                    "long_description": {},
+                    "name": {
+                        "no": "VDC mentor i 2020"
+                    },
+                    "_id": "64a2a6465281f0b1d8013364",
+                    "order": 4,
+                    "starred": false,
+                    "disabled": false,
+                    "version": 2,
+                    "updated_at": "2023-07-03T10:43:55.873Z",
+                    "created_at": "2023-07-03T10:43:55.873Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d801335f",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.878Z",
+            "created_at": "2023-07-03T10:43:55.878Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "cv_roles": [
+        {
+            "name": {
+                "no": "VDC-ansvarlig"
+            },
+            "starred_order": null,
+            "years_of_experience": 5,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d8013378",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d8013379"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013380",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d8013381"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013371",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "version": 4,
+            "updated_at": "2024-12-05T00:58:57.274Z",
+            "created_at": "2023-07-03T10:43:56.065Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Leder VDC og digitalisering"
+            },
+            "starred_order": null,
+            "years_of_experience": 4,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d801337a",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d801337b"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013372",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "version": 4,
+            "updated_at": "2024-04-04T01:00:37.408Z",
+            "created_at": "2023-07-03T10:43:56.070Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Systemrådgiver"
+            },
+            "starred_order": null,
+            "years_of_experience": 1,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d801337c",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d801337d"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013373",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "version": 2,
+            "updated_at": "2023-07-06T01:03:39.281Z",
+            "created_at": "2023-07-03T10:43:56.074Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "BIM manager"
+            },
+            "starred_order": null,
+            "years_of_experience": 3,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d801337e",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d801337f"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a2a6465281f0b1d8013388",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d8013389"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013374",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "version": 2,
+            "updated_at": "2023-07-06T01:03:39.370Z",
+            "created_at": "2023-07-03T10:43:56.080Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Leder"
+            },
+            "starred_order": null,
+            "years_of_experience": 5,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d8013382",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d8013383"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013375",
+            "order": 4,
+            "starred": false,
+            "disabled": false,
+            "version": 2,
+            "updated_at": "2023-07-06T01:03:39.444Z",
+            "created_at": "2023-07-03T10:43:56.085Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "BIM-ansvarlig"
+            },
+            "starred_order": null,
+            "years_of_experience": 2,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d8013384",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d8013385"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013376",
+            "order": 5,
+            "starred": false,
+            "disabled": false,
+            "version": 2,
+            "updated_at": "2023-07-06T01:03:39.521Z",
+            "created_at": "2023-07-03T10:43:56.089Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "BIM-koordinator"
+            },
+            "starred_order": null,
+            "years_of_experience": 0,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a2a6465281f0b1d8013386",
+                    "roles": [
+                        {
+                            "_id": "64a2a6465281f0b1d8013387"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013377",
+            "order": 6,
+            "starred": false,
+            "disabled": false,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:56.095Z",
+            "created_at": "2023-07-03T10:43:56.095Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "work_experiences": [
+        {
+            "description": {
+                "no": "Digital Lead, VDC-manager"
+            },
+            "employer": {
+                "no": "AFRY Tranportation"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2021",
+            "year_to": null,
+            "_id": "64a2a6465281f0b1d8013367",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.920Z",
+            "created_at": "2023-07-03T10:43:55.920Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "VDC-ansvarlig"
+            },
+            "employer": {
+                "no": "Veidekke Entreprenør AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2014",
+            "year_to": "2021",
+            "_id": "64a2a6465281f0b1d8013368",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.927Z",
+            "created_at": "2023-07-03T10:43:55.927Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Prosjekteringsleder"
+            },
+            "employer": {
+                "no": "BundeBygg AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2014",
+            "year_to": "2014",
+            "_id": "64a2a6465281f0b1d8013369",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.934Z",
+            "created_at": "2023-07-03T10:43:55.934Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Public Affairs"
+            },
+            "employer": {
+                "no": "Velux Norge AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2012",
+            "year_to": "2013",
+            "_id": "64a2a6465281f0b1d801336a",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.939Z",
+            "created_at": "2023-07-03T10:43:55.939Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Rådgiver, BIM-koordinator"
+            },
+            "employer": {
+                "no": "Skanska Norge AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2009",
+            "year_to": "2012",
+            "_id": "64a2a6465281f0b1d801336b",
+            "order": 4,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.945Z",
+            "created_at": "2023-07-03T10:43:55.945Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Prosjektleder BIM"
+            },
+            "employer": {
+                "no": "Skanska Bolig AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2007",
+            "year_to": "2009",
+            "_id": "64a2a6465281f0b1d801336c",
+            "order": 5,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.959Z",
+            "created_at": "2023-07-03T10:43:55.959Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Owner/Consultant"
+            },
+            "employer": {
+                "no": "Incudo Consulting AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2005",
+            "year_to": "2007",
+            "_id": "64a2a6465281f0b1d801336d",
+            "order": 6,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.965Z",
+            "created_at": "2023-07-03T10:43:55.965Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Rådgiver, DAK-ansvarlig"
+            },
+            "employer": {
+                "no": "Selvaag Bygg AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "1997",
+            "year_to": "2005",
+            "_id": "64a2a6465281f0b1d801336e",
+            "order": 7,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.971Z",
+            "created_at": "2023-07-03T10:43:55.971Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "DAK-ansvarlig"
+            },
+            "employer": {
+                "no": "Posten Eiendom Norge AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "1994",
+            "year_to": "1996",
+            "_id": "64a2a6465281f0b1d801336f",
+            "order": 8,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.977Z",
+            "created_at": "2023-07-03T10:43:55.977Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Tømrer"
+            },
+            "employer": {
+                "no": "Morten Dybvig AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "1992",
+            "year_to": "1994",
+            "_id": "64a2a6465281f0b1d8013370",
+            "order": 9,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.984Z",
+            "created_at": "2023-07-03T10:43:55.984Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "project_experiences": [
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Eiffage Genie Civil "
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "E18 Langangen - Rugtvedt Parsell 1, 2 og 3"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "no": "Utbyggingen inkluderer tre delparseller, med den nye Vigga bru som en viktig del av prosjektet. Innlandet fylkeskommune vil håndtere reguleringsplanarbeidet og vegplanleggingen, mens leverandøren er ansvarlig for detaljprosjekteringen av konstruksjonen. Dette innebærer utarbeidelse av komplett byggeplan, inkludert D-kapittelet i konkurransegrunnlaget, og godkjenningsprosedyrene inn mot Vegdirektoratet. Prosjektet legger stor vekt på miljø- og bærekraft, og skal sertifiseres i henhold til Ceequal med mål om å nå nivået \"Excellent\". Prosjektet gjennomføres med høy BIM-standard, der VDC spiller en avgjørende rolle for suksess. Leverandøren skal også levere alle nødvendige fagmodeller, kvalitetsdokumentasjon, og oppfølgingsdokumentasjon i henhold til gjeldende retningslinjer."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "03",
+            "month_to": null,
+            "percent_allocated": null,
+            "project_extent_amt": "120000000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {
+                "no": "Totalentreprise"
+            },
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": "5000000000",
+            "total_extent_currency": "nok",
+            "total_extent_hours": null,
+            "year_from": "2022",
+            "year_to": null,
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d8013379",
+                    "cv_role_id": "64a2a6465281f0b1d8013371",
+                    "name": {
+                        "no": "VDC-ansvarlig"
+                    },
+                    "long_description": {
+                        "no": "Videreutvikle VDC strategi. Lede VDC og BIM team. Ansvar for prosjektportal. Er en del av prosjektledergruppa i AFRY"
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 1,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013378",
+            "order": 0,
+            "external_unique_id": null,
+            "version": 8,
+            "updated_at": "2024-02-28T01:07:21.662Z",
+            "created_at": "2023-07-03T10:43:55.989Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "AFRY"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "Utvikling i AFRY TRansportation"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektbeskrivelsen kan tilpasses som følger: \n\nEtablere rammevilkår for utvikling av beste praksis for verktøy og prosesser, samt styre utviklingsprosjekter innen teknologi og prosessforbedringer i prosjektfasen for detaljkonstruksjon og detaljprosjektering. Oppdraget inkluderer utarbeidelse av komplett modellgrunnlag, geoteknisk prosjektering, detaljprosjektering av konstruksjon, brurekkverk, og byggeplan for konstruksjon. Videre skal arbeidet omfatte kontroll og godkjenningsprosedyren i Vegdirektoratet, leveranse av mengder og grunnlag til bruk inn i et anslag, og beregning av rørdimensjon til interimsløsningen. Alle fagmodeller skal prosjekteres eller leveres i fylkets Quadri- server, og modellene skal inneholde egenskaper i henhold til fylkeskommunens BIM manual. Etter avsluttet prosjektering skal konsulenten levere modeller i IFC format og programmenes native format. Oppdraget inkluderer også utarbeidelse av BIM-gjennomføringsplan, kvalitetskontroll dokumentasjon, miljørisikovurdering ved riving og bygging, og fullverdig D-kapittel til konkurransegrunnlaget for entreprisen."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "11",
+            "month_to": null,
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2021",
+            "year_to": null,
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d801337b",
+                    "cv_role_id": "64a2a6465281f0b1d8013372",
+                    "name": {
+                        "no": "Leder VDC og digitalisering"
+                    },
+                    "long_description": {
+                        "no": "Organisere nettverk i Transportation, Norge og internasjonalt.\r\n\r\nDrive arbeidsgrupper i fagene for forbedring av beste praksis.\r\n\r\nLede utviklingsprosjekter innen BIM, teknologiløsninger, samhandling og saksbehandling.\r\n\r\nBidrag i oppstartsteam for prosjekter med etablering av prosjektportaler, BIM gjennomføringsplan og samhandlingsløsninger"
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 1,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d801337a",
+            "order": 1,
+            "external_unique_id": null,
+            "version": 2,
+            "updated_at": "2024-02-28T01:07:21.664Z",
+            "created_at": "2023-07-03T10:43:55.994Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Veidekke Anlegg"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "Utvikling av fagportaler i Sharepoint"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "For å forbedre informasjon og kommunikasjon i prosjektet, vil vi etablere SharePoint og Teams-rom for fagmiljøer og prosjekter. Dette innebærer en kartlegging av arbeid og informasjon, som deretter struktureres i en SharePoint og Teams-løsning. Målet er å fremme samhandling, visualisering av informasjon, oppgavestyring, dokumentstyring, notater og møtereferater, for å sikre en effektiv og helhetlig prosjektutførelse."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "10",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2021",
+            "year_to": "2021",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d801337d",
+                    "cv_role_id": "64a2a6465281f0b1d8013373",
+                    "name": {
+                        "no": "Systemrådgiver"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d801337c",
+            "order": 2,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.665Z",
+            "created_at": "2023-07-03T10:43:56.003Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Oslo Kommune Bymiljøetaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "Nye Langøyene - Miljøtildekking og opprustning"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet inkluderer etablering av en BIM-plan og oppfølging av denne, samt koordinering av rådgivere og kvalitetssikring av modellleveranser. Det innebærer også sammenstilling til innsynsløsninger som Autodesk 360 Docs, Navisworks, og Trimble Connect, og videre opplæring i bruk av disse verktøyene. I tillegg omfatter oppgavene utarbeidelse av riggplan og visualisering av produksjonsmetoder, modellering av bygninger og konstruksjoner på øya, og etablering av system for FDV (forvaltning, drift og vedlikehold). Prosjektet ledes også med fokus på visualisering av arbeidet."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "04",
+            "month_to": "10",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2019",
+            "year_to": "2021",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d801337f",
+                    "cv_role_id": "64a2a6465281f0b1d8013374",
+                    "name": {
+                        "no": "BIM manager"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d801337e",
+            "order": 3,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.665Z",
+            "created_at": "2023-07-03T10:43:56.009Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Bane NOR"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "UDK 02 Kulvert og Løsmassetunnel"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Utviklingen av BIM-planen vil innebære etablering av en samhandlingsløsning i Sharepoint, samt opprettelse av innsynsmodeller i Trimble Connect og Navisworks. Arbeidet vil også inkludere ledelse av 4D-planlegging og struktur for involverende planlegging og fremdriftsplanlegging. \n\nKoordineringen av rådgivere vil være sentral for å sikre at BIM-leveransene oppfyller prosjektkravene. Det vil også bli laget veiledninger og dokumentasjon relatert til BIM, inkludert detaljer om hvordan man setter opp og styrer IFC-parametre for både Revit og AutoCAD. \n\nDrone-data vil publiseres til Sharepoint for å sikre enkel tilgang og deling av informasjon."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "11",
+            "month_to": "06",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2019",
+            "year_to": "2021",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d8013381",
+                    "cv_role_id": "64a2a6465281f0b1d8013371",
+                    "name": {
+                        "no": "VDC-ansvarlig"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013380",
+            "order": 4,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.665Z",
+            "created_at": "2023-07-03T10:43:56.015Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Entreprenørforeningen"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "EBA's BIM utvalg"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "I prosjektbeskrivelsen etableres en sterk gruppe med eksperter fra Skanska, NCC, Veidekke, Kruse Smith, og Peab. Gruppen engasjeres med Building Smart, Standard Norge, og RIF for å utvikle bransjenormer for BIM-manual og MMI. Det settes også opp et samarbeid mellom NTNU og Stanford for å fremme videre norsk VDC-utdanning."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "12",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2015",
+            "year_to": "2019",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d8013383",
+                    "cv_role_id": "64a2a6465281f0b1d8013375",
+                    "name": {
+                        "no": "Leder"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013382",
+            "order": 5,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.665Z",
+            "created_at": "2023-07-03T10:43:56.020Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Nye Veier AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "E6 Arnkvern - Moelv"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Ledet BIM-team fra tidlig fase. Utvikle BIM- og digital strategi og løsninger for å møte kravene til et modellbasert prosjekt med en sentral informasjonsbærer gjennom hele livsløpet. \n\nOppdeling av prosjekt i arbeidspakker som grunnlag for systematisk prosjektering, løsninger for digital samhandling og modelldistribusjon, innsynsløsninger, tverrfaglig koordinering, kvalitetssikring av modeller. Støtte til BIM teknikere."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "12",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2017",
+            "year_to": "2018",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d8013385",
+                    "cv_role_id": "64a2a6465281f0b1d8013376",
+                    "name": {
+                        "no": "BIM-ansvarlig"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013384",
+            "order": 6,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.665Z",
+            "created_at": "2023-07-03T10:43:56.025Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Statens Vegvesen"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "E 134 Damåsen - Tislegård"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Modellering og visualisering skal inkludere riggen, riggens terreng og endret adkomst for private for å øke sikkerheten under anleggsperioden. Det er viktig å teste ut 4D og Dalux for kvalitets- og sikkerhetsstyring.\n\nNår det gjelder rådgivning om kontraktsforhold mellom BIM og tegninger, er det avgjørende å avklare hva som skal gjelde når modellen ikke stemmer overens med tegningene. Prosjektet bør spesifisere hvordan slike uoverensstemmelser skal håndteres, og hvilken informasjon som skal anses som den korrekte. Dette for å sikre en tydelig og effektiv kommunikasjons- og beslutningsprosess."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "02",
+            "month_to": "06",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2016",
+            "year_to": "2016",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d8013387",
+                    "cv_role_id": "64a2a6465281f0b1d8013377",
+                    "name": {
+                        "no": "BIM-koordinator"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013386",
+            "order": 7,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.665Z",
+            "created_at": "2023-07-03T10:43:56.031Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Statens vegvesen"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "RV 80 Bodø"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Ansvar for innsynsmodell innebærer å sikre riktig sammensetting og bruk av andres modeller som referanse ved visuell kontroll. Det inkluderer å sikre at fagmodeller inneholder metadata i henhold til relevante egenskapsdatasett og at modellene er utarbeidet i henhold til prosjektets BIM-manual. Introduksjon av BIM i Veidekke vil involvere opplæring internt, bistand med BIM-tekniske avklaringer, og følge opp og kvalitetssikre leveranser i henhold til prosjektets BIM-manual."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "10",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2015",
+            "year_to": "2015",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a2a6465281f0b1d8013389",
+                    "cv_role_id": "64a2a6465281f0b1d8013374",
+                    "name": {
+                        "no": "BIM manager"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a2a6465281f0b1d8013388",
+            "order": 8,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.666Z",
+            "created_at": "2023-07-03T10:43:56.036Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Skanska Norge AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "BIM koordinator"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet omfatter koordinering av bolig- og kontorbygg, herunder kontraktsarbeid og opplæring av konsulenter. Det vil bli utarbeidet BIM-planer for å sikre effektiv prosjektering og dokumentasjon. Mengdeuttak vil bli gjennomført som en del av kvalitetskontrollen og dokumentasjonsprosessen for å sikre nøyaktighet og samsvar med prosjektbeskrivelsen."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "09",
+            "month_to": "11",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2007",
+            "year_to": "2012",
+            "images": [],
+            "roles": [],
+            "_id": "64a2a6465281f0b1d801338a",
+            "order": 9,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.666Z",
+            "created_at": "2023-07-03T10:43:56.040Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Skanska Norge AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "Rådgiver"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet for utvikling av byggesystem og standardisering for boliger kan beskrives som et detaljprosjektert og byggeklart prosjekt, med fokus på å levere et funksjonelt system som prioriterer kostnadseffektivitet og høy kvalitet. Prosjektet vil følge strenge reguleringsplaner og byggeplanleggingsprosedyrer, og det endelige godkjente grunnlaget skal være i tråd med relevante myndigheters krav og standarder. Økonomiske rammer og milepæler vil bli definert i henhold til handlingsprogrammet, og eventuelle eksisterende konstruksjoner som skal erstattes eller forbedres vil bli evaluert og dokumentert nøye. Leverandøren skal stå for detaljprosjekteringen, inkludert fullstendig byggeplan og nødvendige kapittel i konkurransegrunnlaget, samt sørge for at prosjektet blir ferdigstilt og godkjent av relevante myndigheter."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "07",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2007",
+            "year_to": "2012",
+            "images": [],
+            "roles": [],
+            "_id": "64a2a6465281f0b1d801338b",
+            "order": 10,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.666Z",
+            "created_at": "2023-07-03T10:43:56.045Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Skanska Bolig"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "Arkitekt"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Utvikling og prosjektering av Boligblokker på Løren og Haslum vil inkludere detaljprosjektering og utarbeidelse av fullstendige byggeplaner. Prosjektene vil bli gjennomført ved bruk av BIM (Building Information Modeling), spesielt i Revit, med fokus på å utvikle innhold og modeller i henhold til spesifikasjoner. Det vil også være nødvendig å utarbeide en BIM-gjennomføringsplan i tråd med prosjektets krav og standarder. Leverandøren skal levere fullstendige modeller som inneholder alle nødvendige egenskapsdata, samt sørge for kvalitetskontroll og dokumentasjon i tråd med gjeldende normer og regelverk."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "04",
+            "month_to": "12",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2005",
+            "year_to": "2007",
+            "images": [],
+            "roles": [],
+            "_id": "64a2a6465281f0b1d801338c",
+            "order": 11,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.667Z",
+            "created_at": "2023-07-03T10:43:56.050Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Selvaagbygg AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "Rådgiver"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektering bygningsfysikk, plan og fasade for en rekke boligprosjekter skal gjennomføres ved bruk av BIM som fremmer tverrfaglig samarbeid, koordinering og åpenhet gjennom hele byggeprosessen. Modellene vil fungere som den primære kilden til oppdatert informasjon gjennom alle faser, inkludert planlegging, prosjektering, bygging og forvaltning. Prosjektet skal sikre høy kvalitet og effektiv kommunikasjon, med tydelig definerte roller som en BIM Koordinator som leder oppstartsmøter, følger opp tverrfaglige gjennomganger og kollisjonskontroller, samt tilrettelegger for opplæring i BIM-verktøy etter behov. Modellen skal suppleres med nødvendige tegninger og dokumenter for å sikre en helhetlig og effektiv prosjektgjennomføring."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "03",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "1997",
+            "year_to": "2005",
+            "images": [],
+            "roles": [],
+            "_id": "64a2a6465281f0b1d801338d",
+            "order": 12,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2024-02-28T01:07:21.667Z",
+            "created_at": "2023-07-03T10:43:56.059Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "educations": [
+        {
+            "degree": {},
+            "description": {},
+            "school": {
+                "no": "Gøteborgs tekniske institutt, bygg og anleggslinje"
+            },
+            "month_from": null,
+            "month_to": null,
+            "year_from": "1989",
+            "year_to": "1992",
+            "attachments": [],
+            "_id": "64a2a6465281f0b1d8013365",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.910Z",
+            "created_at": "2023-07-03T10:43:55.910Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "degree": {},
+            "description": {},
+            "school": {
+                "no": "Manglerud videregående almenn, realfag"
+            },
+            "month_from": null,
+            "month_to": null,
+            "year_from": "1985",
+            "year_to": "1988",
+            "attachments": [],
+            "_id": "64a2a6465281f0b1d8013366",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:55.916Z",
+            "created_at": "2023-07-03T10:43:55.916Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": {
+                "no": "Førerkort B"
+            },
+            "organiser": {},
+            "long_description": {},
+            "month": null,
+            "month_expire": null,
+            "year": null,
+            "year_expire": null,
+            "is_expired": false,
+            "attachments": [],
+            "_id": "64a2a6465281f0b1d801338f",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:56.106Z",
+            "created_at": "2023-07-03T10:43:56.106Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "VDC Mentor, Stanford University, NTNU"
+            },
+            "organiser": {},
+            "long_description": {},
+            "month": null,
+            "month_expire": null,
+            "year": "2019",
+            "year_expire": null,
+            "is_expired": false,
+            "attachments": [],
+            "_id": "64a2a6465281f0b1d8013390",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:56.113Z",
+            "created_at": "2023-07-03T10:43:56.113Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "VDC, Stanford University"
+            },
+            "organiser": {},
+            "long_description": {},
+            "month": null,
+            "month_expire": null,
+            "year": "2016",
+            "year_expire": null,
+            "is_expired": false,
+            "attachments": [],
+            "_id": "64a2a6465281f0b1d8013391",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:56.118Z",
+            "created_at": "2023-07-03T10:43:56.118Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "courses": [
+        {
+            "name": {
+                "no": "Kjelforeningen Norsk Energi. DAK og IT"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "1995",
+            "attachments": [],
+            "_id": "64a2a6465281f0b1d8013392",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:56.123Z",
+            "created_at": "2023-07-03T10:43:56.123Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "blogs": [],
+    "languages": [
+        {
+            "name": {
+                "no": "Engelsk"
+            },
+            "level": {
+                "no": "God kompetanse fagspråk"
+            },
+            "_id": "64a2a6465281f0b1d801338e",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-03T10:43:56.101Z",
+            "created_at": "2023-07-03T10:43:56.101Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "custom_tags": [
+        {
+            "_id": "648ff5970a65a625ac242e54",
+            "id": "648ff5970a65a625ac242e54",
+            "values": {
+                "no": "224-1010 Marked and Development"
+            },
+            "external_unique_id": null,
+            "custom_tag_category_id": "648ff53e4b808f0f8ce7b764",
+            "category_ids": [
+                "648ff53e4b808f0f8ce7b764"
+            ],
+            "custom_tag_category": {
+                "_id": "648ff53e4b808f0f8ce7b764",
+                "id": "648ff53e4b808f0f8ce7b764",
+                "values": {
+                    "no": "Business Section"
+                },
+                "external_unique_id": "",
+                "can_be_used_for_cvs": true,
+                "can_be_used_for_references": true,
+                "can_be_used_for_customers": false,
+                "allow_filtering": true
+            }
+        },
+        {
+            "_id": "648ff5990a65a625ac242f05",
+            "id": "648ff5990a65a625ac242f05",
+            "values": {
+                "no": "Oslo"
+            },
+            "external_unique_id": null,
+            "custom_tag_category_id": "648ff54e5967010fa0143a80",
+            "category_ids": [
+                "648ff54e5967010fa0143a80"
+            ],
+            "custom_tag_category": {
+                "_id": "648ff54e5967010fa0143a80",
+                "id": "648ff54e5967010fa0143a80",
+                "values": {
+                    "no": "Office location"
+                },
+                "external_unique_id": "",
+                "can_be_used_for_cvs": true,
+                "can_be_used_for_references": false,
+                "can_be_used_for_customers": false,
+                "allow_filtering": true
+            }
+        }
+    ],
+    "custom_tag_ids": [
+        "648ff5970a65a625ac242e54",
+        "648ff5990a65a625ac242f05"
+    ],
+    "updated_ago": "N/A",
+    "template_document_type": "doc",
+    "default_word_template_id": "64a7cf51eb7d460f3a8e16a6",
+    "default_word_json_template_id": null,
+    "default_ppt_template_id": null,
+    "default_indesign_template_id": null,
+    "highlighted_roles": [],
+    "office": {
+        "_id": "648ff2e154cbd70f484ce3be",
+        "id": "648ff2e154cbd70f484ce3be",
+        "name": "BU Transportation",
+        "selected": false,
+        "default_word_template_id": null,
+        "default_word_json_template_id": null,
+        "default_ppt_template_id": null,
+        "default_indesign_template_id": null,
+        "country_id": "582d9aeb2c04d615d6a569bd",
+        "country_code": "no",
+        "override_language_code": null
+    },
+    "image": {
+        "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff88355646f5eddde1726/tom.paulsen_afry.com20230620-14191-1sazhxi.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T054628Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIEOgLeNsVxM9UX5SzOh8PklkYL03f9HTBu8d4Ohjo4P0AiEAvsT0BVNF%2FN9XxbncSGzEVosiiCSnej6Tsyk6kQNTVwwqjQUI%2Fv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDE%2FzxnJIWbVkUiFJ4CrhBOejV976T5H%2B7B1ldBgtd1XkDt6sjasJmDZNh%2FEJbfVLxLzBLav0RJhCh6mNVHUHvgRl3LevFZonImvrJ857j7CTeoZP%2ByMqYr3bAyox4KQ1iyGO8r69SlOha8CyjfhfneCP%2BBn%2BPWijtkd9CYVjNUqmoRbzuwnL7CsGhQ%2BrghL4BYEwwuO3neDcNocLE%2BgSWB9lPkqWXVFa0oofSBCDhS2jM0X1r0xBaD4fLBJY12J94d1PPiDaswqon6Us2wb0lSEW5Yz45svB1dQzYreXy4DcJJHv8Txk54DvyFOgCOTxoKlWaHo07rcJGPb%2BbQ83arAasr0bAad%2BPrGqoHZUCq4yuYBxMGwMMKSJjPUsWYUQgvDdZ8%2BteHogqoYvjHwHU405tU41jWTQy2NXplVCAkdNGFAL6biEMu3SZ7vExEzTG9b8O9ZiVYGD82S3VMzMDwbYrtF5UodJDKF0k7rPbzj1pWsQdkwb%2Btd%2Ffz1%2BMz7IuEKVL4Ri1HQ723mKfpvbM%2B%2BcE62qeUHdzP1bWWRI5IEDs%2FnKEyqzHiWx7Takt75xNoC9oU1aydOACzPwj7sxwQzjK06uecBwkCenQpjcbBKDymlM8ewAXgWgyWbZ6uvzY52wJIntgdJiqT1H3HZEXR6%2BAcQ2V7UmYlDfjp6RNc8tsyD93p6M%2BPYK5KessJ6zkKCmWUHkrl4q7rnsJ1w2f%2Biq5WL9skKzzHIhV7RLN6FqGoIiRPdBzp1TaXvRkJPu466Ef%2B01ULPPoyRCuhT%2B%2FPoQUHhT7LTPhqaJz81mQeuzQTDiEhKssrsKWYFOAaDjWTCD0JDBBjqaAeXyfOt5eLpt63vXnwTjLNUnlyPQ3B7fzAXQBU5iy%2B%2FNIETYQFwhHXxven%2BhP1QUIaoE3CvlMzs1KSrh2R0bY9qLmjcIYHwy%2FRtxBzvwhGvIb43a5GQ%2FSVnKZ6Oq5bjMnNoefIY7Y6wW4Zhg2BHzlZDozoMUGvKppO67JIb4r%2BP6HmbApsjHz9%2FD46OHH458W9PSIfPFgbSkNgw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KNRUKWR2Z%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9cf133d6623c185a88ca4d04f96682f6a3e768302e1d9794af54decd07f1ac0a",
+        "thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff88355646f5eddde1726/thumb_tom.paulsen_afry.com20230620-14191-1sazhxi.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T054628Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIEOgLeNsVxM9UX5SzOh8PklkYL03f9HTBu8d4Ohjo4P0AiEAvsT0BVNF%2FN9XxbncSGzEVosiiCSnej6Tsyk6kQNTVwwqjQUI%2Fv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDE%2FzxnJIWbVkUiFJ4CrhBOejV976T5H%2B7B1ldBgtd1XkDt6sjasJmDZNh%2FEJbfVLxLzBLav0RJhCh6mNVHUHvgRl3LevFZonImvrJ857j7CTeoZP%2ByMqYr3bAyox4KQ1iyGO8r69SlOha8CyjfhfneCP%2BBn%2BPWijtkd9CYVjNUqmoRbzuwnL7CsGhQ%2BrghL4BYEwwuO3neDcNocLE%2BgSWB9lPkqWXVFa0oofSBCDhS2jM0X1r0xBaD4fLBJY12J94d1PPiDaswqon6Us2wb0lSEW5Yz45svB1dQzYreXy4DcJJHv8Txk54DvyFOgCOTxoKlWaHo07rcJGPb%2BbQ83arAasr0bAad%2BPrGqoHZUCq4yuYBxMGwMMKSJjPUsWYUQgvDdZ8%2BteHogqoYvjHwHU405tU41jWTQy2NXplVCAkdNGFAL6biEMu3SZ7vExEzTG9b8O9ZiVYGD82S3VMzMDwbYrtF5UodJDKF0k7rPbzj1pWsQdkwb%2Btd%2Ffz1%2BMz7IuEKVL4Ri1HQ723mKfpvbM%2B%2BcE62qeUHdzP1bWWRI5IEDs%2FnKEyqzHiWx7Takt75xNoC9oU1aydOACzPwj7sxwQzjK06uecBwkCenQpjcbBKDymlM8ewAXgWgyWbZ6uvzY52wJIntgdJiqT1H3HZEXR6%2BAcQ2V7UmYlDfjp6RNc8tsyD93p6M%2BPYK5KessJ6zkKCmWUHkrl4q7rnsJ1w2f%2Biq5WL9skKzzHIhV7RLN6FqGoIiRPdBzp1TaXvRkJPu466Ef%2B01ULPPoyRCuhT%2B%2FPoQUHhT7LTPhqaJz81mQeuzQTDiEhKssrsKWYFOAaDjWTCD0JDBBjqaAeXyfOt5eLpt63vXnwTjLNUnlyPQ3B7fzAXQBU5iy%2B%2FNIETYQFwhHXxven%2BhP1QUIaoE3CvlMzs1KSrh2R0bY9qLmjcIYHwy%2FRtxBzvwhGvIb43a5GQ%2FSVnKZ6Oq5bjMnNoefIY7Y6wW4Zhg2BHzlZDozoMUGvKppO67JIb4r%2BP6HmbApsjHz9%2FD46OHH458W9PSIfPFgbSkNgw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KNRUKWR2Z%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6e41b8692d705891f98a02442fd16867896ed2fc404afa296f2ed57760d8ca55"
+        },
+        "fit_thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff88355646f5eddde1726/fit_thumb_tom.paulsen_afry.com20230620-14191-1sazhxi.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T054628Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIEOgLeNsVxM9UX5SzOh8PklkYL03f9HTBu8d4Ohjo4P0AiEAvsT0BVNF%2FN9XxbncSGzEVosiiCSnej6Tsyk6kQNTVwwqjQUI%2Fv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDE%2FzxnJIWbVkUiFJ4CrhBOejV976T5H%2B7B1ldBgtd1XkDt6sjasJmDZNh%2FEJbfVLxLzBLav0RJhCh6mNVHUHvgRl3LevFZonImvrJ857j7CTeoZP%2ByMqYr3bAyox4KQ1iyGO8r69SlOha8CyjfhfneCP%2BBn%2BPWijtkd9CYVjNUqmoRbzuwnL7CsGhQ%2BrghL4BYEwwuO3neDcNocLE%2BgSWB9lPkqWXVFa0oofSBCDhS2jM0X1r0xBaD4fLBJY12J94d1PPiDaswqon6Us2wb0lSEW5Yz45svB1dQzYreXy4DcJJHv8Txk54DvyFOgCOTxoKlWaHo07rcJGPb%2BbQ83arAasr0bAad%2BPrGqoHZUCq4yuYBxMGwMMKSJjPUsWYUQgvDdZ8%2BteHogqoYvjHwHU405tU41jWTQy2NXplVCAkdNGFAL6biEMu3SZ7vExEzTG9b8O9ZiVYGD82S3VMzMDwbYrtF5UodJDKF0k7rPbzj1pWsQdkwb%2Btd%2Ffz1%2BMz7IuEKVL4Ri1HQ723mKfpvbM%2B%2BcE62qeUHdzP1bWWRI5IEDs%2FnKEyqzHiWx7Takt75xNoC9oU1aydOACzPwj7sxwQzjK06uecBwkCenQpjcbBKDymlM8ewAXgWgyWbZ6uvzY52wJIntgdJiqT1H3HZEXR6%2BAcQ2V7UmYlDfjp6RNc8tsyD93p6M%2BPYK5KessJ6zkKCmWUHkrl4q7rnsJ1w2f%2Biq5WL9skKzzHIhV7RLN6FqGoIiRPdBzp1TaXvRkJPu466Ef%2B01ULPPoyRCuhT%2B%2FPoQUHhT7LTPhqaJz81mQeuzQTDiEhKssrsKWYFOAaDjWTCD0JDBBjqaAeXyfOt5eLpt63vXnwTjLNUnlyPQ3B7fzAXQBU5iy%2B%2FNIETYQFwhHXxven%2BhP1QUIaoE3CvlMzs1KSrh2R0bY9qLmjcIYHwy%2FRtxBzvwhGvIb43a5GQ%2FSVnKZ6Oq5bjMnNoefIY7Y6wW4Zhg2BHzlZDozoMUGvKppO67JIb4r%2BP6HmbApsjHz9%2FD46OHH458W9PSIfPFgbSkNgw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KNRUKWR2Z%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=db8cb26e153e8f0d7424e4feaecfa6f89b1267bb1f469f2384d236bcb88d558e"
+        },
+        "large": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff88355646f5eddde1726/large_tom.paulsen_afry.com20230620-14191-1sazhxi.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T054628Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIEOgLeNsVxM9UX5SzOh8PklkYL03f9HTBu8d4Ohjo4P0AiEAvsT0BVNF%2FN9XxbncSGzEVosiiCSnej6Tsyk6kQNTVwwqjQUI%2Fv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDE%2FzxnJIWbVkUiFJ4CrhBOejV976T5H%2B7B1ldBgtd1XkDt6sjasJmDZNh%2FEJbfVLxLzBLav0RJhCh6mNVHUHvgRl3LevFZonImvrJ857j7CTeoZP%2ByMqYr3bAyox4KQ1iyGO8r69SlOha8CyjfhfneCP%2BBn%2BPWijtkd9CYVjNUqmoRbzuwnL7CsGhQ%2BrghL4BYEwwuO3neDcNocLE%2BgSWB9lPkqWXVFa0oofSBCDhS2jM0X1r0xBaD4fLBJY12J94d1PPiDaswqon6Us2wb0lSEW5Yz45svB1dQzYreXy4DcJJHv8Txk54DvyFOgCOTxoKlWaHo07rcJGPb%2BbQ83arAasr0bAad%2BPrGqoHZUCq4yuYBxMGwMMKSJjPUsWYUQgvDdZ8%2BteHogqoYvjHwHU405tU41jWTQy2NXplVCAkdNGFAL6biEMu3SZ7vExEzTG9b8O9ZiVYGD82S3VMzMDwbYrtF5UodJDKF0k7rPbzj1pWsQdkwb%2Btd%2Ffz1%2BMz7IuEKVL4Ri1HQ723mKfpvbM%2B%2BcE62qeUHdzP1bWWRI5IEDs%2FnKEyqzHiWx7Takt75xNoC9oU1aydOACzPwj7sxwQzjK06uecBwkCenQpjcbBKDymlM8ewAXgWgyWbZ6uvzY52wJIntgdJiqT1H3HZEXR6%2BAcQ2V7UmYlDfjp6RNc8tsyD93p6M%2BPYK5KessJ6zkKCmWUHkrl4q7rnsJ1w2f%2Biq5WL9skKzzHIhV7RLN6FqGoIiRPdBzp1TaXvRkJPu466Ef%2B01ULPPoyRCuhT%2B%2FPoQUHhT7LTPhqaJz81mQeuzQTDiEhKssrsKWYFOAaDjWTCD0JDBBjqaAeXyfOt5eLpt63vXnwTjLNUnlyPQ3B7fzAXQBU5iy%2B%2FNIETYQFwhHXxven%2BhP1QUIaoE3CvlMzs1KSrh2R0bY9qLmjcIYHwy%2FRtxBzvwhGvIb43a5GQ%2FSVnKZ6Oq5bjMnNoefIY7Y6wW4Zhg2BHzlZDozoMUGvKppO67JIb4r%2BP6HmbApsjHz9%2FD46OHH458W9PSIfPFgbSkNgw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KNRUKWR2Z%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=c8994d31ab1f8f4532330dafa8482d70ca5b2ecaaaa806055f49f27b19ccc7be"
+        },
+        "small_thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff88355646f5eddde1726/small_thumb_tom.paulsen_afry.com20230620-14191-1sazhxi.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T054628Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJHMEUCIEOgLeNsVxM9UX5SzOh8PklkYL03f9HTBu8d4Ohjo4P0AiEAvsT0BVNF%2FN9XxbncSGzEVosiiCSnej6Tsyk6kQNTVwwqjQUI%2Fv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NzE1ODAwMTAxMzIiDE%2FzxnJIWbVkUiFJ4CrhBOejV976T5H%2B7B1ldBgtd1XkDt6sjasJmDZNh%2FEJbfVLxLzBLav0RJhCh6mNVHUHvgRl3LevFZonImvrJ857j7CTeoZP%2ByMqYr3bAyox4KQ1iyGO8r69SlOha8CyjfhfneCP%2BBn%2BPWijtkd9CYVjNUqmoRbzuwnL7CsGhQ%2BrghL4BYEwwuO3neDcNocLE%2BgSWB9lPkqWXVFa0oofSBCDhS2jM0X1r0xBaD4fLBJY12J94d1PPiDaswqon6Us2wb0lSEW5Yz45svB1dQzYreXy4DcJJHv8Txk54DvyFOgCOTxoKlWaHo07rcJGPb%2BbQ83arAasr0bAad%2BPrGqoHZUCq4yuYBxMGwMMKSJjPUsWYUQgvDdZ8%2BteHogqoYvjHwHU405tU41jWTQy2NXplVCAkdNGFAL6biEMu3SZ7vExEzTG9b8O9ZiVYGD82S3VMzMDwbYrtF5UodJDKF0k7rPbzj1pWsQdkwb%2Btd%2Ffz1%2BMz7IuEKVL4Ri1HQ723mKfpvbM%2B%2BcE62qeUHdzP1bWWRI5IEDs%2FnKEyqzHiWx7Takt75xNoC9oU1aydOACzPwj7sxwQzjK06uecBwkCenQpjcbBKDymlM8ewAXgWgyWbZ6uvzY52wJIntgdJiqT1H3HZEXR6%2BAcQ2V7UmYlDfjp6RNc8tsyD93p6M%2BPYK5KessJ6zkKCmWUHkrl4q7rnsJ1w2f%2Biq5WL9skKzzHIhV7RLN6FqGoIiRPdBzp1TaXvRkJPu466Ef%2B01ULPPoyRCuhT%2B%2FPoQUHhT7LTPhqaJz81mQeuzQTDiEhKssrsKWYFOAaDjWTCD0JDBBjqaAeXyfOt5eLpt63vXnwTjLNUnlyPQ3B7fzAXQBU5iy%2B%2FNIETYQFwhHXxven%2BhP1QUIaoE3CvlMzs1KSrh2R0bY9qLmjcIYHwy%2FRtxBzvwhGvIb43a5GQ%2FSVnKZ6Oq5bjMnNoefIY7Y6wW4Zhg2BHzlZDozoMUGvKppO67JIb4r%2BP6HmbApsjHz9%2FD46OHH458W9PSIfPFgbSkNgw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KNRUKWR2Z%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3264702bf307e4107131e568fb452dc300eb0dcbedeb33f74e88db4c4ac6ad37"
+        }
+    },
+    "can_write": false
+}

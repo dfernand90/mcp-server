@@ -1,0 +1,54 @@
+Query: hva er navn til prosjketet?
+Response: Navnet på prosjektet er "AFRY AI – Agent Strategi - utkast 1".
+
+Query: Hvem er kunden?
+Response: Informasjonen gir ingen spesifikke detaljer om hvem kunden er.
+
+Query: Hva salgs konstruksjon eller konstruksjoner tilhører prosjeket?
+Response: Prosjektet tilhører konstruksjonen "Tilbudsforsterker-agenten," som er et kunstig intelligensprogram utviklet for å støtte salgsteamet gjennom hele tilbudsprosessen.
+
+Query: Hva slags tilbud er dette rammeavtale, minikonkurangse, totalenterprise, direkte rådgivningstjenester?
+Response: Tilbudet som beskrives ser ut til å være knyttet til en anbudsprosess hvor en AI-agent, kalt Tilbudforsterker-agenten, brukes til å støtte salgsteamet. Det spesifiseres imidlertid ikke eksplisitt om dette gjelder en rammeavtale, minikonkurranse, totalentreprise eller direkte rådgivningstjenester. For mer presis informasjon om typen tilbud, kan det være nødvendig å konsultere ytterligere detaljer i dokumentet eller relevante referanser.
+
+Query: lagre en oppsumering av prosjketet
+Response: Prosjektet har oppnådd flere viktige milepæler i utviklingen av AI-verktøy, inkludert ferdigstillelse av første versjon av backend-kode, etablering av nødvendige plattformtillatelser via Azure, lansering av den første agentprototypen, og opprettelse av en funksjonell CI/CD-pipeline. Denne pipelinen sikrer sømløs distribusjon fra backend-kode til sluttbruker og fungerer som et robust rammeverk for videre utvikling, testing og implementering av AI-verktøy. Prosjektet har dermed lagt et solid fundament for fremtidig arbeid og styrker salgsteamet med effektiv teknologi.
+
+Query: når er frist til tilbud leveranse?
+Response: Fristen for tilbudsleveranse er ikke spesifikt oppgitt i den tilgjengelige informasjonen.
+
+Query: hva er omfang av prosjektet?
+Response: Omfanget av prosjektet inkluderer videreutvikling av strategien for AI-effektivitet, etablering av pipeline-testprotokoller, benchmarking, utvikling av backend-kode, testing med utviklingsteam, gjennomføring av Minimum Viable Product (MVP), og utvikling av AI-verktøy for effektivitet og muligheter. Det omfatter også forberedelse og presentasjon av eksamener innen AI og cybersikkerhet, evaluering av markedsmuligheter, samt interne møter og utvikling av løsninger for andre fagområder. Prosjektet er strukturert med spesifikke aktiviteter og tidsrammer, og det er foreslått en tildeling av 24 arbeidstimer per uke.
+
+Query: hva varighet på prosjekt?
+Response: Varigheten på prosjektet er fra uke 31 til uke 50.
+
+Query: kan du finner prosjekt øsnket startdato
+Response: Ønsket startdato for prosjektet kan identifiseres som uke 31.
+
+Query: kan du finer prosjekt øsnket sluttsdato
+Response: Informasjonen som er gitt inneholder ikke spesifikasjon om ønsket sluttdato for prosjektet.
+
+Query: Hva skal vi levere i tilbudet?
+Response: Tilbudet skal levere en Tilbudsforsterker-agent, som er et kunstig intelligensprogram designet for å støtte salgsteamet gjennom hele tilbudsprosessen. Dette inkluderer en sømløs kobling mellom backend-kode og AI-agentklienter som MS Copilot, med fokus på sikker lagring og kontroll over data. Agenten skal også kunne oppsummere konkurransegrunnlaget og tilpasse CV-er, samt tilby andre tjenester som støtter tilbudsprosessen.
+
+Query: Må vi levere CV?
+Response: Ja, det ser ut til at CV-er er en del av tilbudsprosessen, og det er nevnt arbeid med å tilpasse CV-er som en del av systemet. Derfor kan det være nødvendig å levere CV-er.
+
+Query: Må vi levere priskjema?
+Response: Informasjonen som er gitt inneholder ingen detaljer om krav til levering av prisskjema. Det anbefales å sjekke spesifikke krav i tilbudsdokumentene eller kontakte ansvarlig for tilbudsprosessen for avklaring.
+
+Query: Må vi levere oppgaveforståelse?
+Response: Ja, oppgaveforståelse er viktig for å sikre at agentene kan håndtere spesifikke oppgaver effektivt og uten forvirring. Strategien legger vekt på å utvikle agenter som er fokusert på spesifikke oppgaver, noe som krever en klar forståelse av oppgavene de skal utføre.
+
+Query: Skrive en leveranse lista i følge grunnlaget
+Response: For å skrive en leveranseliste basert på grunnlaget, kan følgende punkter inkluderes:
+
+1. **Koble backend-koden til modellen** - Dette for å muliggjøre tilpasning av CV-er og tilby andre tjenester i tilbudsprosessen.
+2. **Tilrettelegging for videre arbeid** - Sikre at systemet er klart for fremtidige utvidelser og forbedringer.
+3. **Presentasjon av oversikt** - Utarbeide en oversikt over arbeidet som er utført og planlagt, inkludert en generell presentasjon av tilbudsagenten.
+
+Dette er eksempler på leveranser som kan være relevante i henhold til prosjektets mål og beskrivelse.
+
+Query: Hvilken fag var førespurt? (fag kan vare Geo, Konstruksjon, Vei, Vann, Prosject Management)
+Response: Fagene som var forespurt inkluderer AI for Effektivitet og AI for Muligheter.
+

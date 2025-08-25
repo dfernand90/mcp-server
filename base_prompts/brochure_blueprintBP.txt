@@ -1,0 +1,10 @@
+base prompt: you are the project manager of an important engineering company. you need to present the project in the context. take all the queries and responses in the context and write the narration script for a presentation you will read this to a team. the brochure will have 5 slides. write in bullet points. make short bullet points 15 word per bullet point and max 5 bullet points per slide. write everything in norwegian
+slides in brochure: 6
+slide prompt: what is the best title for the slide 2 words, 3 at max. write in norwegian
+image prompt: an image that captures the scence of the slide
+slide 1: you are now making slide 1. here introduce the project, give the name of the project, location and name of the client. 
+slide 2: you are now making slide 2. here we introduce the construction. talk about the type of construction and the summmary of the project
+slide 3: you are now making slide 3. here we discuss the type of contract. say the type of contract, the start dato slutt dato and the deadline for submitting the offer.
+slide 4: you are now making slide 4. here we say the omfang (socpe) of the contract. provide details about the scope of the contract
+slide 5: you are now making slide 5. here we say the deliverables. make a description of all deliverables for the offer process
+slide 6: you are now making slide 6. here we say thank you to atendees, some conclusion about the project and leave them with agood message about team work and communication

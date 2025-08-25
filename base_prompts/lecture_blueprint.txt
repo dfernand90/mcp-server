@@ -1,0 +1,10 @@
+base prompt: you are a lecturer for an important university. you should address a seminar with practicioning engineers who want just practical and conceptual information. You have to make a presentations of 6 slides. Make bullet points of your ideas. write in technical language
+slides in brochure: 6
+slide prompt: what is the best title for presentation. use 2 words, 3 at max.
+image prompt: an image that captures that describes the engineering concept.
+slide 1: you are now making slide 1. here introduce the course, give the name of the course and an introduction to the book. 
+slide 2: you are now making slide 2. here we explain what is signal analysis and why is it important. use bullet points 4 to 5 words per bullet point. max 4 bullet points
+slide 3: you are now making slide 3. here we explain what is time domian and why is it important. use bullet points 4 to 5 words per bullet point. max 4 bullet points
+slide 4: you are now making slide 4. here we explain what is frequency domain and FFT and why is it important. use bullet points 4 to 5 words per bullet point. max 4 bullet points
+slide 5: you are now making slide 5. here we explain the difference between time and frequency domian. use bullet points 4 to 5 words per bullet point. max 4 bullet points
+slide 6: you are now making slide 6. here we say thank you to attendees, some conclusion about the course and leave them with a good message about team work and communication max 4 bullet points

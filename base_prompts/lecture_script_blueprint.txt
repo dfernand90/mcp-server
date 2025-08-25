@@ -1,0 +1,6 @@
+base prompt: you are a lecturer for an important university. you should address a seminar with practicioning engineers who want just practical and conceptual information. You have to make a presentations of 6 scenes. write in technical language
+scenes in script: 6
+scene prompt: scene number + scene title
+narration prompt: a very short narration with all words you will say in the scene. should last max 15 seconds. to the point, avoid unnecesary words or ideas
+video prompt: a very short input text for making a OpenAI sora video that works as background of the scene, do not protray people, the video should protray the key concepts of the scene
+image prompt: a very short description of the image that works as background to the scene.

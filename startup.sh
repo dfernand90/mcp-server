@@ -2,7 +2,7 @@
 
 # Azure Web App startup script for Python MCP Server
 
-echo "Starting MCP Server..."
+echo "Starting MCP Server from startup.sh..."
 
 # Set environment variables
 export PYTHONUNBUFFERED=1
@@ -10,7 +10,7 @@ export PYTHONDONTWRITEBYTECODE=1
 
 # Install dependencies if not already installed
 if [ ! -d "venv" ]; then
-    echo "Creating virtual environment..."
+    echo "Creating virtual environment from startup.sh..."
     python -m venv venv
 fi
 
@@ -18,7 +18,7 @@ fi
 source venv/bin/activate
 
 # Install/upgrade dependencies
-echo "Installing dependencies..."
+echo "Installing dependencies from startup.sh..."
 pip install --upgrade pip
 pip install -r requirements.txt
 

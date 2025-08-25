@@ -1,0 +1,3816 @@
+{
+    "_id": "648ff9da55646f5eddde21f0",
+    "bruker_id": "648ff9d955646f5eddde21ef",
+    "user_id": "648ff9d955646f5eddde21ef",
+    "tilbud_id": null,
+    "name": "Tiril Seielstad",
+    "navn": "Tiril Seielstad",
+    "name_multilang": {},
+    "title": {
+        "int": "Project manager",
+        "no": "Prosjektleder"
+    },
+    "telefon": "+4799359743",
+    "landline": null,
+    "twitter": null,
+    "level": null,
+    "born_day": 1,
+    "born_month": 1,
+    "born_year": 1985,
+    "default": true,
+    "nationality": {
+        "int": "Norwegian",
+        "no": "Norsk"
+    },
+    "place_of_residence": {
+        "int": "Oslo",
+        "no": "Oslo"
+    },
+    "status": null,
+    "order": null,
+    "owner_updated_at": "2024-11-04T12:10:30.000Z",
+    "owner_updated_at_significant": "2024-10-30T12:05:48.000Z",
+    "imported_date": "2023-07-04T10:51:16.640Z",
+    "created_at": "2023-06-19T06:46:50.166Z",
+    "updated_at": "2024-11-04T12:10:30.000Z",
+    "version": 11,
+    "modifier_id": null,
+    "company_id": "582d9aeb2c04d615d6a569b8",
+    "external_unique_id": "yvk280",
+    "email": "tiril.seielstad@afry.com",
+    "country_code": "no",
+    "language_code": "no",
+    "language_codes": [
+        "no",
+        "int"
+    ],
+    "proposal": null,
+    "telephone": "+4799359743",
+    "technologies": [
+        {
+            "_id": "648ff9da55646f5eddde21f1",
+            "category": {},
+            "created_at": "2023-06-19T06:46:50.166Z",
+            "disabled": true,
+            "diverged_from_master": false,
+            "exclude_tags": [],
+            "external_unique_id": null,
+            "modifier_id": null,
+            "order": 0,
+            "origin_id": null,
+            "owner_updated_at": null,
+            "recently_added": false,
+            "starred": false,
+            "uncategorized": true,
+            "updated_at": "2024-04-25T07:50:24.663Z",
+            "version": 1
+        },
+        {
+            "category": {
+                "no": "Kompetanse"
+            },
+            "uncategorized": false,
+            "exclude_tags": [],
+            "technology_skills": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b57a",
+                    "tags": {
+                        "no": "Design Management"
+                    },
+                    "proficiency": 0,
+                    "order": 0,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b57b",
+                    "tags": {
+                        "no": "Highway and road engineering design"
+                    },
+                    "proficiency": 0,
+                    "order": 1,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b57c",
+                    "tags": {
+                        "no": "Novapoint veg"
+                    },
+                    "proficiency": 0,
+                    "order": 2,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b57d",
+                    "tags": {
+                        "no": "Project Coordination"
+                    },
+                    "proficiency": 0,
+                    "order": 3,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b57e",
+                    "tags": {
+                        "no": "Project management"
+                    },
+                    "proficiency": 0,
+                    "order": 4,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b57f",
+                    "tags": {
+                        "no": "Road plan"
+                    },
+                    "proficiency": 0,
+                    "order": 5,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b580",
+                    "tags": {
+                        "no": "Tender documentation"
+                    },
+                    "proficiency": 0,
+                    "order": 6,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b581",
+                    "tags": {
+                        "no": "Tilbudsarbeid"
+                    },
+                    "proficiency": 0,
+                    "order": 7,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b582",
+                    "tags": {
+                        "no": "Tilbudskoordinator"
+                    },
+                    "proficiency": 0,
+                    "order": 8,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": null,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b579",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": null,
+            "updated_at": "2023-07-04T10:51:16.631Z",
+            "created_at": "2023-07-04T10:51:16.631Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "category": {
+                "no": "Kjernekompetanse"
+            },
+            "uncategorized": false,
+            "exclude_tags": [],
+            "technology_skills": [
+                {
+                    "_id": "652946515a7693003119109a",
+                    "tags": {
+                        "no": "Prosjektledelse"
+                    },
+                    "proficiency": 0,
+                    "order": 1,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": 3,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "65294654374da20037aa6482",
+                    "tags": {
+                        "no": "Økonomistyring"
+                    },
+                    "proficiency": 0,
+                    "order": 2,
+                    "total_duration_in_years": 0,
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "version": 3,
+                    "modifier_id": null,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "_id": "652946505039dd00349f2c55",
+            "order": 1,
+            "starred": false,
+            "disabled": true,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-10-13T13:29:56.460Z",
+            "created_at": "2023-10-13T13:29:52.324Z",
+            "owner_updated_at": "2024-04-25T07:38:22.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "key_qualifications": [
+        {
+            "label": {
+                "int": "",
+                "no": "Personlige egenskaper: "
+            },
+            "long_description": {
+                "int": "",
+                "no": "Tiril Seielstad er en dyktig og erfaren senioringeniør som utmerker seg med sin positive, imøtekommende og innovative tilnærming til arbeid. Hun bidrar til et godt arbeidsmiljø og er en viktig ressurs for samarbeidsgrupper. Tiril er meget strukturert, engasjert og fokusert i de prosjektene hun jobber med, og hun trives spesielt godt i lederroller hvor hun kan motivere andre gjennom klar og oppmuntrende kommunikasjon.\n\nMed sin omfattende kompetanse og erfaring innen prosjektering og ledelse, er Tiril den optimale ressursen for Vigga-prosjektet. Hennes evne til å holde struktur og engasjement høyt vil sikre at prosjektet gjennomføres effektivt og i henhold til de spesifikke kravene. Tiril har også en utmerket evne til å tilpasse seg og kommunisere på norsk, noe som er essensielt for dette prosjektet."
+            },
+            "tag_line": {},
+            "_id": "64a3f96c5281f0b1d801b52e",
+            "order": 0,
+            "starred": false,
+            "disabled": true,
+            "external_unique_id": null,
+            "version": 80,
+            "updated_at": "2024-01-31T09:54:19.941Z",
+            "created_at": "2023-07-04T10:51:16.724Z",
+            "owner_updated_at": "2023-09-29T13:32:54.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "label": {
+                "int": "",
+                "no": "Faglige egenskaper: "
+            },
+            "long_description": {
+                "int": "",
+                "no": "Tiril er en positiv, imøtekommende og kreativ person som tilfører samarbeidsgrupper et godt arbeidsmiljø. \nHun er strukturert og blir engasjert og fokusert i prosjektene hun jobber med, og trives godt i en ledende rolle. Hun motiverer andre gjennom tydelig og positiv kommuniksjon.\n\nTiril tar gjerne en ledende rolle i arbeidsgrupper, skaper gode team og ser til at jobben blir gjennomført i henhold til oppdragsgivers forventninger. Hun er strukturert og har gode kommunikasjons- og samarbeidsevner. Hun er tydelig, er faglig sterk, ser helhetlige løsninger og har god tverrfaglig forståelse.\n\nTiril er tidligere RIF-godkjent rådgiver innen samferdselsteknikk og arealplanlegging. Hun har erfaring fra samferdselsprosjekter i ulike planfaser fra tidligfase til oppfølging i anleggsperioden, i og utenfor sentrum, hovedveier, gang- og sykkeltiltak, områdeutvikling og terminalanlegg. Hun har hatt roller som BIM-koordinator, prosjekt- og prosjekteringsleder i tverrfaglige prosjekter, samt disiplinleder vei og veiplanlegger. Hun har de siste årene vært tilbudsleder på store tilbudsprosjekter, og prosjektleder på store samferdselsprosjekter."
+            },
+            "tag_line": {},
+            "key_points": [
+                {
+                    "long_description": {},
+                    "name": {
+                        "int": "",
+                        "no": "Tverrfaglig"
+                    },
+                    "_id": "6501686702936d100ac225d7",
+                    "order": 0,
+                    "starred": false,
+                    "disabled": true,
+                    "version": 3,
+                    "updated_at": "2023-09-13T07:44:45.497Z",
+                    "created_at": "2023-09-13T07:44:39.499Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                },
+                {
+                    "long_description": {},
+                    "name": {
+                        "int": "",
+                        "no": "Store tilbud"
+                    },
+                    "_id": "6501686ea3cef3100ee547ef",
+                    "order": 1,
+                    "starred": false,
+                    "disabled": true,
+                    "version": 3,
+                    "updated_at": "2023-09-13T07:44:58.002Z",
+                    "created_at": "2023-09-13T07:44:46.250Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                },
+                {
+                    "long_description": {},
+                    "name": {
+                        "int": "",
+                        "no": "Ledelse"
+                    },
+                    "_id": "65016873056c5c100dfcd611",
+                    "order": 2,
+                    "starred": false,
+                    "disabled": true,
+                    "version": 3,
+                    "updated_at": "2023-09-13T07:44:57.017Z",
+                    "created_at": "2023-09-13T07:44:51.429Z",
+                    "owner_updated_at": null,
+                    "modifier_id": null,
+                    "diverged_from_master": false,
+                    "recently_added": false,
+                    "origin_id": null
+                }
+            ],
+            "_id": "6501682b33de1c0ffdaf5613",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 31,
+            "updated_at": "2024-11-04T12:07:52.000Z",
+            "created_at": "2023-09-13T07:43:39.731Z",
+            "owner_updated_at": "2024-11-04T12:07:52.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "cv_roles": [
+        {
+            "name": {
+                "no": "Tilbudsleder"
+            },
+            "starred_order": null,
+            "years_of_experience": 2,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b544",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b545"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b546",
+                    "roles": [
+                        {
+                            "_id": "64feed9b8a153f0ff06f2d31"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b536",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "version": 3,
+            "updated_at": "2023-10-05T01:55:39.803Z",
+            "created_at": "2023-07-04T10:51:16.845Z",
+            "owner_updated_at": "2023-09-11T10:36:15.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Assisterende Tilbudsleder"
+            },
+            "starred_order": null,
+            "years_of_experience": 1,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b546",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b547"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b537",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "version": 8,
+            "updated_at": "2023-09-11T10:35:59.425Z",
+            "created_at": "2023-07-04T10:51:16.855Z",
+            "owner_updated_at": "2023-09-11T10:35:59.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "grunnlagsansvarlig"
+            },
+            "starred_order": null,
+            "years_of_experience": 2,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b54c",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b54d"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b53a",
+            "order": 4,
+            "starred": false,
+            "disabled": false,
+            "version": 3,
+            "updated_at": "2023-09-29T13:43:20.450Z",
+            "created_at": "2023-07-04T10:51:16.873Z",
+            "owner_updated_at": "2023-09-29T13:43:20.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Fagansvarlig vei"
+            },
+            "starred_order": null,
+            "years_of_experience": 4,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b550",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b551"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b54c",
+                    "roles": [
+                        {
+                            "_id": "6516d479289d5a1007ee6517"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b53c",
+            "order": 6,
+            "starred": false,
+            "disabled": false,
+            "version": 2,
+            "updated_at": "2023-07-06T01:04:15.130Z",
+            "created_at": "2023-07-04T10:51:16.883Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "BIM-koordinator"
+            },
+            "starred_order": null,
+            "years_of_experience": 4,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b556",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b557"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b558",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b559"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b53f",
+            "order": 9,
+            "starred": false,
+            "disabled": false,
+            "version": 4,
+            "updated_at": "2023-09-29T13:38:16.348Z",
+            "created_at": "2023-07-04T10:51:16.901Z",
+            "owner_updated_at": "2023-09-29T13:38:16.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Fagansvarlig veg"
+            },
+            "starred_order": null,
+            "years_of_experience": 5,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b548",
+                    "roles": [
+                        {
+                            "_id": "65016fe13901250f6dab7cfc"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b55a",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b55b"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b540",
+            "order": 10,
+            "starred": false,
+            "disabled": false,
+            "version": 3,
+            "updated_at": "2023-09-13T08:16:45.368Z",
+            "created_at": "2023-07-04T10:51:16.906Z",
+            "owner_updated_at": "2023-09-13T08:32:52.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Modellkoordinator"
+            },
+            "starred_order": null,
+            "years_of_experience": 7,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b54a",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b54b"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b552",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b553"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b55c",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b55d"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b548",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b549"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b554",
+                    "roles": [
+                        {
+                            "_id": "6516d5d7a885b10f8dde4675"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "6516d3e5aa9c9c0fecdfd756",
+                    "roles": [
+                        {
+                            "_id": "6516d443b7368e0f9bb97bf4"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b54c",
+                    "roles": [
+                        {
+                            "_id": "650170b83901250fd8ab7d17"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b541",
+            "order": 11,
+            "starred": false,
+            "disabled": false,
+            "version": 5,
+            "updated_at": "2023-09-29T13:42:35.718Z",
+            "created_at": "2023-07-04T10:51:16.912Z",
+            "owner_updated_at": "2023-09-29T13:42:35.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Disiplinleder veg"
+            },
+            "starred_order": null,
+            "years_of_experience": 4,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b55e",
+                    "roles": [
+                        {
+                            "_id": "6516d56588b5570f9a05f444"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b560",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b561"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b543",
+            "order": 13,
+            "starred": false,
+            "disabled": false,
+            "version": 7,
+            "updated_at": "2023-09-29T13:50:40.312Z",
+            "created_at": "2023-07-04T10:51:16.921Z",
+            "owner_updated_at": "2023-09-29T13:50:40.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Prosjekteringsleder"
+            },
+            "starred_order": null,
+            "years_of_experience": 5,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b54e",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b54f"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b546",
+                    "roles": [
+                        {
+                            "_id": "64feed72ffcbab10fc1522fd"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "64feed78e71fc11076730fcd",
+            "order": 14,
+            "starred": false,
+            "disabled": false,
+            "version": 6,
+            "updated_at": "2023-09-29T13:43:52.363Z",
+            "created_at": "2023-09-11T10:35:37.014Z",
+            "owner_updated_at": "2023-09-29T13:43:52.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "int": "Project manager",
+                "no": "Prosjektleder"
+            },
+            "starred_order": null,
+            "years_of_experience": 7,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b548",
+                    "roles": [
+                        {
+                            "_id": "65016fc93901250f9dab7d0a"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "652946668d9bbb00319bd541",
+                    "roles": [
+                        {
+                            "_id": "652948087dcce5003ad945b9"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "6516d3e5aa9c9c0fecdfd756",
+                    "roles": [
+                        {
+                            "_id": "6516d432289d5a1023ee6569"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "6528ee1d2446fe0031f7a544",
+                    "roles": [
+                        {
+                            "_id": "652945fe8995d700392034ab"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "6722211c9f6bf9003e81cad5",
+                    "roles": [
+                        {
+                            "_id": "6728b9978d61662abb645125"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "65016fcfc243590f8eba5945",
+            "order": 15,
+            "starred": false,
+            "disabled": false,
+            "version": 7,
+            "updated_at": "2024-11-04T12:10:08.000Z",
+            "created_at": "2023-09-13T08:16:15.441Z",
+            "owner_updated_at": "2024-11-04T12:10:08.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Vegplanlegger"
+            },
+            "starred_order": null,
+            "years_of_experience": 7,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b55e",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b55f"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b54a",
+                    "roles": [
+                        {
+                            "_id": "6516d45faea8131008cbf1aa"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b54e",
+                    "roles": [
+                        {
+                            "_id": "6516d498aea8130f98cbf1aa"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b552",
+                    "roles": [
+                        {
+                            "_id": "6516d595aa75e00f96001390"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "64a3f96c5281f0b1d801b554",
+                    "roles": [
+                        {
+                            "_id": "64a3f96c5281f0b1d801b555"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "6516d4b7aea8130ff1cbf151",
+                    "roles": [
+                        {
+                            "_id": "6516d4fbaea813100ecbf275"
+                        }
+                    ],
+                    "diverged_from_master": false
+                },
+                {
+                    "_id": "6516d3e5aa9c9c0fecdfd756",
+                    "roles": [
+                        {
+                            "_id": "6516d43baea8130ffccbf1e1"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "6516d43fa885b10fc4de46aa",
+            "order": 14,
+            "starred": false,
+            "disabled": false,
+            "version": 4,
+            "updated_at": "2023-09-29T13:45:37.413Z",
+            "created_at": "2023-09-29T13:42:23.329Z",
+            "owner_updated_at": "2023-09-29T13:45:37.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Disiplinleder VEI"
+            },
+            "starred_order": null,
+            "years_of_experience": 3,
+            "years_of_experience_offset": 0,
+            "project_experiences": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b55c",
+                    "roles": [
+                        {
+                            "_id": "662a0989b90f6b762d4a040b"
+                        }
+                    ],
+                    "diverged_from_master": false
+                }
+            ],
+            "_id": "662a098db65ea14f808a3678",
+            "order": 11,
+            "starred": false,
+            "disabled": false,
+            "version": 4,
+            "updated_at": "2024-04-25T07:43:16.059Z",
+            "created_at": "2024-04-25T07:43:09.962Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "work_experiences": [
+        {
+            "description": {
+                "no": "Tilbudsleder"
+            },
+            "employer": {
+                "no": "AFRY Norway AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2022",
+            "year_to": null,
+            "_id": "64a3f96c5281f0b1d801b531",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.739Z",
+            "created_at": "2023-07-04T10:51:16.739Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Veiplanlegger, modellkoordinator og BIM-utviklingsleder i FE Samferdsel"
+            },
+            "employer": {
+                "no": "Multiconsult Norge AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2018",
+            "year_to": "2022",
+            "_id": "64a3f96c5281f0b1d801b532",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.743Z",
+            "created_at": "2023-07-04T10:51:16.743Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Veiplanlegger. Seksjon Infrastruktur og miljø"
+            },
+            "employer": {
+                "no": "Hjellnes Consult AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2011",
+            "year_to": "2018",
+            "_id": "64a3f96c5281f0b1d801b533",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.748Z",
+            "created_at": "2023-07-04T10:51:16.748Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Ingeniør innen Infrastruktur/veg. Divisjon Engineering."
+            },
+            "employer": {
+                "no": "Reinertsen AS"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2011",
+            "year_to": "2011",
+            "_id": "64a3f96c5281f0b1d801b534",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.752Z",
+            "created_at": "2023-07-04T10:51:16.752Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "description": {
+                "no": "Anleggsgartner, sommerjobb"
+            },
+            "employer": {
+                "no": "Høyem og Aas Uteanlegg"
+            },
+            "long_description": {},
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2008",
+            "year_to": "2008",
+            "_id": "64a3f96c5281f0b1d801b535",
+            "order": 4,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.756Z",
+            "created_at": "2023-07-04T10:51:16.756Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "project_experiences": [
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "OHLA"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "no": "OHLA (Obrascon Huarte Lain) er et internasjonalt entreprenørselskap med hovedkontor i Spania. OHLA tilbyr et bredt spekter av tjenester, inkludert planlegging, prosjektering, konstruksjon, vedlikehold og drift av infrastrukturprosjekter som veier, broer, tunneler, jernbaner, flyplasser, havner og andre offentlige og private anlegg.\nOHLA har en betydelig internasjonal tilstedeværelse med prosjekter i mange land over hele verden. De har etablert seg som en ledende aktør innen global infrastrukturutvikling."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {
+                "int": "",
+                "no": "Potensielt 1 300 000 000 NOK"
+            },
+            "description": {
+                "int": "",
+                "no": "E18 VESTKORRIDOREN E105 Gjønnestunnelen"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "I tilbudsfasen for prosjektet Gjønnestunnelen og tilknyttet lokalveisystem i Bærum kommune, skal det utarbeides tilbudsdokumenter og optimaliseringsforslag for både prosjektering og bygging. Prosjektet omfatter en 1500 meter lang, to-løps berg- og betongtunnel. Dagsonen innebærer prosjektering og bygging av et nytt lokalveisystem, etablering av byggegrop, støtemurer og tekniske bygg. Prosjekteringen må ta hensyn til grunnforhold og bergkvalitet, samt vurderinger knyttet til nærhet til eksisterende infrastruktur og bygg. Vannhåndtering rundt sårbare resipienter skal vurderes for både anleggs- og driftsfasen. Videre skal prosjektet ta hensyn til klima, bærekraft og trafikkavvikling."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "05",
+            "month_to": "05",
+            "percent_allocated": null,
+            "project_extent_amt": "3200000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {
+                "int": "",
+                "no": " 8407 - Totalentreprise"
+            },
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": "60000000",
+            "total_extent_currency": "nok",
+            "total_extent_hours": null,
+            "year_from": "2023",
+            "year_to": "2024",
+            "images": [],
+            "project_experience_customer_contacts": [
+                {
+                    "_id": "6516d252289d5a105bee64e5",
+                    "contact_details_approved_at": null,
+                    "contact_details_approver_id": null,
+                    "contact_details_approver_name": null,
+                    "disabled": true,
+                    "email": "annemarie.syvertsen@ohla-norge.no",
+                    "hide_contact_details": true,
+                    "hide_quote": true,
+                    "label": {
+                        "no": "Tilbudsleder"
+                    },
+                    "name": "Anne Marie Syvertsen",
+                    "name_approved_at": null,
+                    "name_approver_id": null,
+                    "name_approver_name": null,
+                    "notes": {},
+                    "order": 0,
+                    "phone": "",
+                    "project_experience_id": "64a3f96c5281f0b1d801b544",
+                    "quote": {},
+                    "quote_approved_at": null,
+                    "quote_approver_id": null,
+                    "quote_approver_name": null,
+                    "reference_project_id": null,
+                    "version": 9,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "652948aa877a0400374e8504",
+                    "contact_details_approved_at": null,
+                    "contact_details_approver_id": null,
+                    "contact_details_approver_name": null,
+                    "disabled": true,
+                    "email": "bartosz.kubica@ohla-norge.no",
+                    "hide_contact_details": true,
+                    "hide_quote": true,
+                    "label": {
+                        "no": "Assisterende tilbudsleder"
+                    },
+                    "name": "Bartosz Kubica",
+                    "name_approved_at": null,
+                    "name_approver_id": null,
+                    "name_approver_name": null,
+                    "notes": {},
+                    "order": 1,
+                    "phone": "",
+                    "project_experience_id": "64a3f96c5281f0b1d801b544",
+                    "quote": {},
+                    "quote_approved_at": null,
+                    "quote_approver_id": null,
+                    "quote_approver_name": null,
+                    "reference_project_id": null,
+                    "version": 9,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b545",
+                    "cv_role_id": "64a3f96c5281f0b1d801b536",
+                    "name": {
+                        "no": "Tilbudsleder"
+                    },
+                    "long_description": {
+                        "int": "",
+                        "no": "Ledelse av AFRY's tilbudsteam av prosjekterende og fagressurser. Oppfølging av planlagt arbeidsomfang og budsjett. Oppfølging av faglige optimaliseringsløsninger. \n\nKontrakt mellom AFRY og OHLA. Budsjett, scope of work og fremdrift for planlagt prosjekteirngsfase."
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 38,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b544",
+            "order": 3,
+            "external_unique_id": null,
+            "version": 71,
+            "updated_at": "2024-11-06T11:40:53.000Z",
+            "created_at": "2023-07-04T10:51:16.760Z",
+            "owner_updated_at": "2024-04-25T07:41:44.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "OHLA"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "no": "OHLA (Obrascon Huarte Lain) er et internasjonalt entreprenørselskap med hovedkontor i Spania. OHLA tilbyr et bredt spekter av tjenester, inkludert planlegging, prosjektering, konstruksjon, vedlikehold og drift av infrastrukturprosjekter som veier, broer, tunneler, jernbaner, flyplasser, havner og andre offentlige og private anlegg.\nOHLA har en betydelig internasjonal tilstedeværelse med prosjekter i mange land over hele verden. De har etablert seg som en ledende aktør innen global infrastrukturutvikling."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {
+                "int": "",
+                "no": "Potensielt 4 100 000 000 NOK "
+            },
+            "description": {
+                "no": "E18 VESTKORRIDOREN E102"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Prosjektbeskrivelse for E102 Fornebukrysset - Strand i Forespørsels- / tilbudsfasen:\n\n**Prosjektfase: Forespørselsfasen / tilbudsfase**\n\n**Mål:**\nUtarbeidelse av tilbudsdokumenter og optimaliseringsforslag for prosjektering og bygging av E102 Fornebukrysset - Strand med fokus på:\n\n1. **Pris og kvalitet:**\n   - Leverandøren skal utarbeide et detaljprosjektert og byggeklart prosjekt, godkjent av relevante myndigheter.\n   - Prosjektet skal inkludere en kostnadseffektiv og funksjonell løsning som balanserer løsningssortering opp mot kostnadselementet.\n\n2. **Organisering og nøkkelpersonell:**\n   - Prosjektet vil kreve samordnet innsats fra et tverrfaglig team med klart definerte ansvarsområder.\n   - Nøkkelpersonell skal inkludere en BIM-koordinator for å sikre kvalitet og koordinering i alle faser av prosjektet.\n\n3. **Gjennomføring av oppdraget:**\n   - Konkret plan for identifiserte utfordringer, inkludert håndtering av trafikkforhold og interimsløsninger for avkjørsler.\n   - Bruk av BIM og VDC (Virtual Design and Construction) for effektiv prosjektgjennomføring, inkludert modellering, tverrfaglig kontroll, og kollisjonskontroll.\n   - Gjennomføringsplan med tydelig fremdrift og tidsfrister.\n\n4. **Ytre miljø og klimagassutslipp:**\n   - Tiltak for å minimere innvirkning på ytre miljø under bygging og drift.\n   - Reduksjon av klimagassutslipp gjennom valg av materialer og byggemetoder.\n\n5. **Kvalitet og robusthet:**\n   - Sikre høye standarder for kvalitet og robusthet gjennom hele prosjektet.\n   - Kontinuerlig kvalitetskontroll og dokumentasjon via BIM-verktøy for å sikre at alle krav og spesifikasjoner oppfylles.\n\nDette prosjektet skal resultere i en omfattende byggeplan som er klar for implementering, med alle nødvendige godkjenninger og optimaliserte løsninger for både kostnad og funksjonalitet."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "08",
+            "month_to": "06",
+            "percent_allocated": null,
+            "project_extent_amt": "11000000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": "20000000",
+            "total_extent_currency": "nok",
+            "total_extent_hours": null,
+            "year_from": "2022",
+            "year_to": "2023",
+            "images": [],
+            "project_experience_customer_contacts": [
+                {
+                    "_id": "6516d27d88b5570fdd05f508",
+                    "contact_details_approved_at": null,
+                    "contact_details_approver_id": null,
+                    "contact_details_approver_name": null,
+                    "disabled": true,
+                    "email": "annemarie.syvertsen@ohla-norge.no",
+                    "hide_contact_details": true,
+                    "hide_quote": true,
+                    "label": {
+                        "no": "Tilbudsleder"
+                    },
+                    "name": "Anne Marie Syvertsen",
+                    "name_approved_at": null,
+                    "name_approver_id": null,
+                    "name_approver_name": null,
+                    "notes": {},
+                    "order": 0,
+                    "phone": "",
+                    "project_experience_id": "64a3f96c5281f0b1d801b546",
+                    "quote": {},
+                    "quote_approved_at": null,
+                    "quote_approver_id": null,
+                    "quote_approver_name": null,
+                    "reference_project_id": null,
+                    "version": 9,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b547",
+                    "cv_role_id": "64a3f96c5281f0b1d801b537",
+                    "name": {
+                        "no": "Assisterende Tilbudsleder"
+                    },
+                    "long_description": {
+                        "int": "",
+                        "no": "Assisterende ledelse av AFRY's tilbudsteam av prosjekterende og fagressurser siste 3 mnd av tilbudsarbeidet. Oppfølging av planlagt arbeidsomfang og budsjett. Oppfølging av faglige optimaliseringsløsninger. \n\nKontrakt mellom AFRY og OHLA. Budsjett, scope of work og fremdrift for planlagt prosjekteirngsfase."
+                    },
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 6,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "64feed72ffcbab10fc1522fd",
+                    "cv_role_id": "64feed78e71fc11076730fcd",
+                    "name": {
+                        "no": "Prosjekteringsleder"
+                    },
+                    "long_description": {
+                        "int": "",
+                        "no": "Tverrfaglig ledelse av prosjekteringsgruppen. Oppfølging av faglige optimaliseringsløsninger. "
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 6,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "64feed9b8a153f0ff06f2d31",
+                    "cv_role_id": "64a3f96c5281f0b1d801b536",
+                    "name": {
+                        "no": "Tilbudsleder"
+                    },
+                    "long_description": {
+                        "int": "",
+                        "no": "Ledelse av AFRY's tilbudsteam av prosjekterende og fagressurser siste 3 mnd av tilbudsarbeidet. Oppfølging av planlagt arbeidsomfang og budsjett. Oppfølging av faglige optimaliseringsløsninger. \n\nKontrakt mellom AFRY og OHLA. Budsjett, scope of work og fremdrift for planlagt prosjekteirngsfase."
+                    },
+                    "order": 2,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 22,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b546",
+            "order": 4,
+            "external_unique_id": null,
+            "version": 64,
+            "updated_at": "2024-11-06T11:40:53.000Z",
+            "created_at": "2023-07-04T10:51:16.765Z",
+            "owner_updated_at": "2023-10-13T13:41:35.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Urtegaten 9 AS"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": "Urtegata 9 AS er eid av Eiendomsspar"
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "URTEKVARTALET Byggeplan"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Prosjektet består av tre byggetrinn for bygningsmassen Fabrikken, Veksthuset og Drivhuset. I forbindelse med dette er det behov for utarbeidelse av byggeplan for tilstøtende gater rundt Urtekvartalet. Dette gjelder gatene Nordbyveien, Nylandsveien, Urtegata og Urtepassasjen i Oslo sentrum. Prosjektet omfatter prosjektering av vei, vann og avløp, arkitektur, landskapsarkitektur og elektroarbeid. Det vil også være nødvendig med kontakt mot Bymiljøetaten (BYM) for godkjennelsen av byggeplanen."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "06",
+            "percent_allocated": null,
+            "project_extent_amt": "1000000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2021",
+            "year_to": "2022",
+            "images": [],
+            "project_experience_customer_contacts": [
+                {
+                    "_id": "65017029b754350f9dc9d61c",
+                    "contact_details_approved_at": null,
+                    "contact_details_approver_id": null,
+                    "contact_details_approver_name": null,
+                    "disabled": true,
+                    "email": "trond.rossvoll@vedal.no",
+                    "hide_contact_details": true,
+                    "hide_quote": true,
+                    "label": {
+                        "no": "Prosjektleder"
+                    },
+                    "name": "Trond Rossvoll",
+                    "name_approved_at": null,
+                    "name_approver_id": null,
+                    "name_approver_name": null,
+                    "notes": {},
+                    "order": 0,
+                    "phone": "+4740044045",
+                    "project_experience_id": "64a3f96c5281f0b1d801b548",
+                    "quote": {},
+                    "quote_approved_at": null,
+                    "quote_approver_id": null,
+                    "quote_approver_name": null,
+                    "reference_project_id": null,
+                    "version": 12,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b549",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 2,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "65016fc93901250f9dab7d0a",
+                    "cv_role_id": "65016fcfc243590f8eba5945",
+                    "name": {
+                        "int": "Project manager",
+                        "no": "Prosjektleder"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "65016fe13901250f6dab7cfc",
+                    "cv_role_id": "64a3f96c5281f0b1d801b540",
+                    "name": {
+                        "no": "Fagansvarlig veg"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b548",
+            "order": 5,
+            "external_unique_id": null,
+            "version": 55,
+            "updated_at": "2024-10-30T12:05:47.717Z",
+            "created_at": "2023-07-04T10:51:16.771Z",
+            "owner_updated_at": "2023-09-13T08:33:00.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "",
+                "no": "Oslo Kommune Bymiljøetaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "HOFFSVEIEN"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet innebærer oppgradering av 1,4 km av Hoffsveien, inkludert ny utforming med sykkelfelt, fortau, bussholdeplasser og andre nødvendige tiltak. Leverandøren skal levere en ferdig detaljprosjekt som er byggeklart og godkjent av relevante myndigheter. Prosjektet skal sørge for at alle tekniske løsninger og plangrep er dokumentert og kvalitetssikret i henhold til kontraktens krav. Under gjennomføringen skal det legges frem kontrollplaner som beskriver hva som skal kontrolleres, inkludert sjekklister for kvalitetssikring og kontrollresultater. Leverandøren er ansvarlig for å levere dokumentasjon som viser at alle tekniske løsninger, beregninger og analyser oppfyller kravene. Dokumentasjonen skal være tilgjengelig for oppdragsgiver for gjennomsyn og godkjenning før endelig leveranse. Eventuelle endringer og avvik skal tydelig fremgå av kvalitetsdokumentasjonen, og det skal sikres at det alltid arbeides etter siste versjon av dokumenter og modeller. Leverandøren skal også sørge for at oppdragsgiver kan utføre effektiv kvalitetskontroll og at nødvendige prosedyrer for dokumentasjon er på plass."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "05",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2021",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b54b",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 2,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d45faea8131008cbf1aa",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 5,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b54a",
+            "order": 6,
+            "external_unique_id": null,
+            "version": 8,
+            "updated_at": "2024-10-30T12:05:47.724Z",
+            "created_at": "2023-07-04T10:51:16.776Z",
+            "owner_updated_at": "2023-09-29T13:51:26.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Oslo Kommune, Plan- og bygningsetaten",
+                "no": "Oslo kommune, Plan- og bygningsetaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": "Plan- og bygningsetaten har ansvaret for kommunenes overordnede arealplanlegging, plan- og byggesaksbehandling, kartforvaltning, samt kart- og delingsforretninger."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "GATE- OG BYROM SKØYEN"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "For prosjekteringen av Skøyen-området skal det utarbeides et forprosjekt og et skisseprosjekt basert på forslag til områderegulering. Dette innebærer en grundig vurdering av trafikkstrømmer, håndtering av overvann, kollektivtraseer, utforming av gaterom, etablering av grøntanlegg, og sykkelløsninger. Målet er å sikre en helhetlig og funksjonell planlegging av området som tar hensyn til både praktiske og miljømessige aspekter."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "05",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2020",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b54d",
+                    "cv_role_id": "64a3f96c5281f0b1d801b53a",
+                    "name": {
+                        "no": "grunnlagsansvarlig"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 1,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "650170b83901250fd8ab7d17",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 2,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d479289d5a1007ee6517",
+                    "cv_role_id": "64a3f96c5281f0b1d801b53c",
+                    "name": {
+                        "no": "Fagansvarlig vei"
+                    },
+                    "long_description": {},
+                    "order": 2,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b54c",
+            "order": 7,
+            "external_unique_id": null,
+            "version": 9,
+            "updated_at": "2024-10-30T12:05:47.730Z",
+            "created_at": "2023-07-04T10:51:16.782Z",
+            "owner_updated_at": "2023-09-29T13:43:35.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Statens vegvesen Region øst"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "PROFESSOR KOHTS VEG, Modellkoordinator"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektbeskrivelse: Etableringen av et tosidig sykkelfelt over en strekning på 1230 meter, inkludert veibreddeutvidelse samt ombygging og rehabilitering av høye støttemurer med pelefundamentering og jordarmeringsnett. Prosjektet vil involvere utarbeidelse av byggeplan, tegninger, detaljerte beskrivelser og BIM-modell. Prosjektoppfølging vil foregå gjennom hele byggetiden. Modellen vil leveres i henhold til V770, og vil inkludere en samordningsmodell kodet i samsvar med objektkodelisten. Prosjektet har en verdi på 17 millioner kroner."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "05",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2018",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b54f",
+                    "cv_role_id": "64feed78e71fc11076730fcd",
+                    "name": {
+                        "no": "Prosjekteringsleder"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 1,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d498aea8130f98cbf1aa",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b54e",
+            "order": 8,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-10-30T12:05:47.734Z",
+            "created_at": "2023-07-04T10:51:16.789Z",
+            "owner_updated_at": "2023-09-29T13:43:59.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Oslo Kommune, Bymiljøetaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "LILLEAKERVEIEN BYGGEPLAN"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "For Vigga bru-prosjektet, blir det foreslått å inkludere en kontroll- og rådgivende bistand på byggeplan med en verdi på 3,2 millioner kroner. Dette vil sikre at prosjektet får den nødvendige ekspertisen for å oppnå en detaljprosjektert og byggeklart løsning, samt oppfylle kravene fra Vegdirektoratet."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "03",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2018",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b551",
+                    "cv_role_id": "64a3f96c5281f0b1d801b53c",
+                    "name": {
+                        "no": "Fagansvarlig vei"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b550",
+            "order": 9,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-10-30T12:05:47.737Z",
+            "created_at": "2023-07-04T10:51:16.795Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Solon Eiendom"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "DYSTER ELDOR DETALJREGULERING"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Prosjektet innebærer detaljregulering av veinettet i området for utbygging av 400-800 nye boliger i Ås kommune, med en verdi på 3 millioner kroner. Målet er å utarbeide et funksjonelt og kostnadseffektivt detaljprosjekt som er ferdig godkjent av relevante myndigheter. Leverandøren skal levere en fullstendig byggeplan inkludert nødvendige kapitler til konkurransegrunnlaget. Arbeidene inkluderer også månedlig fakturering i elektronisk format, og alle fakturaer skal angi oppdragsgivers bestillerreferanse. Videre skal leverandøren sikre at lønns- og arbeidsvilkår for alle arbeidere, inkludert underleverandører og innleide arbeidstakere, er i samsvar med gjeldende forskrifter og avtaler, samt gjennomføre nødvendige kontroller og dokumentere resultatene."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "06",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2019",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b553",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 1,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d595aa75e00f96001390",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 4,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b552",
+            "order": 10,
+            "external_unique_id": null,
+            "version": 8,
+            "updated_at": "2024-10-30T12:05:47.740Z",
+            "created_at": "2023-07-04T10:51:16.800Z",
+            "owner_updated_at": "2023-09-29T13:49:35.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Oslo Kommune, BYM"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "DETALJREGULERING ULLEVÅLSVEIEN, LOUISES GT OG COLLETS GT"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet innebærer etablering og tilrettelegging av opphøyd sykkelfelt og andre sykkeltiltak, inkludert møteplass, bussplattform, fortautvidelser og kryssjusteringer. Totalt vil 2,5 km med tilrettelegging for sykkel og gateombygging bli gjennomført. \n\nOppgavene omfatter vegprosjektering, trafikkvurderinger, håndtering av forurenset grunn, byggesaksbehandling, innstallering av gatebelysning, tilpasninger av overvannssystemet, samt utvikling av skiltplaner.\n\nLeverandøren vil stå ansvarlig for detaljprosjektering av alle nevnte tiltak og sørge for fullstendige byggeplaner. I tillegg skal leverandøren levere det nødvendige grunnlaget for godkjenning av relevante myndigheter."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2018",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b555",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 5,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d5d7a885b10f8dde4675",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 2,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b554",
+            "order": 11,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-10-30T12:05:47.744Z",
+            "created_at": "2023-07-04T10:51:16.806Z",
+            "owner_updated_at": "2023-09-29T13:50:52.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Statens vegvesen"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "E 134 SAGGRENDA ELGSJØ"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektbeskrivelsen kan tilpasses som følger:\n\nDetaljregulering til totalentreprise for bygging av to-felts veg med midtrekkverk og forbikjøringsfelt, inkludert vurdering av både dag-løsning og tunnelløsning. Modellleveranse skal følge V770. Den økonomiske rammen for prosjektet er 16,8 MNOK."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2019",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b557",
+                    "cv_role_id": "64a3f96c5281f0b1d801b53f",
+                    "name": {
+                        "no": "BIM-koordinator"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b556",
+            "order": 12,
+            "external_unique_id": null,
+            "version": 8,
+            "updated_at": "2024-10-30T12:05:47.753Z",
+            "created_at": "2023-07-04T10:51:16.812Z",
+            "owner_updated_at": "2023-09-29T13:38:21.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Viken fylkeskommune"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "FV 109 RÅBEKKEN - ROLVSØYSUND"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet innebærer utvidelse av Fv 109 til en firefelts veg, hvor to felt er forbeholdt kollektivtrafikk. Det vil også bli tilrettelagt for myke trafikanter, inkludert koblinger mot lokalveger, sykkelveg med fortau, gangvegsystem, bussholdeplasser, kontrollplass og bruer. Byggeplanen vil inkludere konkurransegrunnlag og oppfølging i byggetiden. Leverandøren skal sørge for modelleveranse i henhold til V770. Prosjektets verdi er estimert til 46,2 millioner kroner."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "02",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2018",
+            "year_to": "2022",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b559",
+                    "cv_role_id": "64a3f96c5281f0b1d801b53f",
+                    "name": {
+                        "no": "BIM-koordinator"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b558",
+            "order": 13,
+            "external_unique_id": null,
+            "version": 8,
+            "updated_at": "2024-10-30T12:05:47.757Z",
+            "created_at": "2023-07-04T10:51:16.818Z",
+            "owner_updated_at": "2023-09-29T13:37:14.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Oslo Kommune Bymiljøetaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "JORDAL IDRETTSPARK – BYGGEPLAN VEGOPPRUSTNING"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Byggeplanen vil inkludere arbeidstegninger, vedtakstegninger og beskrivelser for oppgradering av totalt 1 km gater rundt Jordal idrettspark, inkludert 120 m med GS-vei. Arbeidet vil omfatte kantsteinsjusteringer, kryssinnstramming, installasjon av et nytt belysningsanlegg, håndtering av overvann med regnbed, og beplantning. Byggesaken vil også omfatte håndtering av forurenset grunn, utvikling av en miljøoppfølgingsplan, og utarbeidelse av en SHA-plan. Det vil bli nødvendig med oppfølging i byggefase. Prosjektets verdi er estimert til 3,2 millioner kroner."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "05",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2018",
+            "year_to": "2021",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b55b",
+                    "cv_role_id": "64a3f96c5281f0b1d801b540",
+                    "name": {
+                        "no": "Fagansvarlig veg"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b55a",
+            "order": 14,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-10-30T12:05:47.761Z",
+            "created_at": "2023-07-04T10:51:16.823Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Statens vegvesen"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "KOLÅSVEIEN"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektbeskrivelsen for bygging av nytt fortau langs fylkesvei gjennom Son sentrum bør inneholde detaljer om tilpasning mot sidegater og håndtering av høydeproblematikk. Spesiell oppmerksomhet må vies til bevaringsverdige bygg i området. Modellen skal leveres i henhold til V770-standarder, med en total lengde på 300 meter. Dette sikrer en sømløs informasjonsflyt og høy kvalitet i beslutningsgrunnlaget, samt effektiv kommunikasjon mellom alle involverte parter i prosjektet."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": "3400000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2017",
+            "year_to": "2020",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b55d",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 1,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "662a0989b90f6b762d4a040b",
+                    "cv_role_id": "662a098db65ea14f808a3678",
+                    "name": {
+                        "no": "Disiplinleder VEI"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 2,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b55c",
+            "order": 15,
+            "external_unique_id": null,
+            "version": 5,
+            "updated_at": "2024-10-30T12:05:47.771Z",
+            "created_at": "2023-07-04T10:51:16.827Z",
+            "owner_updated_at": "2024-04-25T07:43:10.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "Selvaag Bolig ASA"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "OMRÅDEREGULERING HØN LANDÅS"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "For en helhetlig utvikling av området og sammenkobling med sentrum, bør tiltak og løsninger fokusere på å forbedre veisystemet med hensyn til utbyggingsmuligheter og andre premisser. Dette inkluderer offentlig gate, adkomstveier, GS-traseer, og snuplasser. Effekten av flomhendelser på området bør også vurderes, og det er viktig å sikre at adkomstene til boliger og andre bygninger opprettholdes eller forbedres. Det anbefales å utarbeide en detaljert modellgrunnlag og byggplan, inkludert en BIM-gjennomføringsplan, for å sikre en effektiv og kvalitetssikret gjennomføring av prosjektet. Sikkerhet og funksjonalitet skal ha høy prioritet, og det er viktig å sørge for god dokumentasjon samt oppfølging i byggetiden."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2016",
+            "year_to": "2020",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b55f",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d56588b5570f9a05f444",
+                    "cv_role_id": "64a3f96c5281f0b1d801b543",
+                    "name": {
+                        "no": "Disiplinleder veg"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 7,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b55e",
+            "order": 16,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-10-30T12:05:47.775Z",
+            "created_at": "2023-07-04T10:51:16.832Z",
+            "owner_updated_at": "2023-09-29T13:50:40.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "no": "USBL"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "no": "KÅRE B WERNERS GT"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "no": "Byggeplan for adkomstvei og fortau i nytt boligområde i Lørenskog kommune vil omfatte følgende:\n\n1. Utarbeidelse av komplett modellgrunnlag i henhold til gjeldende kommunale BIM-manualer og vedlegg, inkludert egenskapsdata på objekter.\n2. Geoteknisk prosjektering og valg av fundamentering med grunnlag i resultater fra kommunens grunnboringer.\n3. Detaljprosjektering av adkomstvei og fortau, basert på føringer fra relevante rapporter og analyser.\n4. Byggeplan for adkomstvei og fortau, som skal være komplett og godkjent av relevante myndigheter.\n5. Levering av mengder og kostnadsgrunnlag for adkomstvei og fortau til bruk i anslag.\n6. Alle fagmodeller skal prosjekteres og leveres i kommunens Quadri-server (Novapoint). Modellene skal inneholde egenskaper i henhold til kommunens BIM-manual med vedlegg. Ved avsluttet prosjektering skal konsulent levere modeller i IFC-format og programmernes native format.\n7. Leverandør skal utarbeide en BIM-gjennomføringsplan som svar på kommunens BIM-manual for å vise hvordan prosjektet gjennomføres.\n8. Leverandør skal levere dokumentasjon for kvalitetskontroll, med fullt innsyn og oversendelse av sjekklister i henhold til leverandørens kvalitetssystem. Følgende fag skal leveres som tegninger og fagmodeller, alle tegninger skal genereres/utarbeides fra fagmodell:\n   - Byggetekniske detaljer\n   - Adkomstvei og fortau\n9. Etter godkjent byggeplan skal det leveres stikningsdata i henhold til tabell:\n   - Fag: Adkomstvei og fortau\n   - Format: DWG\n10. Utarbeidelse av miljørisikovurdering og miljøsaneringsplan for gjennomføring av prosjektet.\n11. Oppfølging i byggetid og utarbeidelse av som bygget- og forvaltningsdokumentasjon i henhold til kommunens føringer, inkludert innlegging av data i relevante systemer og levering av som bygget-dokumentasjon til kommunen."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2017",
+            "year_to": "2019",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "64a3f96c5281f0b1d801b561",
+                    "cv_role_id": "64a3f96c5281f0b1d801b543",
+                    "name": {
+                        "no": "Disiplinleder veg"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": null,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "64a3f96c5281f0b1d801b560",
+            "order": 17,
+            "external_unique_id": null,
+            "version": 4,
+            "updated_at": "2024-10-30T12:05:47.779Z",
+            "created_at": "2023-07-04T10:51:16.839Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Oslo Kommune Bymiljøetaten",
+                "no": "Oslo Kommune Bymiljøetaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "Åkebergveien"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Pilotprosjektet i Oslo vil fokusere på opphøyde sykkelfelt langs Åkebergveien, inkludert fjerning av eksisterende parkeringsplasser. Prosjektet vil skape en ny situasjon med opphøyde sykkelfelt på begge sider av veien samt fortau. Prosjekteringen vil også omfatte tilpasninger ut i sidegater, løsninger for kryss og gatetun, samt en gang- og sykkelvei som går gjennom en liten park. Totalt vil prosjektet dekke en strekning på cirka 750 meter."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "01",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": "4700000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2016",
+            "year_to": "2020",
+            "images": [],
+            "roles": [
+                {
+                    "_id": "6516d432289d5a1023ee6569",
+                    "cv_role_id": "65016fcfc243590f8eba5945",
+                    "name": {
+                        "int": "Project manager",
+                        "no": "Prosjektleder"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d43baea8130ffccbf1e1",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 1,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 2,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                },
+                {
+                    "_id": "6516d443b7368e0f9bb97bf4",
+                    "cv_role_id": "64a3f96c5281f0b1d801b541",
+                    "name": {
+                        "no": "Modellkoordinator"
+                    },
+                    "long_description": {},
+                    "order": 2,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "6516d3e5aa9c9c0fecdfd756",
+            "order": 18,
+            "external_unique_id": null,
+            "version": 17,
+            "updated_at": "2024-10-30T12:05:47.785Z",
+            "created_at": "2023-09-29T13:40:53.299Z",
+            "owner_updated_at": "2023-09-29T13:42:35.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Oslo Kommune Eiendoms- og Byfornyelses Etaten",
+                "no": "Oslo Kommune Eiendoms- og Byfornyelses Etaten"
+            },
+            "customer_anonymized": {},
+            "customer_description": {},
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "Kravspek Lillomarka Arena"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {},
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "For prosjektet om planlegging av veisystemet rundt arenaområdet og vurdering av løypetraseer, samt utforming av kravspesifikasjon med tilhørende tegninger, må det sikres at all dokumentasjon er kvalitetskontrollert og levert i henhold til kontraktens krav. Prosjekteringen skal inkludere en komplett modellgrunnlag, geoteknisk prosjektering, og detaljerte tegninger. Det er viktig å levere mengder og grunnlag til bruk i anslag, og sikre at alle fagmodeller inneholder egenskaper i henhold til relevante BIM-manualer. Dokumentasjonen skal være tilgjengelig for effektiv kvalitetskontroll og godkjenning, og leveres på en form som oppdragsgiver enkelt kan sette seg inn i. Prosjektet må også utarbeide miljørisikovurderinger og miljøsaneringsplaner som en del av gjennomføringen."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": null,
+            "month_to": null,
+            "percent_allocated": null,
+            "project_extent_amt": null,
+            "project_extent_currency": null,
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": null,
+            "year_to": null,
+            "images": [],
+            "roles": [
+                {
+                    "_id": "6516d4fbaea813100ecbf275",
+                    "cv_role_id": "6516d43fa885b10fc4de46aa",
+                    "name": {
+                        "no": "Vegplanlegger"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "6516d4b7aea8130ff1cbf151",
+            "order": 19,
+            "external_unique_id": null,
+            "version": 15,
+            "updated_at": "2024-10-30T12:05:47.796Z",
+            "created_at": "2023-09-29T13:44:23.310Z",
+            "owner_updated_at": "2023-09-29T13:45:52.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Nordre Follo Kommune",
+                "no": "Nordre Follo kommune"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": ""
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "Oppegård overgangsbru"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Kommunal sektor"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Prosjektering av ny Oppegård overgangsbru for Nordre Follo kommune er delt inn i to faser: forprosjekt og detaljprosjektering. Prosjektet har grensesnitt mot Bane NOR og eksisterende prosjekt for Viken fylkeskommune, noe som krever god dialog gjennom prosessen for å sikre en vellykket planfase og anleggsfase, og et godt sluttprodukt for kommunen og innbyggerne. AFRY er engasjert av kommunen til å lede prosjektet og har ansvar for alle fag.\n\nForprosjektet og detaljprosjekteringen omfatter ny overgangsbru bygd av prefabrikkerte betongelementer og støttemurer av betong. Prosjektet inkluderer også lysdesign og bruarkitektur for å sikre et visuelt tiltalende og trygt sluttprodukt. Prosjekteringen dekker bru og konstruksjoner, elektro, kontaktledninger, VA og vei, samt geotekniske vurderinger. Kostnadskalkyler og anbudsbeskrivelser vil også bli utarbeidet som en del av anbudsgrunnlaget."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "09",
+            "month_to": "01",
+            "percent_allocated": null,
+            "project_extent_amt": "4000000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2023",
+            "year_to": "2024",
+            "images": [],
+            "project_experience_customer_contacts": [
+                {
+                    "_id": "652948739ffb01003788a2a1",
+                    "contact_details_approved_at": null,
+                    "contact_details_approver_id": null,
+                    "contact_details_approver_name": null,
+                    "disabled": true,
+                    "email": "Eirik.Kravik.Solheim@nordrefollo.kommune.no",
+                    "hide_contact_details": true,
+                    "hide_quote": true,
+                    "label": {
+                        "no": "Prosjektleder"
+                    },
+                    "name": "Eirik Kravik Solheim",
+                    "name_approved_at": null,
+                    "name_approver_id": null,
+                    "name_approver_name": null,
+                    "notes": {},
+                    "order": 0,
+                    "phone": "456 17 675 ",
+                    "project_experience_id": "6528ee1d2446fe0031f7a544",
+                    "quote": {},
+                    "quote_approved_at": null,
+                    "quote_approver_id": null,
+                    "quote_approver_name": null,
+                    "reference_project_id": null,
+                    "version": 11,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "roles": [
+                {
+                    "_id": "652945fe8995d700392034ab",
+                    "cv_role_id": "65016fcfc243590f8eba5945",
+                    "name": {
+                        "int": "Project manager",
+                        "no": "Prosjektleder"
+                    },
+                    "long_description": {
+                        "int": "",
+                        "no": "- Ansvarlig oppdragsleder og prosjekteringsleder\n- Ansvarlig for faglig kvalitet\n- Ansvarlig for å lede alle fag i det daglige arbeidet\n- Ansvarlig for kundekontakt \n- Ansvarlig for koordinering med Bane NOR og Viken fylkeskommune\n- Ansvarlig for konsulentens fremdrift og budsjett\n- Ansvarlig for koordinering av oppgaver\n- Ansvarlig for å identifisere endringer og oppfølging av kontrakt\n- Ansvarlig for tverrfaglig koordinering"
+                    },
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 9,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "project_experience_skills": [
+                {
+                    "_id": "65294650b1c17600350847dc",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Prosjektledelse"
+                    },
+                    "order": 1,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "_id": "652946545a7693003119109d",
+                    "base_duration_in_years": 0,
+                    "offset_duration_in_years": 0,
+                    "total_duration_in_years": 0,
+                    "proficiency": 0,
+                    "modifier_id": null,
+                    "tags": {
+                        "no": "Økonomistyring"
+                    },
+                    "order": 2,
+                    "version": 1,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "_id": "6528ee1d2446fe0031f7a544",
+            "order": 2,
+            "external_unique_id": null,
+            "version": 77,
+            "updated_at": "2024-10-30T12:05:47.805Z",
+            "created_at": "2023-10-13T07:13:33.981Z",
+            "owner_updated_at": "2024-04-25T07:38:24.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "Bærum kommune",
+                "no": "Bærum kommune"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": "Bærum er en kommune i vestdelen av Akershus fylke, og er Norges femte største kommune etter innbyggertall."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "Bekkestua sykkelruter"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": null,
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "int": "",
+                "no": "Oppdraget består i å studere mulighetene for å etablere bedre sykkelanlegg i ulike traseer for å gi grunnlag for videre prioritering av tiltak. Det skal utvikles og prosjekteres løsningsforslag for tiltak på strekningene, inkludert tekniske tegninger som viser plan og snitt. Arbeidet skal dokumenteres i en rapport med anbefalinger for videre utvikling av de to strekningene. Målet er å opparbeide sykkelrutene østover fra Bekkestua sentrum slik at forbindelsene blir attraktive og trafikksikre, med redusert konflikt med gående."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "09",
+            "month_to": "12",
+            "percent_allocated": null,
+            "project_extent_amt": "230000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": null,
+            "project_type": {},
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": false,
+            "total_extent_amt": null,
+            "total_extent_currency": null,
+            "total_extent_hours": null,
+            "year_from": "2023",
+            "year_to": "2023",
+            "images": [],
+            "project_experience_customer_contacts": [
+                {
+                    "_id": "6529481f8d9bbb00339bd5ae",
+                    "contact_details_approved_at": null,
+                    "contact_details_approver_id": null,
+                    "contact_details_approver_name": null,
+                    "disabled": true,
+                    "email": "anne.andersen@baerum.kommune.no",
+                    "hide_contact_details": true,
+                    "hide_quote": true,
+                    "label": {
+                        "no": "Prosjektleder"
+                    },
+                    "name": "Anne Merete Andersen",
+                    "name_approved_at": null,
+                    "name_approver_id": null,
+                    "name_approver_name": null,
+                    "notes": {},
+                    "order": 0,
+                    "phone": "45235242",
+                    "project_experience_id": "652946668d9bbb00319bd541",
+                    "quote": {},
+                    "quote_approved_at": null,
+                    "quote_approver_id": null,
+                    "quote_approver_name": null,
+                    "reference_project_id": null,
+                    "version": 12,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "roles": [
+                {
+                    "_id": "652948087dcce5003ad945b9",
+                    "cv_role_id": "65016fcfc243590f8eba5945",
+                    "name": {
+                        "int": "Project manager",
+                        "no": "Prosjektleder"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 5,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "652946668d9bbb00319bd541",
+            "order": 1,
+            "external_unique_id": null,
+            "version": 59,
+            "updated_at": "2024-10-30T12:05:47.811Z",
+            "created_at": "2023-10-13T13:30:14.378Z",
+            "owner_updated_at": "2024-04-25T07:50:24.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "area_amt": null,
+            "area_unit": null,
+            "customer": {
+                "int": "OHLA",
+                "no": "OHLA"
+            },
+            "customer_anonymized": {},
+            "customer_description": {
+                "int": "",
+                "no": "OHLA (Obrascon Huarte Lain) er et internasjonalt entreprenørselskap med hovedkontor i Spania. OHLA tilbyr et bredt spekter av tjenester, inkludert planlegging, prosjektering, konstruksjon, vedlikehold og drift av infrastrukturprosjekter som veier, broer, tunneler, jernbaner, flyplasser, havner og andre offentlige og private anlegg.\nOHLA har en betydelig internasjonal tilstedeværelse med prosjekter i mange land over hele verden. De har etablert seg som en ledende aktør innen global infrastrukturutvikling."
+            },
+            "customer_selected": "customer",
+            "customer_value_proposition": {},
+            "description": {
+                "int": "",
+                "no": "E105-Gjønnestunnelen"
+            },
+            "disabled": false,
+            "exclude_tags": [],
+            "expected_roll_off_date": null,
+            "extent_hours": "2100",
+            "industry": {
+                "int": "",
+                "no": "Bygg & Anlegg"
+            },
+            "location_country_code": null,
+            "long_description": {
+                "no": "Prosjektet omfatter bygging av en ny bru eller kulvert over Vigga, hvor den eksisterende struktur er et halvrør av stål med en diameter på 2,45 meter som er i dårlig forfatning. Prosjektet skal detaljprosjekteres og være byggeklart, med godkjenning fra Vegdirektoratet. Det er viktig å levere et funksjonelt prosjekt med fokus på kostnadseffektivitet. Økonomiske rammer viser at prosjektet har en foreløpig tildeling på ca. 22,2 millioner kroner i handlingsprogrammet for 2026-2029. Leverandøren skal stå for detaljprosjektering av konstruksjonen og levere en komplett byggeplan samt nødvendige konkurransedokumenter. Adkomster rundt prosjektområdet må opprettholdes, med unntak av en nordre boligadkomst som kan vurderes av Innlandet fylkeskommune. I tillegg, skal det planlegges for en interimsløsning på grunn av lang omkjøringsvei. BIM-metoden skal brukes for å fremme samarbeid og effektiv kommunikasjon gjennom alle prosjektfaser."
+            },
+            "project_address": null,
+            "contract_type": {},
+            "month_from": "05",
+            "month_to": null,
+            "percent_allocated": "100",
+            "project_extent_amt": "70000000",
+            "project_extent_currency": "nok",
+            "project_extent_hours": "50000",
+            "project_type": {
+                "int": "",
+                "no": " 3407 - Totalentreprise"
+            },
+            "reference_project_id": null,
+            "related_work_experience_id": null,
+            "starred": true,
+            "total_extent_amt": "2100000000",
+            "total_extent_currency": "nok",
+            "total_extent_hours": null,
+            "year_from": "2024",
+            "year_to": null,
+            "images": [],
+            "roles": [
+                {
+                    "_id": "6728b9978d61662abb645125",
+                    "cv_role_id": "65016fcfc243590f8eba5945",
+                    "name": {
+                        "int": "Project manager",
+                        "no": "Prosjektleder"
+                    },
+                    "long_description": {},
+                    "order": 0,
+                    "starred": false,
+                    "summary": {},
+                    "disabled": false,
+                    "recently_added": false,
+                    "version": 3,
+                    "updated_at": null,
+                    "created_at": null,
+                    "diverged_from_master": false,
+                    "modifier_id": null,
+                    "origin_id": null
+                }
+            ],
+            "_id": "6722211c9f6bf9003e81cad5",
+            "order": 0,
+            "external_unique_id": null,
+            "version": 30,
+            "updated_at": "2024-11-06T11:40:55.000Z",
+            "created_at": "2024-10-30T12:05:48.403Z",
+            "owner_updated_at": "2024-11-04T12:10:30.000Z",
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "educations": [
+        {
+            "degree": {
+                "no": "Landskapsingeniør,, Bachelor"
+            },
+            "description": {},
+            "school": {
+                "no": "NMBU (Tidligere UMB)"
+            },
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2006",
+            "year_to": "2009",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b52f",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.730Z",
+            "created_at": "2023-07-04T10:51:16.730Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "degree": {
+                "no": "Formgivningsfag m/ studiekompetanse, , Videregående, grunnutdanning"
+            },
+            "description": {},
+            "school": {
+                "no": "Vargstad vgs"
+            },
+            "month_from": null,
+            "month_to": null,
+            "year_from": "2002",
+            "year_to": "2005",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b530",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.734Z",
+            "created_at": "2023-07-04T10:51:16.734Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": {
+                "no": "RIF godkjenning, samferdselsteknikk og arealplanlegging"
+            },
+            "organiser": {},
+            "long_description": {},
+            "month": null,
+            "month_expire": null,
+            "year": "2016",
+            "year_expire": null,
+            "is_expired": false,
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b564",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.936Z",
+            "created_at": "2023-07-04T10:51:16.936Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "courses": [
+        {
+            "name": {
+                "no": "Tekna Praktisk Prosjektledelse"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2023",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b565",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.940Z",
+            "created_at": "2023-07-04T10:51:16.940Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Kurs i PBL for PRO og kontroll"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2020",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b566",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.945Z",
+            "created_at": "2023-07-04T10:51:16.945Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Mengdebeskrivelse etter prosesskoden"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2019",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b567",
+            "order": 2,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.949Z",
+            "created_at": "2023-07-04T10:51:16.949Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Disiplinleder internkurs (MC), 12 timer."
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2018",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b568",
+            "order": 3,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.954Z",
+            "created_at": "2023-07-04T10:51:16.954Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Novapoint brukermøte"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2018",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b569",
+            "order": 4,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.958Z",
+            "created_at": "2023-07-04T10:51:16.958Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Oppdragslederkurs forenklet styring (MC)"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2018",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b56a",
+            "order": 5,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.963Z",
+            "created_at": "2023-07-04T10:51:16.963Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "BIM basis heldagskurs og BuildingSMART sertifisering"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2017",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b56b",
+            "order": 6,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.968Z",
+            "created_at": "2023-07-04T10:51:16.968Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Kurs i Oslostandarden for sykkel"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2017",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b56c",
+            "order": 7,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.973Z",
+            "created_at": "2023-07-04T10:51:16.973Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Den kloke tegning"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2016",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b56d",
+            "order": 8,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.977Z",
+            "created_at": "2023-07-04T10:51:16.977Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "«Ekstrem prosjektering». Samtidig prosjektering i regi av Vianova og SVV."
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2014",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b56e",
+            "order": 9,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.982Z",
+            "created_at": "2023-07-04T10:51:16.982Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Grunnkurs Infraworks (internt)."
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2014",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b56f",
+            "order": 10,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.987Z",
+            "created_at": "2023-07-04T10:51:16.987Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Konferanse Universell utforming av vegsystemet. Statens vegvesen."
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2014",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b570",
+            "order": 11,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.993Z",
+            "created_at": "2023-07-04T10:51:16.993Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Samordning i Novapoint19DCM med QuadriDCM. Vianova"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2014",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b571",
+            "order": 12,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.998Z",
+            "created_at": "2023-07-04T10:51:16.998Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Virtual Map 19.20 med NovapointDCM. Vianova"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2014",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b572",
+            "order": 13,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.003Z",
+            "created_at": "2023-07-04T10:51:17.003Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Årlig Novapoint brukermøte. Minikurs og foredrag over 2 dager"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2013",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b573",
+            "order": 14,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.008Z",
+            "created_at": "2023-07-04T10:51:17.008Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "G-PROG beskrivelse for veiprosjekter. Kurs hos Norconsult."
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2012",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b574",
+            "order": 15,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.014Z",
+            "created_at": "2023-07-04T10:51:17.014Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Rollen som oppdragsansvarlig (internt)"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2012",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b575",
+            "order": 16,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.019Z",
+            "created_at": "2023-07-04T10:51:17.019Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "G-PROG beskrivelse. Kurs hos Norconsult"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2011",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b576",
+            "order": 17,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.041Z",
+            "created_at": "2023-07-04T10:51:17.041Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Introduksjon til Virtual Map og samordningsmodellen"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2011",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b577",
+            "order": 18,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.050Z",
+            "created_at": "2023-07-04T10:51:17.050Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Novapoint Veg Basis. 3 dagers kurs hos Vianova"
+            },
+            "program": {},
+            "long_description": {},
+            "month": null,
+            "year": "2011",
+            "attachments": [],
+            "_id": "64a3f96c5281f0b1d801b578",
+            "order": 19,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:17.061Z",
+            "created_at": "2023-07-04T10:51:17.061Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "blogs": [],
+    "languages": [
+        {
+            "name": {
+                "no": "Norsk"
+            },
+            "level": {
+                "no": "Morsmåls- eller tospråklig kompetanse"
+            },
+            "_id": "64a3f96c5281f0b1d801b562",
+            "order": 0,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.927Z",
+            "created_at": "2023-07-04T10:51:16.927Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        },
+        {
+            "name": {
+                "no": "Engelsk"
+            },
+            "level": {
+                "no": "God kompetanse fagspråk"
+            },
+            "_id": "64a3f96c5281f0b1d801b563",
+            "order": 1,
+            "starred": false,
+            "disabled": false,
+            "external_unique_id": null,
+            "version": 1,
+            "updated_at": "2023-07-04T10:51:16.931Z",
+            "created_at": "2023-07-04T10:51:16.931Z",
+            "owner_updated_at": null,
+            "modifier_id": null,
+            "diverged_from_master": false,
+            "recently_added": false,
+            "origin_id": null
+        }
+    ],
+    "custom_tags": [
+        {
+            "_id": "648ff5980a65a625ac242eb7",
+            "id": "648ff5980a65a625ac242eb7",
+            "values": {
+                "no": "224-1410 Project Development Oslo"
+            },
+            "external_unique_id": null,
+            "custom_tag_category_id": "648ff53e4b808f0f8ce7b764",
+            "category_ids": [
+                "648ff53e4b808f0f8ce7b764"
+            ],
+            "custom_tag_category": {
+                "_id": "648ff53e4b808f0f8ce7b764",
+                "id": "648ff53e4b808f0f8ce7b764",
+                "values": {
+                    "no": "Business Section"
+                },
+                "external_unique_id": "",
+                "can_be_used_for_cvs": true,
+                "can_be_used_for_references": true,
+                "can_be_used_for_customers": false,
+                "allow_filtering": true
+            }
+        },
+        {
+            "_id": "648ff5990a65a625ac242f05",
+            "id": "648ff5990a65a625ac242f05",
+            "values": {
+                "no": "Oslo"
+            },
+            "external_unique_id": null,
+            "custom_tag_category_id": "648ff54e5967010fa0143a80",
+            "category_ids": [
+                "648ff54e5967010fa0143a80"
+            ],
+            "custom_tag_category": {
+                "_id": "648ff54e5967010fa0143a80",
+                "id": "648ff54e5967010fa0143a80",
+                "values": {
+                    "no": "Office location"
+                },
+                "external_unique_id": "",
+                "can_be_used_for_cvs": true,
+                "can_be_used_for_references": false,
+                "can_be_used_for_customers": false,
+                "allow_filtering": true
+            }
+        }
+    ],
+    "custom_tag_ids": [
+        "648ff5980a65a625ac242eb7",
+        "648ff5990a65a625ac242f05"
+    ],
+    "updated_ago": "N/A",
+    "template_document_type": "doc",
+    "default_word_template_id": "64a7cf51eb7d460f3a8e16a6",
+    "default_word_json_template_id": null,
+    "default_ppt_template_id": null,
+    "default_indesign_template_id": null,
+    "highlighted_roles": [],
+    "office": {
+        "_id": "648ff2e154cbd70f484ce3be",
+        "id": "648ff2e154cbd70f484ce3be",
+        "name": "BU Transportation",
+        "selected": false,
+        "default_word_template_id": null,
+        "default_word_json_template_id": null,
+        "default_ppt_template_id": null,
+        "default_indesign_template_id": null,
+        "country_id": "582d9aeb2c04d615d6a569bd",
+        "country_code": "no",
+        "override_language_code": null
+    },
+    "image": {
+        "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff9d955646f5eddde21ef/tiril.seielstad_afry.com20230620-14191-kllba3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T062503Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJIMEYCIQC1jt63uKeY7GDVqu0Ih8vcgDdy0mTPwA6n%2BQ2gDcAGFAIhAMJMVDNzIEBgg0E3g%2BG%2BP5TeiYiu6oPGbMb1NluVT2LdKo0FCP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNTcxNTgwMDEwMTMyIgxLOyqHIPXakpMvQA4q4QSDka83dAb55lbNRNfucr5ZJlZiFKGCP9gcmduC904PSi2NwnYn3GMbX2oQKZleaX9LRieX5aTUPC%2BsxGfdFuMEuyXpFPeGXSFhDa34Xb9y3Tm7%2BpRMSahHdqkgYAHYt4EdfxvibDP0trmpifg0SkWGKegsahc534U203HWhP%2Fox%2FjM7eo60vinOdRpa5gpZya80K2wghjZ1j92gQn%2FrzVKZriY6Gcky%2FQzBu0zvvM1XMdrZ%2B%2F6JvU242cevitSfCNg%2BL1H8eX3eEmrZHuPKAUI3AjtHuvgXHDHv38RKZwaMvoKQ86Wl6T5eo4CunG1E6X399BfSTNxo3WLv6E9x9%2F%2BCa42uFk0SmqKGNG2V35EewCf7GGQ5GmSygwUpDmy7%2FrfQeg%2FafjJjOixz4EMJ8wdFtXuFHstow5oaLpN0X1xhK7rrkWMR4%2FnjAZ2MFhEUmsGC3MMGuzQnEr1aQsiM7t8LcuxErqDSvusvSzI2DjP5u64xSQxCQ0B088YcOePwXt4DVWy9zZlD03nORY7aQCGI%2BkqcPDY1BMDt8wq7rViLh%2F6K2DqSMUCZK0LEZr2E9jPHOYz%2BA8G5knngPdlEu0OonxhX2H10uwL%2FsUFl74b490qWZaHkgefc9RwJD%2Be9KYaq2bymYc5n1yuN71xO0ot9GqunkDRhgA3obnZPxoMcH52XcXTZP8eL9SXARemZFZ0GpAdNVWpRGQCFnLHeJXDJo%2F%2FUt7B28RXhQFncnNkukvF7rvsi2cQeiXnXyPtv3wHFjAUKGIQrj%2BptZtP25Z3D70Uuw%2BDTt2drGJYOvF%2FzAQwzdmQwQY6mQFjyxLNYp4zvaWI7GsqAigeoiKx73RmO%2BP3oXXu%2FPIMBGUmx80tpqcELH06taz%2FXnHg%2FoON%2B11z70PGDfeHKOF1Lvj%2BwJ6%2FMfEa0N1L5ClaDA%2BpqicOESQuDjeFSiSe00GCc6hqyukwKbGNqCTln6zA7C917K3nlO8oa12J7UaNheiN8S7D8stSsaA7PdIdUITHCEZV76iWzL4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KMJBDOG3I%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e82dab27ca9c77e2e29d12d6fcefa0de3a301b7d692e971a9396849e0752f8e1",
+        "thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff9d955646f5eddde21ef/thumb_tiril.seielstad_afry.com20230620-14191-kllba3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T062503Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJIMEYCIQC1jt63uKeY7GDVqu0Ih8vcgDdy0mTPwA6n%2BQ2gDcAGFAIhAMJMVDNzIEBgg0E3g%2BG%2BP5TeiYiu6oPGbMb1NluVT2LdKo0FCP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNTcxNTgwMDEwMTMyIgxLOyqHIPXakpMvQA4q4QSDka83dAb55lbNRNfucr5ZJlZiFKGCP9gcmduC904PSi2NwnYn3GMbX2oQKZleaX9LRieX5aTUPC%2BsxGfdFuMEuyXpFPeGXSFhDa34Xb9y3Tm7%2BpRMSahHdqkgYAHYt4EdfxvibDP0trmpifg0SkWGKegsahc534U203HWhP%2Fox%2FjM7eo60vinOdRpa5gpZya80K2wghjZ1j92gQn%2FrzVKZriY6Gcky%2FQzBu0zvvM1XMdrZ%2B%2F6JvU242cevitSfCNg%2BL1H8eX3eEmrZHuPKAUI3AjtHuvgXHDHv38RKZwaMvoKQ86Wl6T5eo4CunG1E6X399BfSTNxo3WLv6E9x9%2F%2BCa42uFk0SmqKGNG2V35EewCf7GGQ5GmSygwUpDmy7%2FrfQeg%2FafjJjOixz4EMJ8wdFtXuFHstow5oaLpN0X1xhK7rrkWMR4%2FnjAZ2MFhEUmsGC3MMGuzQnEr1aQsiM7t8LcuxErqDSvusvSzI2DjP5u64xSQxCQ0B088YcOePwXt4DVWy9zZlD03nORY7aQCGI%2BkqcPDY1BMDt8wq7rViLh%2F6K2DqSMUCZK0LEZr2E9jPHOYz%2BA8G5knngPdlEu0OonxhX2H10uwL%2FsUFl74b490qWZaHkgefc9RwJD%2Be9KYaq2bymYc5n1yuN71xO0ot9GqunkDRhgA3obnZPxoMcH52XcXTZP8eL9SXARemZFZ0GpAdNVWpRGQCFnLHeJXDJo%2F%2FUt7B28RXhQFncnNkukvF7rvsi2cQeiXnXyPtv3wHFjAUKGIQrj%2BptZtP25Z3D70Uuw%2BDTt2drGJYOvF%2FzAQwzdmQwQY6mQFjyxLNYp4zvaWI7GsqAigeoiKx73RmO%2BP3oXXu%2FPIMBGUmx80tpqcELH06taz%2FXnHg%2FoON%2B11z70PGDfeHKOF1Lvj%2BwJ6%2FMfEa0N1L5ClaDA%2BpqicOESQuDjeFSiSe00GCc6hqyukwKbGNqCTln6zA7C917K3nlO8oa12J7UaNheiN8S7D8stSsaA7PdIdUITHCEZV76iWzL4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KMJBDOG3I%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4368a4afd6e36c4d674f19f8363e097fb95f4313345c8c8de796d0a543af669a"
+        },
+        "fit_thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff9d955646f5eddde21ef/fit_thumb_tiril.seielstad_afry.com20230620-14191-kllba3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T062503Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJIMEYCIQC1jt63uKeY7GDVqu0Ih8vcgDdy0mTPwA6n%2BQ2gDcAGFAIhAMJMVDNzIEBgg0E3g%2BG%2BP5TeiYiu6oPGbMb1NluVT2LdKo0FCP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNTcxNTgwMDEwMTMyIgxLOyqHIPXakpMvQA4q4QSDka83dAb55lbNRNfucr5ZJlZiFKGCP9gcmduC904PSi2NwnYn3GMbX2oQKZleaX9LRieX5aTUPC%2BsxGfdFuMEuyXpFPeGXSFhDa34Xb9y3Tm7%2BpRMSahHdqkgYAHYt4EdfxvibDP0trmpifg0SkWGKegsahc534U203HWhP%2Fox%2FjM7eo60vinOdRpa5gpZya80K2wghjZ1j92gQn%2FrzVKZriY6Gcky%2FQzBu0zvvM1XMdrZ%2B%2F6JvU242cevitSfCNg%2BL1H8eX3eEmrZHuPKAUI3AjtHuvgXHDHv38RKZwaMvoKQ86Wl6T5eo4CunG1E6X399BfSTNxo3WLv6E9x9%2F%2BCa42uFk0SmqKGNG2V35EewCf7GGQ5GmSygwUpDmy7%2FrfQeg%2FafjJjOixz4EMJ8wdFtXuFHstow5oaLpN0X1xhK7rrkWMR4%2FnjAZ2MFhEUmsGC3MMGuzQnEr1aQsiM7t8LcuxErqDSvusvSzI2DjP5u64xSQxCQ0B088YcOePwXt4DVWy9zZlD03nORY7aQCGI%2BkqcPDY1BMDt8wq7rViLh%2F6K2DqSMUCZK0LEZr2E9jPHOYz%2BA8G5knngPdlEu0OonxhX2H10uwL%2FsUFl74b490qWZaHkgefc9RwJD%2Be9KYaq2bymYc5n1yuN71xO0ot9GqunkDRhgA3obnZPxoMcH52XcXTZP8eL9SXARemZFZ0GpAdNVWpRGQCFnLHeJXDJo%2F%2FUt7B28RXhQFncnNkukvF7rvsi2cQeiXnXyPtv3wHFjAUKGIQrj%2BptZtP25Z3D70Uuw%2BDTt2drGJYOvF%2FzAQwzdmQwQY6mQFjyxLNYp4zvaWI7GsqAigeoiKx73RmO%2BP3oXXu%2FPIMBGUmx80tpqcELH06taz%2FXnHg%2FoON%2B11z70PGDfeHKOF1Lvj%2BwJ6%2FMfEa0N1L5ClaDA%2BpqicOESQuDjeFSiSe00GCc6hqyukwKbGNqCTln6zA7C917K3nlO8oa12J7UaNheiN8S7D8stSsaA7PdIdUITHCEZV76iWzL4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KMJBDOG3I%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=38ee11d76f3683f26f0918d734c229b07de9ba9594a77b1b040bd1a3e755c904"
+        },
+        "large": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff9d955646f5eddde21ef/large_tiril.seielstad_afry.com20230620-14191-kllba3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T062503Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJIMEYCIQC1jt63uKeY7GDVqu0Ih8vcgDdy0mTPwA6n%2BQ2gDcAGFAIhAMJMVDNzIEBgg0E3g%2BG%2BP5TeiYiu6oPGbMb1NluVT2LdKo0FCP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNTcxNTgwMDEwMTMyIgxLOyqHIPXakpMvQA4q4QSDka83dAb55lbNRNfucr5ZJlZiFKGCP9gcmduC904PSi2NwnYn3GMbX2oQKZleaX9LRieX5aTUPC%2BsxGfdFuMEuyXpFPeGXSFhDa34Xb9y3Tm7%2BpRMSahHdqkgYAHYt4EdfxvibDP0trmpifg0SkWGKegsahc534U203HWhP%2Fox%2FjM7eo60vinOdRpa5gpZya80K2wghjZ1j92gQn%2FrzVKZriY6Gcky%2FQzBu0zvvM1XMdrZ%2B%2F6JvU242cevitSfCNg%2BL1H8eX3eEmrZHuPKAUI3AjtHuvgXHDHv38RKZwaMvoKQ86Wl6T5eo4CunG1E6X399BfSTNxo3WLv6E9x9%2F%2BCa42uFk0SmqKGNG2V35EewCf7GGQ5GmSygwUpDmy7%2FrfQeg%2FafjJjOixz4EMJ8wdFtXuFHstow5oaLpN0X1xhK7rrkWMR4%2FnjAZ2MFhEUmsGC3MMGuzQnEr1aQsiM7t8LcuxErqDSvusvSzI2DjP5u64xSQxCQ0B088YcOePwXt4DVWy9zZlD03nORY7aQCGI%2BkqcPDY1BMDt8wq7rViLh%2F6K2DqSMUCZK0LEZr2E9jPHOYz%2BA8G5knngPdlEu0OonxhX2H10uwL%2FsUFl74b490qWZaHkgefc9RwJD%2Be9KYaq2bymYc5n1yuN71xO0ot9GqunkDRhgA3obnZPxoMcH52XcXTZP8eL9SXARemZFZ0GpAdNVWpRGQCFnLHeJXDJo%2F%2FUt7B28RXhQFncnNkukvF7rvsi2cQeiXnXyPtv3wHFjAUKGIQrj%2BptZtP25Z3D70Uuw%2BDTt2drGJYOvF%2FzAQwzdmQwQY6mQFjyxLNYp4zvaWI7GsqAigeoiKx73RmO%2BP3oXXu%2FPIMBGUmx80tpqcELH06taz%2FXnHg%2FoON%2B11z70PGDfeHKOF1Lvj%2BwJ6%2FMfEa0N1L5ClaDA%2BpqicOESQuDjeFSiSe00GCc6hqyukwKbGNqCTln6zA7C917K3nlO8oa12J7UaNheiN8S7D8stSsaA7PdIdUITHCEZV76iWzL4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KMJBDOG3I%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3514bffb3fa6bd15e8192eb5cb068c610d8559a53976d351395179b377393030"
+        },
+        "small_thumb": {
+            "url": "https://cvpartner-images.s3.eu-west-1.amazonaws.com/uploads/production/bruker/image/648ff9d955646f5eddde21ef/small_thumb_tiril.seielstad_afry.com20230620-14191-kllba3.jpg?X-Amz-Expires=1200&X-Amz-Date=20250514T062503Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCWV1LXdlc3QtMSJIMEYCIQC1jt63uKeY7GDVqu0Ih8vcgDdy0mTPwA6n%2BQ2gDcAGFAIhAMJMVDNzIEBgg0E3g%2BG%2BP5TeiYiu6oPGbMb1NluVT2LdKo0FCP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNTcxNTgwMDEwMTMyIgxLOyqHIPXakpMvQA4q4QSDka83dAb55lbNRNfucr5ZJlZiFKGCP9gcmduC904PSi2NwnYn3GMbX2oQKZleaX9LRieX5aTUPC%2BsxGfdFuMEuyXpFPeGXSFhDa34Xb9y3Tm7%2BpRMSahHdqkgYAHYt4EdfxvibDP0trmpifg0SkWGKegsahc534U203HWhP%2Fox%2FjM7eo60vinOdRpa5gpZya80K2wghjZ1j92gQn%2FrzVKZriY6Gcky%2FQzBu0zvvM1XMdrZ%2B%2F6JvU242cevitSfCNg%2BL1H8eX3eEmrZHuPKAUI3AjtHuvgXHDHv38RKZwaMvoKQ86Wl6T5eo4CunG1E6X399BfSTNxo3WLv6E9x9%2F%2BCa42uFk0SmqKGNG2V35EewCf7GGQ5GmSygwUpDmy7%2FrfQeg%2FafjJjOixz4EMJ8wdFtXuFHstow5oaLpN0X1xhK7rrkWMR4%2FnjAZ2MFhEUmsGC3MMGuzQnEr1aQsiM7t8LcuxErqDSvusvSzI2DjP5u64xSQxCQ0B088YcOePwXt4DVWy9zZlD03nORY7aQCGI%2BkqcPDY1BMDt8wq7rViLh%2F6K2DqSMUCZK0LEZr2E9jPHOYz%2BA8G5knngPdlEu0OonxhX2H10uwL%2FsUFl74b490qWZaHkgefc9RwJD%2Be9KYaq2bymYc5n1yuN71xO0ot9GqunkDRhgA3obnZPxoMcH52XcXTZP8eL9SXARemZFZ0GpAdNVWpRGQCFnLHeJXDJo%2F%2FUt7B28RXhQFncnNkukvF7rvsi2cQeiXnXyPtv3wHFjAUKGIQrj%2BptZtP25Z3D70Uuw%2BDTt2drGJYOvF%2FzAQwzdmQwQY6mQFjyxLNYp4zvaWI7GsqAigeoiKx73RmO%2BP3oXXu%2FPIMBGUmx80tpqcELH06taz%2FXnHg%2FoON%2B11z70PGDfeHKOF1Lvj%2BwJ6%2FMfEa0N1L5ClaDA%2BpqicOESQuDjeFSiSe00GCc6hqyukwKbGNqCTln6zA7C917K3nlO8oa12J7UaNheiN8S7D8stSsaA7PdIdUITHCEZV76iWzL4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYKFGSZ2KMJBDOG3I%2F20250514%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=94ebaca3eea1f8c0152dacf21bd362740964ac35fb3f0d0c32c04374a22b7fc9"
+        }
+    },
+    "can_write": false
+}
