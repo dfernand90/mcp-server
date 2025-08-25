@@ -6,6 +6,7 @@ from modelling.azure_rag import (
     load_or_create_index as load_or_create_text_index,
     send_query as query_text_index
 )
+"""
 from modelling.llamaindex_multimodal_rag import (
     patch_transformers,
     setup_logger as setup_logger_image,
@@ -15,6 +16,7 @@ from modelling.llamaindex_multimodal_rag import (
     run_retrieval as query_image_index,
     plot_images
 )
+"""
 
 # ---------------------- Text Index Module ----------------------
 def create_or_load_text_index_module(persist_dir, documents_dir):
@@ -25,6 +27,7 @@ def create_or_load_text_index_module(persist_dir, documents_dir):
     return query_engine, logger
 
 # ---------------------- Multimodal Index Module ----------------------
+"""
 def create_or_load_multimodal_index_module(images_path, db_path):
     patch_transformers()
     logger = setup_logger_image()
@@ -32,18 +35,19 @@ def create_or_load_multimodal_index_module(images_path, db_path):
     _, embed_model = initialize_models_image(env, logger)
     index = load_create_multimodal_index(images_path, db_path, embed_model, logger)
     return index, logger
-
+"""
 # ---------------------- Text Query Module ----------------------
 def query_text_module(query_engine, prompt, logger):
     response = query_text_index(query_engine, prompt, logger)
     return response
 
 # ---------------------- Multimodal Query Module ----------------------
+"""
 def query_multimodal_module(index, query, logger):
     retrieved_image = query_image_index(index, query, logger)
     plot_images(retrieved_image, logger)
     return retrieved_image
-
+"""
 
 # ---------------------- Main Execution ----------------------
 if __name__ == "__main__":
