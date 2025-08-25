@@ -61,11 +61,8 @@ jobs:
           client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_736C58B388FD4B049E757C834A336A4B }}
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_06D5F1711F45418D9E4AA6180A57BF10 }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_AC17A06EDCFB4100A9B7D47374ABB08C }}
+      
+      - name: Make startup.sh executable
+        run: chmod +x startup.sh
 
-      - name: 'Deploy to Azure Web App'
-        uses: azure/webapps-deploy@v3
-        id: deploy-to-webapp
-        with:
-          app-name: 'tilbudAgentAppV1'
-          slot-name: 'Production'
           
