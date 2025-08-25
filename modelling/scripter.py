@@ -1,8 +1,6 @@
 from modelling.utils import(
     create_or_load_text_index_module, 
-    query_text_module, 
-    create_or_load_multimodal_index_module,
-    query_multimodal_module
+    query_text_module,
 )
 from template_code.sora_curl import send_sora_request
 from template_code.gpt4tts_curl import send_gpt4tts_request
