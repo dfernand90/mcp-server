@@ -20,7 +20,7 @@ source venv/bin/activate
 # Install/upgrade dependencies
 echo "Installing dependencies from startup.sh..."
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirements_full.txt
 
 # Set port from Azure environment variable
 export PORT=${PORT:-8000}
