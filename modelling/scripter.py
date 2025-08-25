@@ -2,8 +2,8 @@ from modelling.utils import(
     create_or_load_text_index_module, 
     query_text_module,
 )
-from template_code.sora_curl import send_sora_request
-from template_code.gpt4tts_curl import send_gpt4tts_request
+#from template_code.sora_curl import send_sora_request
+from modelling.gpt4tts_curl import send_gpt4tts_request
 from modelling.flux_image_generation import create_image_flux, edit_image_flux
 from azure.identity import DefaultAzureCredential
 import random
