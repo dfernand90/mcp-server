@@ -105,7 +105,7 @@ async def handle_video_request(request: Request):
             status_code=500
         )
 
-@app.post("/brochure")
+@app.get("/brochure")
 async def handle_brochure_request(request: Request):
     """Handle MCP requests via HTTP POST"""
     try:
